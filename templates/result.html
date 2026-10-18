@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+{% block title %}Estimated Price | ApnaGhar{% endblock %}
+{% block content %}
+<section class="result-hero">
+  <div class="eyebrow">YOUR PRICE ESTIMATE</div><h1>Estimated property value</h1>
+  <div class="price">{{ money(estimate) }}</div>
+  <p>Indicative estimate for {{ payload.bedrooms }} BHK · {{ "{:,}".format(payload.area_sqft) }} sq ft in {{ payload.locality }}, {{ payload.city }}.</p>
+  <div class="result-actions"><a class="button" href="{{ url_for('index') }}">Estimate another property</a><a class="button button-light" href="{{ url_for('recommend') }}">Find matching properties</a></div>
+</section>
+<section class="panel"><div class="section-heading"><div><div class="eyebrow">INPUT SUMMARY</div><h2>Details used by the model</h2></div></div>
+<div class="details-grid">
+{% for label, value in [('City',payload.city),('Locality',payload.locality),('Area',"{:,}".format(payload.area_sqft) + " sq ft"),('Bedrooms',payload.bedrooms),('Bathrooms',payload.bathrooms),('Type',payload.property_type),('Furnishing',payload.furnishing),('Parking',payload.parking),('Age',payload.age_years ~ " years")] %}
+<div class="detail"><span>{{ label }}</span><strong>{{ value }}</strong></div>
+{% endfor %}
+</div>
+{% if metrics %}<div class="metrics"><div><span>Model MAE</span><strong>{{ money(metrics.mae_inr) }}</strong></div><div><span>Model R²</span><strong>{{ metrics.r2 }}</strong></div><p>Evaluation is based on the included demo dataset. It does not represent real-world accuracy.</p></div>{% endif %}
+<p class="notice">Important: the bundled data is synthetic and intended only to demonstrate the application workflow. Do not use this estimate for a purchase, sale, loan, or investment decision.</p>
+</section>
+{% endblock %}

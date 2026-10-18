@@ -1,0 +1,1801 @@
+property_id,city,locality,area_sqft,bedrooms,bathrooms,property_type,furnishing,parking,age_years,price_inr
+P00001,Delhi,Janakpuri,2250,4,4,Independent House,Unfurnished,2,22,23311958
+P00002,Hyderabad,Miyapur,802,1,1,Independent House,Semi-Furnished,2,11,7865863
+P00003,Mumbai,Borivali,703,1,1,Independent House,Semi-Furnished,1,21,12384428
+P00004,Ghaziabad,Raj Nagar,2906,4,5,Apartment,Unfurnished,1,6,17008914
+P00005,Kolkata,Dum Dum,1458,2,3,Apartment,Semi-Furnished,1,14,7519249
+P00006,Noida,Sector 137,1074,2,3,Independent House,Semi-Furnished,1,13,8373947
+P00007,Mumbai,Powai,2765,4,4,Independent House,Unfurnished,1,24,47659926
+P00008,Delhi,Janakpuri,2279,2,1,Apartment,Semi-Furnished,0,24,23896654
+P00009,Mumbai,Navi Mumbai,2250,2,2,Independent House,Semi-Furnished,1,2,43910590
+P00010,Bengaluru,HSR Layout,534,1,2,Apartment,Furnished,1,6,5582208
+P00011,Hyderabad,Kondapur,2974,5,4,Apartment,Semi-Furnished,1,12,24285931
+P00012,Mumbai,Borivali,909,1,1,Independent House,Semi-Furnished,1,2,15829433
+P00013,Kolkata,New Town,1818,3,4,Apartment,Unfurnished,1,18,7509401
+P00014,Ghaziabad,Vaishali,774,1,1,Independent House,Unfurnished,2,28,4437833
+P00015,Ghaziabad,Crossings Republik,2620,4,4,Apartment,Furnished,1,21,16236739
+P00016,Noida,Greater Noida West,2043,3,3,Independent House,Semi-Furnished,1,26,17337170
+P00017,Noida,Sector 150,710,1,1,Apartment,Unfurnished,1,5,5360705
+P00018,Ghaziabad,Crossings Republik,734,1,2,Independent House,Semi-Furnished,1,5,5400195
+P00019,Ghaziabad,Indirapuram,866,1,2,Independent House,Unfurnished,1,20,5137493
+P00020,Mumbai,Andheri,2022,2,3,Apartment,Semi-Furnished,1,8,28379835
+P00021,Ghaziabad,Kaushambi,477,1,2,Apartment,Unfurnished,1,3,3088867
+P00022,Ghaziabad,Crossings Republik,2449,4,3,Independent House,Unfurnished,0,3,15811998
+P00023,Bengaluru,Electronic City,1302,3,4,Apartment,Furnished,1,19,12804566
+P00024,Bengaluru,Yelahanka,3025,5,5,Apartment,Furnished,2,1,38951636
+P00025,Hyderabad,Uppal,1064,2,3,Apartment,Semi-Furnished,1,12,9634456
+P00026,Ghaziabad,Crossings Republik,2504,4,3,Apartment,Unfurnished,2,29,13278271
+P00027,Pune,Hinjewadi,1460,1,1,Apartment,Semi-Furnished,2,15,11018020
+P00028,Bengaluru,Yelahanka,488,2,1,Apartment,Unfurnished,1,4,5037680
+P00029,Hyderabad,Miyapur,1597,2,1,Independent House,Semi-Furnished,0,13,15224831
+P00030,Delhi,Dwarka,1543,2,1,Apartment,Furnished,1,15,13476644
+P00031,Mumbai,Andheri,2092,3,3,Apartment,Unfurnished,1,0,34340030
+P00032,Kolkata,New Town,3016,4,4,Independent House,Unfurnished,0,14,15399134
+P00033,Ghaziabad,Crossings Republik,1723,3,2,Apartment,Furnished,1,8,10305111
+P00034,Mumbai,Andheri,2243,2,1,Apartment,Unfurnished,1,14,34806854
+P00035,Kolkata,New Town,2875,4,3,Apartment,Furnished,1,28,14952171
+P00036,Noida,Sector 150,905,1,1,Apartment,Unfurnished,0,4,6652769
+P00037,Hyderabad,Gachibowli,1630,3,3,Apartment,Unfurnished,1,22,10752277
+P00038,Kolkata,Behala,569,1,1,Apartment,Semi-Furnished,0,7,2847679
+P00039,Delhi,Laxmi Nagar,743,1,1,Apartment,Furnished,2,7,8025562
+P00040,Kolkata,Behala,2594,4,4,Apartment,Semi-Furnished,1,24,14834523
+P00041,Hyderabad,Miyapur,2607,4,4,Apartment,Unfurnished,1,5,23885929
+P00042,Mumbai,Borivali,1461,3,4,Apartment,Semi-Furnished,1,10,23838376
+P00043,Pune,Baner,2799,5,5,Apartment,Furnished,1,6,26266688
+P00044,Hyderabad,Kukatpally,2191,3,2,Apartment,Semi-Furnished,2,22,17835545
+P00045,Kolkata,Dum Dum,2200,5,4,Apartment,Furnished,0,29,11534606
+P00046,Kolkata,Behala,2083,4,5,Villa,Unfurnished,1,24,14181499
+P00047,Bengaluru,HSR Layout,911,2,1,Apartment,Semi-Furnished,1,22,9384824
+P00048,Hyderabad,Miyapur,1803,1,1,Apartment,Unfurnished,0,28,13353566
+P00049,Pune,Kharadi,2985,5,5,Apartment,Furnished,1,19,23646687
+P00050,Ghaziabad,Raj Nagar,1315,2,3,Villa,Semi-Furnished,1,4,12124988
+P00051,Noida,Sector 150,3060,5,5,Apartment,Semi-Furnished,2,0,25167038
+P00052,Pune,Kharadi,775,3,4,Apartment,Semi-Furnished,1,19,6606747
+P00053,Delhi,Saket,2437,3,4,Apartment,Semi-Furnished,1,15,23589599
+P00054,Kolkata,Behala,754,1,1,Apartment,Furnished,0,27,3975476
+P00055,Bengaluru,Whitefield,2322,4,5,Apartment,Unfurnished,1,25,18894651
+P00056,Noida,Sector 137,2255,3,2,Apartment,Semi-Furnished,2,0,14899268
+P00057,Ghaziabad,Kaushambi,1123,2,1,Independent House,Semi-Furnished,1,25,7533329
+P00058,Hyderabad,Gachibowli,793,1,1,Apartment,Furnished,1,23,5292866
+P00059,Delhi,Dwarka,493,1,1,Villa,Semi-Furnished,0,2,6813640
+P00060,Bengaluru,Electronic City,2882,3,3,Apartment,Unfurnished,2,5,25761627
+P00061,Bengaluru,HSR Layout,1150,2,2,Apartment,Furnished,1,12,13391174
+P00062,Bengaluru,Electronic City,2236,4,3,Apartment,Semi-Furnished,1,4,25845815
+P00063,Kolkata,New Town,3057,5,4,Apartment,Semi-Furnished,1,30,13155193
+P00064,Mumbai,Powai,1048,1,1,Apartment,Semi-Furnished,1,9,18459357
+P00065,Delhi,Saket,1415,2,2,Apartment,Semi-Furnished,1,7,15057820
+P00066,Hyderabad,Gachibowli,1636,3,3,Apartment,Semi-Furnished,2,11,13239827
+P00067,Hyderabad,Miyapur,2467,3,3,Apartment,Furnished,1,1,22922070
+P00068,Delhi,Laxmi Nagar,2766,5,4,Apartment,Unfurnished,1,8,24051756
+P00069,Kolkata,New Town,1651,1,2,Apartment,Unfurnished,1,20,5514411
+P00070,Delhi,Saket,3086,5,5,Apartment,Semi-Furnished,1,23,27672299
+P00071,Kolkata,Dum Dum,1367,3,2,Apartment,Unfurnished,1,12,8375379
+P00072,Hyderabad,Uppal,1979,2,3,Apartment,Semi-Furnished,1,30,17671610
+P00073,Hyderabad,Kukatpally,563,2,2,Apartment,Unfurnished,2,29,3966715
+P00074,Delhi,Dwarka,1253,2,3,Apartment,Unfurnished,1,18,9811394
+P00075,Hyderabad,Kukatpally,1980,3,3,Independent House,Unfurnished,1,23,18403762
+P00076,Bengaluru,Yelahanka,2773,5,5,Independent House,Semi-Furnished,2,23,30709234
+P00077,Delhi,Laxmi Nagar,1506,2,2,Apartment,Furnished,1,12,17240629
+P00078,Noida,Sector 137,977,1,1,Apartment,Unfurnished,1,28,6194662
+P00079,Mumbai,Borivali,918,2,3,Villa,Semi-Furnished,1,30,18359155
+P00080,Hyderabad,Miyapur,2432,3,3,Independent House,Unfurnished,1,24,18840080
+P00081,Pune,Kharadi,3095,5,5,Villa,Unfurnished,1,30,32207923
+P00082,Pune,Hinjewadi,790,1,1,Apartment,Furnished,1,24,5221484
+P00083,Noida,Sector 150,653,2,3,Apartment,Furnished,2,13,5436800
+P00084,Hyderabad,Gachibowli,1475,3,3,Apartment,Semi-Furnished,1,3,10959575
+P00085,Pune,Hadapsar,1532,3,4,Apartment,Semi-Furnished,2,13,13619270
+P00086,Delhi,Rohini,2313,4,5,Independent House,Semi-Furnished,1,12,20466813
+P00087,Bengaluru,Electronic City,2594,4,5,Apartment,Semi-Furnished,1,17,22078558
+P00088,Kolkata,Dum Dum,683,1,1,Independent House,Furnished,1,22,4311422
+P00089,Bengaluru,Whitefield,778,1,1,Apartment,Furnished,1,10,8642031
+P00090,Noida,Sector 62,634,1,1,Apartment,Semi-Furnished,1,0,4501831
+P00091,Kolkata,Tollygunge,3097,4,5,Apartment,Furnished,1,17,18691419
+P00092,Ghaziabad,Vaishali,1906,1,1,Apartment,Unfurnished,1,18,10477108
+P00093,Noida,Sector 62,1404,2,3,Apartment,Semi-Furnished,1,19,9864670
+P00094,Mumbai,Powai,3186,5,4,Independent House,Semi-Furnished,1,25,58750430
+P00095,Ghaziabad,Indirapuram,1625,2,2,Apartment,Semi-Furnished,0,29,7418702
+P00096,Kolkata,Salt Lake,563,1,1,Apartment,Semi-Furnished,1,2,3062239
+P00097,Hyderabad,Gachibowli,2198,4,4,Independent House,Unfurnished,1,15,19153552
+P00098,Mumbai,Andheri,454,1,1,Apartment,Semi-Furnished,1,26,5254839
+P00099,Mumbai,Thane,1966,2,3,Apartment,Unfurnished,1,28,24334846
+P00100,Mumbai,Borivali,1077,2,1,Apartment,Semi-Furnished,1,28,14797598
+P00101,Bengaluru,Whitefield,1327,2,1,Apartment,Unfurnished,0,4,9802783
+P00102,Delhi,Saket,1114,3,2,Independent House,Unfurnished,2,18,13346093
+P00103,Mumbai,Andheri,2916,4,5,Apartment,Furnished,1,30,45830190
+P00104,Bengaluru,Whitefield,1444,2,1,Independent House,Semi-Furnished,1,9,16217754
+P00105,Pune,Wakad,2714,4,3,Apartment,Unfurnished,1,20,23317090
+P00106,Pune,Wakad,2481,5,4,Apartment,Unfurnished,0,27,16332216
+P00107,Delhi,Dwarka,2635,3,3,Apartment,Unfurnished,2,17,22250090
+P00108,Bengaluru,Sarjapur,2918,5,5,Apartment,Unfurnished,0,16,24505868
+P00109,Noida,Sector 137,1394,1,1,Apartment,Semi-Furnished,1,26,9261592
+P00110,Hyderabad,Kukatpally,2130,3,3,Apartment,Semi-Furnished,1,12,17726192
+P00111,Pune,Baner,862,1,1,Apartment,Semi-Furnished,1,13,7306544
+P00112,Mumbai,Navi Mumbai,2897,4,3,Apartment,Furnished,1,21,50469050
+P00113,Kolkata,Tollygunge,3155,4,5,Apartment,Semi-Furnished,2,20,17291707
+P00114,Mumbai,Andheri,2490,2,2,Apartment,Unfurnished,2,24,29561250
+P00115,Hyderabad,Kukatpally,1833,4,3,Independent House,Unfurnished,2,30,18066656
+P00116,Mumbai,Powai,2891,5,5,Apartment,Semi-Furnished,1,9,50565982
+P00117,Bengaluru,Yelahanka,1837,3,3,Apartment,Semi-Furnished,0,10,20204000
+P00118,Noida,Sector 62,1383,3,4,Apartment,Semi-Furnished,2,7,9338870
+P00119,Mumbai,Borivali,3133,5,4,Apartment,Unfurnished,0,0,48673188
+P00120,Mumbai,Borivali,2245,2,3,Apartment,Unfurnished,1,3,32356033
+P00121,Hyderabad,Uppal,739,1,2,Villa,Unfurnished,0,29,8024455
+P00122,Ghaziabad,Raj Nagar,716,1,2,Apartment,Unfurnished,1,19,3809872
+P00123,Delhi,Laxmi Nagar,1481,2,2,Apartment,Semi-Furnished,1,3,15627705
+P00124,Hyderabad,Gachibowli,1018,1,1,Independent House,Unfurnished,1,3,8109292
+P00125,Bengaluru,Whitefield,2240,4,4,Apartment,Semi-Furnished,2,17,18747161
+P00126,Hyderabad,Miyapur,1910,4,3,Apartment,Furnished,2,7,16140314
+P00127,Ghaziabad,Raj Nagar,1226,2,2,Apartment,Semi-Furnished,0,11,7312295
+P00128,Noida,Sector 62,1776,4,3,Apartment,Unfurnished,1,5,13181147
+P00129,Mumbai,Andheri,882,2,3,Apartment,Semi-Furnished,1,16,12657562
+P00130,Bengaluru,Yelahanka,3169,5,5,Apartment,Unfurnished,2,22,28187832
+P00131,Bengaluru,Whitefield,3013,4,4,Apartment,Semi-Furnished,1,25,26577522
+P00132,Noida,Sector 150,1654,2,3,Villa,Unfurnished,0,0,18388399
+P00133,Hyderabad,Gachibowli,1644,2,1,Apartment,Furnished,1,12,14179536
+P00134,Pune,Wakad,2265,2,1,Villa,Unfurnished,1,14,25950885
+P00135,Kolkata,Tollygunge,2055,2,1,Independent House,Semi-Furnished,2,14,12906555
+P00136,Bengaluru,Whitefield,1282,3,4,Independent House,Semi-Furnished,1,11,14575098
+P00137,Bengaluru,Sarjapur,2444,4,5,Apartment,Unfurnished,1,14,23180668
+P00138,Mumbai,Powai,702,2,1,Apartment,Unfurnished,1,20,11905729
+P00139,Noida,Sector 75,3035,4,5,Apartment,Unfurnished,1,23,22184410
+P00140,Noida,Sector 137,2306,4,5,Apartment,Semi-Furnished,2,6,14017183
+P00141,Pune,Wakad,1296,3,3,Villa,Semi-Furnished,1,16,14471336
+P00142,Delhi,Janakpuri,2857,5,5,Villa,Furnished,1,13,44889452
+P00143,Pune,Kharadi,1668,2,2,Apartment,Furnished,2,9,15260604
+P00144,Hyderabad,Gachibowli,2499,4,3,Apartment,Semi-Furnished,1,23,18361978
+P00145,Pune,Wakad,1290,2,1,Apartment,Unfurnished,2,9,9705001
+P00146,Hyderabad,Kondapur,470,1,1,Independent House,Unfurnished,1,24,3641807
+P00147,Delhi,Rohini,1689,2,3,Apartment,Semi-Furnished,1,27,16531520
+P00148,Kolkata,Dum Dum,641,1,1,Apartment,Furnished,1,24,3231541
+P00149,Pune,Baner,2033,3,2,Apartment,Semi-Furnished,1,24,16340197
+P00150,Pune,Hinjewadi,3199,5,4,Independent House,Furnished,1,2,33391776
+P00151,Noida,Sector 150,1027,2,1,Apartment,Semi-Furnished,2,28,8010002
+P00152,Hyderabad,Kondapur,1334,3,4,Apartment,Furnished,0,24,10575147
+P00153,Kolkata,New Town,1346,2,1,Apartment,Unfurnished,0,2,6565132
+P00154,Mumbai,Andheri,545,1,2,Apartment,Unfurnished,2,25,6547663
+P00155,Bengaluru,Sarjapur,1701,4,5,Apartment,Semi-Furnished,1,10,17089710
+P00156,Hyderabad,Miyapur,2513,5,4,Apartment,Unfurnished,1,11,21014332
+P00157,Hyderabad,Gachibowli,1377,3,2,Independent House,Semi-Furnished,2,26,11013753
+P00158,Noida,Sector 62,1684,3,2,Villa,Furnished,1,27,15190623
+P00159,Mumbai,Navi Mumbai,3054,4,3,Apartment,Semi-Furnished,2,11,46281269
+P00160,Pune,Kharadi,586,1,1,Apartment,Semi-Furnished,1,15,4287418
+P00161,Ghaziabad,Raj Nagar,883,2,2,Apartment,Unfurnished,1,19,5144343
+P00162,Pune,Wakad,452,1,1,Apartment,Unfurnished,2,27,3934585
+P00163,Hyderabad,Miyapur,2762,5,5,Apartment,Semi-Furnished,1,9,25462427
+P00164,Pune,Baner,722,1,1,Apartment,Unfurnished,2,13,5976088
+P00165,Ghaziabad,Vaishali,1122,3,2,Apartment,Semi-Furnished,1,24,5786788
+P00166,Kolkata,Dum Dum,724,1,1,Apartment,Unfurnished,2,3,4126425
+P00167,Delhi,Laxmi Nagar,2353,4,4,Apartment,Semi-Furnished,1,14,25047591
+P00168,Kolkata,Tollygunge,2667,4,5,Apartment,Semi-Furnished,2,30,14326800
+P00169,Hyderabad,Kondapur,2636,4,4,Apartment,Unfurnished,0,24,17187108
+P00170,Hyderabad,Miyapur,1436,2,2,Apartment,Furnished,2,13,12123105
+P00171,Hyderabad,Kondapur,1195,3,3,Apartment,Semi-Furnished,1,11,10209595
+P00172,Ghaziabad,Indirapuram,1491,4,3,Independent House,Semi-Furnished,1,5,9367664
+P00173,Hyderabad,Kukatpally,1914,2,1,Independent House,Semi-Furnished,1,30,18780008
+P00174,Delhi,Laxmi Nagar,1529,3,4,Apartment,Unfurnished,1,17,15353041
+P00175,Delhi,Dwarka,1373,1,2,Apartment,Semi-Furnished,0,17,10493739
+P00176,Hyderabad,Uppal,2867,5,5,Apartment,Unfurnished,1,17,19650874
+P00177,Noida,Sector 150,1112,1,2,Independent House,Unfurnished,1,29,7009221
+P00178,Kolkata,Salt Lake,2680,5,4,Villa,Semi-Furnished,1,17,16488779
+P00179,Noida,Sector 150,804,2,1,Independent House,Unfurnished,1,22,6302310
+P00180,Hyderabad,Uppal,1881,2,2,Apartment,Semi-Furnished,1,21,13782336
+P00181,Noida,Sector 62,2048,3,3,Apartment,Unfurnished,1,15,12067757
+P00182,Ghaziabad,Raj Nagar,3056,5,4,Villa,Unfurnished,1,25,26729497
+P00183,Kolkata,Dum Dum,1439,3,3,Apartment,Semi-Furnished,2,14,8329091
+P00184,Kolkata,Salt Lake,2391,4,4,Apartment,Furnished,2,27,12666195
+P00185,Delhi,Laxmi Nagar,3027,4,3,Independent House,Semi-Furnished,1,24,35940435
+P00186,Mumbai,Andheri,3115,5,5,Apartment,Furnished,0,5,51674013
+P00187,Noida,Sector 75,1937,4,5,Independent House,Furnished,0,28,17167603
+P00188,Hyderabad,Kondapur,1945,3,2,Independent House,Semi-Furnished,1,30,16043450
+P00189,Ghaziabad,Vaishali,986,2,2,Apartment,Semi-Furnished,1,6,6386088
+P00190,Kolkata,New Town,546,1,2,Villa,Unfurnished,1,6,4072500
+P00191,Hyderabad,Uppal,561,1,1,Apartment,Unfurnished,1,4,5022206
+P00192,Bengaluru,Electronic City,1927,3,4,Independent House,Semi-Furnished,2,6,23707364
+P00193,Noida,Sector 137,758,3,2,Apartment,Furnished,1,10,5864523
+P00194,Hyderabad,Miyapur,952,2,1,Apartment,Semi-Furnished,1,20,8010859
+P00195,Kolkata,New Town,2417,3,4,Apartment,Semi-Furnished,1,0,12158761
+P00196,Bengaluru,Electronic City,3186,4,4,Apartment,Unfurnished,1,14,32601354
+P00197,Pune,Hadapsar,2131,5,4,Apartment,Furnished,1,22,19376534
+P00198,Delhi,Janakpuri,2233,3,4,Apartment,Furnished,1,13,26162373
+P00199,Mumbai,Navi Mumbai,2590,3,4,Apartment,Semi-Furnished,2,11,36510031
+P00200,Bengaluru,Sarjapur,1714,2,2,Apartment,Unfurnished,1,23,12539366
+P00201,Noida,Greater Noida West,2464,5,4,Villa,Unfurnished,1,12,27688148
+P00202,Ghaziabad,Indirapuram,2878,5,4,Apartment,Semi-Furnished,1,21,15387142
+P00203,Mumbai,Borivali,1133,2,1,Apartment,Semi-Furnished,0,13,16848135
+P00204,Mumbai,Thane,2507,4,3,Independent House,Unfurnished,1,13,42555615
+P00205,Noida,Sector 150,1394,1,1,Independent House,Unfurnished,1,11,11679574
+P00206,Noida,Sector 75,1283,1,2,Independent House,Furnished,1,7,11621122
+P00207,Delhi,Laxmi Nagar,2165,1,2,Independent House,Furnished,1,11,28549314
+P00208,Mumbai,Navi Mumbai,493,1,1,Apartment,Semi-Furnished,1,15,6998267
+P00209,Kolkata,New Town,2411,4,3,Independent House,Furnished,2,3,15932342
+P00210,Kolkata,New Town,1554,2,3,Villa,Unfurnished,1,18,10793703
+P00211,Noida,Sector 62,1065,1,1,Villa,Semi-Furnished,2,0,10596951
+P00212,Pune,Hadapsar,932,2,3,Independent House,Unfurnished,1,8,8429118
+P00213,Mumbai,Borivali,3091,4,3,Apartment,Semi-Furnished,1,21,42372447
+P00214,Ghaziabad,Crossings Republik,2573,4,5,Apartment,Unfurnished,1,25,11434494
+P00215,Kolkata,New Town,1024,1,1,Independent House,Unfurnished,1,10,4673425
+P00216,Pune,Wakad,969,1,1,Apartment,Furnished,1,12,7697849
+P00217,Noida,Greater Noida West,903,2,2,Independent House,Unfurnished,1,2,8850360
+P00218,Hyderabad,Miyapur,1738,2,1,Apartment,Unfurnished,1,5,13708784
+P00219,Bengaluru,Yelahanka,2200,3,2,Apartment,Unfurnished,2,15,27241537
+P00220,Mumbai,Thane,2779,5,4,Apartment,Semi-Furnished,1,1,47784069
+P00221,Mumbai,Powai,2139,2,3,Apartment,Unfurnished,2,16,30411349
+P00222,Ghaziabad,Raj Nagar,2540,4,3,Villa,Semi-Furnished,1,24,19965036
+P00223,Noida,Sector 150,3158,5,5,Independent House,Unfurnished,0,30,23707691
+P00224,Noida,Sector 75,1840,4,5,Independent House,Furnished,1,12,17495975
+P00225,Ghaziabad,Crossings Republik,1145,1,1,Independent House,Furnished,1,25,8916288
+P00226,Kolkata,Salt Lake,1418,2,2,Villa,Unfurnished,1,14,10065908
+P00227,Delhi,Rohini,1871,3,4,Villa,Furnished,1,7,24498756
+P00228,Hyderabad,Kondapur,2118,4,5,Apartment,Unfurnished,1,25,14551849
+P00229,Bengaluru,Sarjapur,1754,3,2,Independent House,Unfurnished,1,12,18528297
+P00230,Kolkata,Salt Lake,2512,4,4,Independent House,Furnished,1,26,15151040
+P00231,Mumbai,Navi Mumbai,2648,3,2,Apartment,Furnished,1,3,37328296
+P00232,Pune,Baner,1912,4,3,Apartment,Unfurnished,2,13,15824859
+P00233,Delhi,Rohini,3122,5,5,Villa,Furnished,2,25,42920408
+P00234,Ghaziabad,Vaishali,1032,2,1,Apartment,Furnished,0,3,6291031
+P00235,Bengaluru,Yelahanka,2471,4,4,Apartment,Furnished,1,13,24545763
+P00236,Bengaluru,Sarjapur,1680,3,2,Apartment,Semi-Furnished,1,14,16096820
+P00237,Hyderabad,Kondapur,2649,3,4,Independent House,Furnished,0,27,22392219
+P00238,Hyderabad,Kukatpally,1045,1,1,Apartment,Semi-Furnished,1,28,8616388
+P00239,Ghaziabad,Crossings Republik,1674,2,2,Apartment,Semi-Furnished,1,17,8936627
+P00240,Pune,Hadapsar,1679,2,2,Apartment,Semi-Furnished,1,2,14528936
+P00241,Delhi,Janakpuri,3093,5,5,Apartment,Furnished,1,29,27352586
+P00242,Bengaluru,Yelahanka,2478,4,4,Apartment,Furnished,1,15,29544854
+P00243,Kolkata,Tollygunge,1861,3,3,Apartment,Unfurnished,0,20,9653390
+P00244,Mumbai,Thane,2467,4,3,Apartment,Furnished,1,17,38040092
+P00245,Noida,Sector 137,1537,2,2,Independent House,Unfurnished,2,29,11301489
+P00246,Bengaluru,Sarjapur,2787,3,4,Apartment,Unfurnished,1,6,26092346
+P00247,Hyderabad,Uppal,474,1,2,Apartment,Furnished,2,9,4748928
+P00248,Noida,Sector 75,2741,5,5,Villa,Furnished,2,13,32554264
+P00249,Kolkata,Salt Lake,553,1,1,Apartment,Semi-Furnished,1,12,3292501
+P00250,Mumbai,Powai,1367,2,2,Apartment,Furnished,1,3,20610311
+P00251,Delhi,Janakpuri,3158,5,5,Apartment,Unfurnished,1,27,29995651
+P00252,Ghaziabad,Indirapuram,601,1,2,Independent House,Unfurnished,1,0,3981033
+P00253,Pune,Kharadi,1502,3,2,Independent House,Unfurnished,1,18,13223729
+P00254,Kolkata,Dum Dum,862,2,3,Independent House,Semi-Furnished,2,20,4859049
+P00255,Bengaluru,Electronic City,2983,5,5,Apartment,Unfurnished,1,14,27552710
+P00256,Pune,Wakad,1658,3,2,Independent House,Furnished,1,18,16820836
+P00257,Hyderabad,Miyapur,2157,2,2,Apartment,Unfurnished,1,5,16614704
+P00258,Mumbai,Andheri,2717,4,4,Independent House,Unfurnished,2,6,39406335
+P00259,Bengaluru,Whitefield,2851,4,5,Independent House,Furnished,1,24,23488760
+P00260,Delhi,Dwarka,2138,1,1,Apartment,Unfurnished,1,12,16410355
+P00261,Pune,Hadapsar,954,2,3,Apartment,Unfurnished,2,4,8919156
+P00262,Pune,Baner,930,1,2,Villa,Semi-Furnished,1,14,12799636
+P00263,Pune,Wakad,999,1,2,Apartment,Furnished,1,2,7323722
+P00264,Pune,Kharadi,864,1,2,Apartment,Unfurnished,1,20,6754989
+P00265,Noida,Sector 137,1857,2,2,Apartment,Furnished,1,24,12732237
+P00266,Kolkata,New Town,768,1,2,Apartment,Unfurnished,1,15,3851186
+P00267,Bengaluru,Electronic City,1700,2,1,Apartment,Semi-Furnished,1,13,18436747
+P00268,Delhi,Rohini,1478,3,4,Apartment,Unfurnished,1,3,14023629
+P00269,Hyderabad,Uppal,466,1,1,Apartment,Unfurnished,1,23,3586510
+P00270,Ghaziabad,Crossings Republik,725,1,2,Apartment,Semi-Furnished,1,29,4195567
+P00271,Hyderabad,Kukatpally,1830,2,2,Villa,Unfurnished,1,29,20042318
+P00272,Bengaluru,HSR Layout,1375,3,2,Apartment,Furnished,1,0,14283644
+P00273,Noida,Greater Noida West,1250,2,2,Villa,Unfurnished,1,1,14651578
+P00274,Delhi,Dwarka,3008,5,5,Apartment,Semi-Furnished,2,30,21727381
+P00275,Noida,Sector 137,1587,3,4,Apartment,Furnished,1,21,11091450
+P00276,Ghaziabad,Raj Nagar,1527,3,4,Apartment,Semi-Furnished,1,21,9222389
+P00277,Mumbai,Borivali,1284,1,2,Apartment,Furnished,1,8,19972911
+P00278,Noida,Sector 150,1392,3,3,Apartment,Unfurnished,1,15,9909180
+P00279,Ghaziabad,Kaushambi,2943,3,4,Independent House,Semi-Furnished,2,15,20715120
+P00280,Ghaziabad,Indirapuram,1878,3,4,Apartment,Unfurnished,2,5,9950104
+P00281,Ghaziabad,Indirapuram,3049,3,2,Apartment,Unfurnished,1,8,15768966
+P00282,Noida,Sector 150,1509,1,1,Apartment,Unfurnished,1,10,10772928
+P00283,Bengaluru,Yelahanka,1416,2,3,Apartment,Unfurnished,1,2,15753119
+P00284,Hyderabad,Miyapur,2913,5,4,Independent House,Unfurnished,2,23,21733077
+P00285,Kolkata,Tollygunge,1675,1,2,Apartment,Unfurnished,1,22,9680700
+P00286,Hyderabad,Miyapur,2807,4,5,Apartment,Unfurnished,1,8,22659150
+P00287,Kolkata,Salt Lake,2789,4,4,Apartment,Furnished,1,23,14467632
+P00288,Ghaziabad,Indirapuram,1599,3,3,Apartment,Semi-Furnished,1,15,8888561
+P00289,Mumbai,Powai,3104,5,4,Independent House,Furnished,2,5,62896628
+P00290,Noida,Sector 150,917,2,1,Apartment,Furnished,0,18,7126692
+P00291,Mumbai,Navi Mumbai,1165,1,1,Independent House,Unfurnished,1,9,21278458
+P00292,Ghaziabad,Vaishali,776,1,1,Apartment,Unfurnished,1,27,4181131
+P00293,Mumbai,Thane,1745,2,1,Villa,Semi-Furnished,2,7,40043542
+P00294,Mumbai,Powai,691,3,3,Villa,Unfurnished,1,28,13831660
+P00295,Pune,Kharadi,1296,2,1,Apartment,Semi-Furnished,0,18,10179059
+P00296,Delhi,Dwarka,1382,2,2,Villa,Semi-Furnished,2,2,18547399
+P00297,Hyderabad,Kondapur,3032,5,5,Apartment,Unfurnished,1,16,22929706
+P00298,Ghaziabad,Indirapuram,991,1,1,Apartment,Unfurnished,1,19,4895362
+P00299,Delhi,Rohini,1247,3,3,Apartment,Furnished,1,10,11995810
+P00300,Delhi,Laxmi Nagar,2371,4,5,Apartment,Semi-Furnished,0,14,24161930
+P00301,Delhi,Saket,672,1,2,Apartment,Semi-Furnished,1,18,5804708
+P00302,Hyderabad,Gachibowli,550,1,2,Independent House,Semi-Furnished,1,6,4602273
+P00303,Kolkata,Salt Lake,2388,3,4,Apartment,Furnished,1,2,13098998
+P00304,Noida,Sector 62,3124,4,4,Apartment,Unfurnished,0,18,17045196
+P00305,Bengaluru,Whitefield,2923,5,4,Villa,Semi-Furnished,1,7,42102655
+P00306,Mumbai,Andheri,1343,2,2,Apartment,Furnished,2,13,18504344
+P00307,Mumbai,Borivali,458,1,1,Apartment,Unfurnished,1,25,5921262
+P00308,Mumbai,Powai,539,1,1,Apartment,Unfurnished,2,12,7699036
+P00309,Delhi,Dwarka,816,1,1,Apartment,Semi-Furnished,2,9,7802195
+P00310,Noida,Sector 62,2347,4,5,Apartment,Unfurnished,1,11,17132165
+P00311,Bengaluru,HSR Layout,3058,5,4,Apartment,Furnished,2,2,33574467
+P00312,Delhi,Laxmi Nagar,604,1,2,Apartment,Semi-Furnished,1,7,7299876
+P00313,Delhi,Saket,2896,5,5,Independent House,Unfurnished,1,3,33036076
+P00314,Kolkata,Tollygunge,2335,3,4,Apartment,Semi-Furnished,1,12,14529816
+P00315,Pune,Wakad,2556,2,1,Apartment,Furnished,1,17,22548000
+P00316,Noida,Greater Noida West,2781,3,3,Apartment,Unfurnished,1,4,25960060
+P00317,Ghaziabad,Indirapuram,1372,3,4,Apartment,Semi-Furnished,1,17,7869808
+P00318,Delhi,Dwarka,3176,5,5,Apartment,Semi-Furnished,1,5,30784107
+P00319,Pune,Hadapsar,1737,2,3,Apartment,Semi-Furnished,1,27,15791276
+P00320,Ghaziabad,Raj Nagar,2325,3,3,Apartment,Semi-Furnished,0,12,14416805
+P00321,Kolkata,Behala,826,2,1,Apartment,Unfurnished,1,25,4068800
+P00322,Delhi,Laxmi Nagar,2446,4,3,Apartment,Semi-Furnished,2,21,25805261
+P00323,Kolkata,Behala,1738,3,2,Villa,Semi-Furnished,1,12,13386991
+P00324,Mumbai,Borivali,3194,5,4,Apartment,Semi-Furnished,1,6,45919743
+P00325,Mumbai,Thane,2789,5,5,Apartment,Semi-Furnished,1,8,39903003
+P00326,Hyderabad,Kukatpally,728,1,2,Independent House,Semi-Furnished,0,16,7602041
+P00327,Noida,Sector 137,491,2,3,Apartment,Semi-Furnished,1,22,2902568
+P00328,Mumbai,Andheri,2439,4,3,Apartment,Unfurnished,1,11,39258422
+P00329,Kolkata,Tollygunge,1500,4,4,Apartment,Unfurnished,2,26,7976621
+P00330,Mumbai,Powai,2658,3,2,Apartment,Furnished,2,12,46620179
+P00331,Kolkata,Behala,2217,4,3,Apartment,Unfurnished,1,23,11788224
+P00332,Kolkata,Dum Dum,1212,2,2,Villa,Semi-Furnished,1,29,9522751
+P00333,Pune,Kharadi,2849,3,2,Apartment,Furnished,0,0,24510952
+P00334,Noida,Greater Noida West,1041,1,1,Apartment,Semi-Furnished,2,17,7803720
+P00335,Kolkata,Tollygunge,586,1,2,Apartment,Semi-Furnished,1,15,3324194
+P00336,Pune,Hinjewadi,3085,4,3,Apartment,Unfurnished,1,24,22049448
+P00337,Delhi,Saket,1879,3,3,Villa,Unfurnished,1,29,24883276
+P00338,Ghaziabad,Vaishali,1823,3,4,Apartment,Semi-Furnished,0,29,9620356
+P00339,Ghaziabad,Raj Nagar,2851,5,4,Apartment,Semi-Furnished,1,20,15568608
+P00340,Bengaluru,Sarjapur,563,2,2,Villa,Unfurnished,1,20,7690059
+P00341,Mumbai,Powai,1468,1,1,Independent House,Furnished,0,4,28805042
+P00342,Kolkata,Salt Lake,2750,5,5,Apartment,Semi-Furnished,1,6,14072015
+P00343,Noida,Sector 150,689,1,1,Independent House,Semi-Furnished,0,25,5116381
+P00344,Ghaziabad,Raj Nagar,694,1,2,Villa,Semi-Furnished,1,29,5630688
+P00345,Pune,Hadapsar,1799,3,2,Apartment,Unfurnished,1,1,15524309
+P00346,Ghaziabad,Kaushambi,2703,3,2,Apartment,Semi-Furnished,1,23,17477273
+P00347,Bengaluru,Yelahanka,2964,5,5,Villa,Unfurnished,2,27,41437404
+P00348,Bengaluru,HSR Layout,1991,2,1,Apartment,Unfurnished,1,8,20159001
+P00349,Bengaluru,HSR Layout,2372,3,3,Apartment,Unfurnished,2,11,25330728
+P00350,Noida,Greater Noida West,2540,4,3,Apartment,Furnished,1,26,20128731
+P00351,Delhi,Janakpuri,917,3,4,Apartment,Furnished,1,2,11056961
+P00352,Mumbai,Borivali,1535,1,1,Apartment,Furnished,1,3,24510289
+P00353,Bengaluru,Electronic City,953,1,1,Independent House,Unfurnished,1,12,10687352
+P00354,Mumbai,Thane,1680,2,2,Apartment,Semi-Furnished,1,14,23510551
+P00355,Pune,Hadapsar,631,1,1,Independent House,Unfurnished,1,20,6430990
+P00356,Ghaziabad,Vaishali,1106,1,1,Apartment,Furnished,1,7,6539962
+P00357,Noida,Greater Noida West,1814,3,4,Independent House,Unfurnished,1,29,14040599
+P00358,Hyderabad,Kukatpally,1915,3,4,Independent House,Semi-Furnished,2,25,19608031
+P00359,Ghaziabad,Indirapuram,1986,5,5,Apartment,Unfurnished,0,0,10207452
+P00360,Hyderabad,Kondapur,1834,2,2,Apartment,Semi-Furnished,2,0,13951306
+P00361,Pune,Kharadi,1628,2,1,Independent House,Unfurnished,1,16,14673255
+P00362,Kolkata,Dum Dum,1271,2,1,Apartment,Semi-Furnished,1,10,7347823
+P00363,Ghaziabad,Crossings Republik,706,1,1,Independent House,Unfurnished,1,26,4203096
+P00364,Ghaziabad,Indirapuram,1017,2,3,Apartment,Unfurnished,1,15,4720784
+P00365,Delhi,Dwarka,2010,3,4,Independent House,Semi-Furnished,1,17,20840433
+P00366,Bengaluru,HSR Layout,2978,5,5,Apartment,Furnished,1,9,32012689
+P00367,Delhi,Laxmi Nagar,2695,4,5,Independent House,Furnished,0,6,31659712
+P00368,Hyderabad,Kukatpally,2234,3,2,Apartment,Unfurnished,0,8,18516808
+P00369,Noida,Sector 137,1314,2,1,Independent House,Semi-Furnished,2,14,12111198
+P00370,Mumbai,Navi Mumbai,656,1,1,Independent House,Semi-Furnished,1,30,10606806
+P00371,Bengaluru,HSR Layout,2522,5,5,Apartment,Unfurnished,1,18,20911520
+P00372,Delhi,Janakpuri,1354,3,4,Apartment,Unfurnished,2,5,12494390
+P00373,Mumbai,Andheri,1671,1,1,Apartment,Semi-Furnished,1,3,24821760
+P00374,Kolkata,Dum Dum,2318,4,5,Villa,Semi-Furnished,1,29,16673059
+P00375,Hyderabad,Uppal,1886,4,5,Apartment,Semi-Furnished,2,23,15600338
+P00376,Pune,Baner,2237,3,3,Apartment,Semi-Furnished,1,11,18475962
+P00377,Hyderabad,Kondapur,2536,4,3,Apartment,Unfurnished,1,22,18328456
+P00378,Mumbai,Borivali,1636,2,2,Independent House,Furnished,1,9,31100873
+P00379,Noida,Sector 75,468,1,1,Apartment,Unfurnished,0,12,3701562
+P00380,Mumbai,Powai,1579,2,1,Apartment,Semi-Furnished,1,28,24257106
+P00381,Mumbai,Borivali,2986,4,3,Apartment,Semi-Furnished,1,16,40721436
+P00382,Delhi,Dwarka,707,2,1,Apartment,Unfurnished,0,10,6599708
+P00383,Mumbai,Andheri,2395,4,3,Villa,Semi-Furnished,1,16,45092808
+P00384,Kolkata,Salt Lake,3130,5,5,Apartment,Semi-Furnished,2,19,16163518
+P00385,Mumbai,Powai,1776,3,3,Villa,Unfurnished,2,12,37650361
+P00386,Bengaluru,Yelahanka,860,1,1,Apartment,Unfurnished,1,20,9424200
+P00387,Kolkata,New Town,1214,3,4,Apartment,Unfurnished,1,18,5151500
+P00388,Delhi,Rohini,2331,3,3,Independent House,Semi-Furnished,1,11,27587578
+P00389,Pune,Baner,2993,3,4,Apartment,Unfurnished,1,20,20201149
+P00390,Delhi,Laxmi Nagar,1062,1,2,Apartment,Semi-Furnished,1,5,11814762
+P00391,Delhi,Laxmi Nagar,2237,4,5,Independent House,Unfurnished,2,24,22899626
+P00392,Bengaluru,HSR Layout,881,1,1,Independent House,Semi-Furnished,2,7,9842160
+P00393,Pune,Kharadi,761,1,1,Apartment,Unfurnished,1,30,5428248
+P00394,Noida,Sector 62,2240,3,2,Apartment,Furnished,1,28,14337117
+P00395,Noida,Sector 75,2133,2,3,Apartment,Unfurnished,1,5,14649328
+P00396,Delhi,Saket,617,1,2,Apartment,Semi-Furnished,2,4,6709775
+P00397,Kolkata,Behala,2835,3,3,Apartment,Unfurnished,2,23,15161594
+P00398,Delhi,Janakpuri,2084,1,1,Apartment,Semi-Furnished,1,23,22156706
+P00399,Ghaziabad,Indirapuram,2535,4,5,Independent House,Semi-Furnished,1,16,16168908
+P00400,Ghaziabad,Crossings Republik,3058,4,4,Apartment,Semi-Furnished,1,10,15345251
+P00401,Delhi,Saket,931,2,1,Apartment,Furnished,1,19,9448233
+P00402,Mumbai,Borivali,627,1,1,Villa,Semi-Furnished,1,7,13483692
+P00403,Ghaziabad,Indirapuram,2037,3,3,Independent House,Semi-Furnished,1,12,11296954
+P00404,Pune,Hinjewadi,1718,3,4,Apartment,Furnished,0,28,12820704
+P00405,Delhi,Janakpuri,2120,3,3,Apartment,Unfurnished,1,7,21738585
+P00406,Bengaluru,Whitefield,1122,2,1,Apartment,Semi-Furnished,1,11,12542487
+P00407,Delhi,Saket,1321,3,2,Independent House,Semi-Furnished,2,0,15074849
+P00408,Kolkata,New Town,2130,4,5,Apartment,Unfurnished,1,8,10162883
+P00409,Hyderabad,Kukatpally,1934,3,2,Apartment,Semi-Furnished,2,12,15726986
+P00410,Hyderabad,Gachibowli,2789,3,2,Apartment,Unfurnished,1,14,20056777
+P00411,Kolkata,Tollygunge,1059,1,1,Independent House,Semi-Furnished,1,17,6930285
+P00412,Ghaziabad,Raj Nagar,963,2,1,Apartment,Semi-Furnished,1,9,6275072
+P00413,Mumbai,Navi Mumbai,866,1,1,Apartment,Unfurnished,1,28,13067680
+P00414,Ghaziabad,Crossings Republik,1699,3,4,Apartment,Unfurnished,1,5,9229016
+P00415,Delhi,Saket,1093,1,2,Apartment,Semi-Furnished,1,17,10411156
+P00416,Hyderabad,Gachibowli,2587,4,3,Apartment,Furnished,0,9,22126577
+P00417,Mumbai,Navi Mumbai,543,1,2,Independent House,Unfurnished,0,5,8800456
+P00418,Bengaluru,Yelahanka,790,1,1,Apartment,Unfurnished,2,10,8700491
+P00419,Hyderabad,Uppal,781,1,2,Independent House,Semi-Furnished,1,7,7584865
+P00420,Delhi,Saket,660,1,1,Apartment,Semi-Furnished,2,30,5518670
+P00421,Ghaziabad,Indirapuram,801,2,3,Apartment,Semi-Furnished,2,23,3885161
+P00422,Ghaziabad,Kaushambi,928,2,3,Independent House,Furnished,0,2,7465735
+P00423,Ghaziabad,Indirapuram,2121,3,2,Independent House,Semi-Furnished,1,7,13805222
+P00424,Bengaluru,Sarjapur,874,2,2,Independent House,Furnished,1,23,10531732
+P00425,Hyderabad,Miyapur,685,1,1,Apartment,Unfurnished,1,5,5811011
+P00426,Pune,Baner,2073,3,4,Apartment,Unfurnished,1,23,16419226
+P00427,Hyderabad,Kondapur,1933,3,4,Independent House,Unfurnished,2,30,16149566
+P00428,Pune,Wakad,2232,3,2,Apartment,Semi-Furnished,0,13,16750807
+P00429,Delhi,Dwarka,1683,3,4,Apartment,Unfurnished,2,29,12881892
+P00430,Bengaluru,HSR Layout,1275,1,2,Apartment,Furnished,2,17,14204187
+P00431,Delhi,Laxmi Nagar,1858,3,3,Apartment,Unfurnished,2,2,18259999
+P00432,Delhi,Rohini,2005,4,3,Independent House,Unfurnished,1,2,19458366
+P00433,Delhi,Rohini,1823,3,2,Villa,Unfurnished,2,9,23604499
+P00434,Bengaluru,HSR Layout,2403,3,3,Apartment,Semi-Furnished,1,25,24066866
+P00435,Pune,Hadapsar,1755,3,2,Apartment,Unfurnished,1,0,16150356
+P00436,Pune,Hinjewadi,698,2,2,Independent House,Semi-Furnished,1,10,6895323
+P00437,Delhi,Laxmi Nagar,1468,1,2,Apartment,Unfurnished,2,14,14306570
+P00438,Ghaziabad,Kaushambi,3199,4,4,Apartment,Unfurnished,1,1,18115682
+P00439,Delhi,Laxmi Nagar,2667,4,5,Apartment,Unfurnished,0,5,29305153
+P00440,Pune,Hinjewadi,685,1,1,Apartment,Semi-Furnished,2,0,5116185
+P00441,Noida,Greater Noida West,3013,5,5,Apartment,Unfurnished,2,14,23275814
+P00442,Ghaziabad,Indirapuram,1117,3,2,Apartment,Furnished,1,10,6697657
+P00443,Noida,Sector 137,2490,4,5,Apartment,Semi-Furnished,1,25,18309346
+P00444,Hyderabad,Uppal,2578,4,5,Apartment,Unfurnished,1,1,19063159
+P00445,Ghaziabad,Vaishali,2004,4,4,Apartment,Semi-Furnished,1,5,12508506
+P00446,Ghaziabad,Kaushambi,2090,4,5,Independent House,Semi-Furnished,0,10,14395486
+P00447,Delhi,Laxmi Nagar,1902,3,2,Apartment,Semi-Furnished,1,18,19899868
+P00448,Delhi,Saket,1701,3,2,Independent House,Furnished,1,8,20962865
+P00449,Bengaluru,HSR Layout,3105,4,4,Apartment,Unfurnished,0,12,32563487
+P00450,Pune,Hadapsar,527,1,2,Apartment,Unfurnished,1,28,4233932
+P00451,Hyderabad,Gachibowli,1901,3,4,Independent House,Furnished,2,12,17430924
+P00452,Bengaluru,Yelahanka,1841,2,3,Apartment,Semi-Furnished,0,20,19415101
+P00453,Bengaluru,Electronic City,1646,2,2,Apartment,Furnished,2,15,16059289
+P00454,Ghaziabad,Indirapuram,1557,3,3,Apartment,Furnished,2,16,9378914
+P00455,Pune,Kharadi,943,1,1,Apartment,Unfurnished,1,30,7112137
+P00456,Ghaziabad,Raj Nagar,469,1,1,Apartment,Unfurnished,1,8,2753659
+P00457,Noida,Sector 137,506,1,2,Apartment,Furnished,1,25,3651476
+P00458,Bengaluru,Whitefield,546,1,1,Villa,Furnished,0,24,7368989
+P00459,Ghaziabad,Raj Nagar,1746,3,4,Apartment,Semi-Furnished,1,2,10132775
+P00460,Bengaluru,Sarjapur,1303,1,2,Apartment,Semi-Furnished,1,13,11871247
+P00461,Pune,Kharadi,2669,4,5,Villa,Semi-Furnished,1,10,29594864
+P00462,Pune,Baner,1998,4,3,Apartment,Semi-Furnished,1,23,17066480
+P00463,Kolkata,Tollygunge,1906,3,3,Independent House,Semi-Furnished,1,10,13370041
+P00464,Mumbai,Powai,1588,3,3,Apartment,Semi-Furnished,1,0,32315107
+P00465,Mumbai,Powai,2131,4,5,Villa,Semi-Furnished,2,7,49911536
+P00466,Kolkata,Tollygunge,2528,3,4,Apartment,Semi-Furnished,1,5,16805291
+P00467,Hyderabad,Gachibowli,2088,3,3,Apartment,Unfurnished,1,11,16603905
+P00468,Hyderabad,Miyapur,584,1,1,Apartment,Semi-Furnished,1,14,5338144
+P00469,Pune,Kharadi,2684,3,2,Independent House,Semi-Furnished,2,13,23168376
+P00470,Noida,Sector 75,1745,3,4,Apartment,Furnished,2,30,13944382
+P00471,Ghaziabad,Vaishali,856,2,2,Independent House,Semi-Furnished,2,15,5525086
+P00472,Bengaluru,Sarjapur,2406,4,3,Apartment,Furnished,2,28,25121667
+P00473,Delhi,Saket,2005,3,4,Independent House,Unfurnished,1,27,19554191
+P00474,Mumbai,Thane,1514,3,3,Independent House,Unfurnished,1,7,26910671
+P00475,Pune,Kharadi,2071,4,5,Independent House,Semi-Furnished,1,23,19615380
+P00476,Hyderabad,Miyapur,2661,3,2,Apartment,Unfurnished,2,24,20381922
+P00477,Noida,Sector 150,2324,4,3,Apartment,Unfurnished,2,23,15425372
+P00478,Delhi,Rohini,1128,1,1,Apartment,Unfurnished,1,6,10201601
+P00479,Kolkata,Dum Dum,2030,4,5,Apartment,Unfurnished,2,15,10637088
+P00480,Bengaluru,HSR Layout,1690,2,2,Apartment,Furnished,1,20,17161701
+P00481,Noida,Sector 62,1007,2,1,Apartment,Semi-Furnished,1,9,7684776
+P00482,Delhi,Dwarka,1045,2,2,Apartment,Unfurnished,2,16,8395408
+P00483,Mumbai,Andheri,2298,3,4,Apartment,Unfurnished,2,23,26355355
+P00484,Ghaziabad,Kaushambi,1300,3,4,Apartment,Unfurnished,1,9,7927961
+P00485,Bengaluru,Whitefield,1057,2,1,Independent House,Semi-Furnished,1,7,13226633
+P00486,Mumbai,Borivali,803,1,1,Apartment,Semi-Furnished,1,17,10700803
+P00487,Kolkata,Dum Dum,2607,5,5,Apartment,Unfurnished,0,1,14111062
+P00488,Pune,Baner,1621,1,1,Apartment,Unfurnished,2,5,15778784
+P00489,Ghaziabad,Vaishali,2336,2,1,Apartment,Semi-Furnished,1,30,11077138
+P00490,Mumbai,Thane,580,1,1,Independent House,Unfurnished,1,13,10519089
+P00491,Bengaluru,Whitefield,672,1,1,Apartment,Semi-Furnished,1,22,5980418
+P00492,Hyderabad,Uppal,3179,5,5,Independent House,Semi-Furnished,2,26,32353420
+P00493,Bengaluru,Sarjapur,905,1,1,Independent House,Semi-Furnished,2,24,8923963
+P00494,Hyderabad,Kukatpally,1134,3,2,Villa,Furnished,1,23,14952669
+P00495,Kolkata,New Town,2457,4,5,Independent House,Semi-Furnished,1,20,14276132
+P00496,Noida,Sector 62,2806,4,3,Independent House,Unfurnished,2,2,22734911
+P00497,Bengaluru,Electronic City,2810,4,3,Apartment,Semi-Furnished,1,11,27287640
+P00498,Ghaziabad,Vaishali,1215,2,1,Villa,Unfurnished,0,5,9000070
+P00499,Hyderabad,Gachibowli,1620,3,4,Apartment,Semi-Furnished,1,20,10888300
+P00500,Kolkata,Behala,2322,3,3,Apartment,Semi-Furnished,0,24,11629175
+P00501,Delhi,Laxmi Nagar,2267,4,3,Villa,Unfurnished,1,21,29058489
+P00502,Kolkata,Behala,801,1,1,Apartment,Unfurnished,0,21,3875820
+P00503,Delhi,Saket,777,1,1,Independent House,Semi-Furnished,1,4,8430358
+P00504,Delhi,Dwarka,1309,3,2,Apartment,Semi-Furnished,1,0,13165434
+P00505,Ghaziabad,Crossings Republik,3027,5,5,Apartment,Unfurnished,1,9,17932855
+P00506,Mumbai,Andheri,1219,2,3,Independent House,Semi-Furnished,1,26,17834008
+P00507,Bengaluru,HSR Layout,1461,2,2,Apartment,Furnished,1,19,18456866
+P00508,Mumbai,Navi Mumbai,1588,1,1,Apartment,Semi-Furnished,0,8,23735384
+P00509,Mumbai,Borivali,1432,2,3,Apartment,Semi-Furnished,2,27,17453580
+P00510,Bengaluru,HSR Layout,2390,2,1,Apartment,Unfurnished,1,8,23669153
+P00511,Mumbai,Navi Mumbai,1173,2,1,Apartment,Semi-Furnished,0,0,19770959
+P00512,Mumbai,Powai,2309,4,3,Apartment,Semi-Furnished,1,29,29410907
+P00513,Pune,Kharadi,835,1,1,Apartment,Unfurnished,2,19,6639974
+P00514,Mumbai,Andheri,3071,4,5,Independent House,Furnished,1,12,46244312
+P00515,Ghaziabad,Kaushambi,1073,1,1,Independent House,Furnished,1,15,7420789
+P00516,Noida,Sector 150,1869,3,4,Apartment,Unfurnished,1,28,12288207
+P00517,Bengaluru,Whitefield,1630,2,1,Independent House,Semi-Furnished,1,15,16091059
+P00518,Pune,Kharadi,2874,5,5,Apartment,Semi-Furnished,2,25,22708326
+P00519,Bengaluru,Electronic City,939,1,1,Apartment,Semi-Furnished,1,15,8173965
+P00520,Noida,Sector 62,1401,2,1,Apartment,Semi-Furnished,2,6,9820787
+P00521,Delhi,Laxmi Nagar,2243,2,2,Apartment,Unfurnished,1,2,18963669
+P00522,Ghaziabad,Vaishali,2235,5,5,Apartment,Unfurnished,1,2,11310776
+P00523,Hyderabad,Gachibowli,1036,1,2,Apartment,Furnished,1,3,7700353
+P00524,Mumbai,Navi Mumbai,3047,4,3,Apartment,Furnished,2,2,57884701
+P00525,Delhi,Rohini,1382,2,1,Independent House,Unfurnished,1,10,14734076
+P00526,Delhi,Dwarka,1638,3,3,Apartment,Semi-Furnished,1,29,14152720
+P00527,Pune,Wakad,2952,5,4,Apartment,Semi-Furnished,0,18,20790572
+P00528,Mumbai,Borivali,1094,1,1,Apartment,Semi-Furnished,2,2,18978415
+P00529,Kolkata,Tollygunge,1943,3,3,Apartment,Unfurnished,0,20,12283313
+P00530,Delhi,Janakpuri,1384,1,1,Apartment,Furnished,1,22,13232207
+P00531,Bengaluru,Whitefield,631,1,1,Apartment,Semi-Furnished,1,30,5628085
+P00532,Noida,Sector 150,568,1,1,Apartment,Semi-Furnished,0,16,3635825
+P00533,Kolkata,Salt Lake,3146,4,3,Independent House,Semi-Furnished,2,13,18822072
+P00534,Pune,Hadapsar,1770,3,3,Apartment,Semi-Furnished,1,15,14157684
+P00535,Pune,Wakad,2708,4,5,Independent House,Semi-Furnished,1,21,22749120
+P00536,Noida,Sector 75,1772,3,3,Apartment,Semi-Furnished,1,7,13018037
+P00537,Noida,Sector 75,942,1,1,Independent House,Furnished,1,9,8557589
+P00538,Kolkata,Behala,2651,3,4,Apartment,Semi-Furnished,0,21,13734293
+P00539,Pune,Wakad,2478,3,4,Apartment,Semi-Furnished,1,18,20629660
+P00540,Mumbai,Andheri,529,1,1,Apartment,Unfurnished,1,20,6280688
+P00541,Ghaziabad,Vaishali,1257,1,2,Apartment,Furnished,1,0,7948131
+P00542,Bengaluru,HSR Layout,940,2,3,Independent House,Unfurnished,1,23,10940581
+P00543,Noida,Sector 150,858,2,2,Independent House,Unfurnished,1,13,7636208
+P00544,Bengaluru,Electronic City,2946,5,5,Independent House,Furnished,1,22,36019332
+P00545,Bengaluru,Yelahanka,2900,4,5,Independent House,Unfurnished,1,10,32119407
+P00546,Hyderabad,Miyapur,1780,2,2,Independent House,Semi-Furnished,2,24,15280157
+P00547,Delhi,Saket,2666,4,4,Independent House,Semi-Furnished,1,1,30382857
+P00548,Mumbai,Andheri,1851,3,2,Independent House,Semi-Furnished,1,15,29107413
+P00549,Delhi,Saket,2639,4,3,Apartment,Unfurnished,0,3,26397072
+P00550,Pune,Hinjewadi,1593,3,3,Apartment,Unfurnished,2,14,13109293
+P00551,Pune,Kharadi,1084,2,1,Apartment,Furnished,1,5,8244721
+P00552,Pune,Hadapsar,503,1,1,Apartment,Furnished,1,16,3698423
+P00553,Ghaziabad,Vaishali,2414,3,4,Apartment,Furnished,1,21,14579700
+P00554,Kolkata,Dum Dum,800,1,1,Independent House,Furnished,0,15,5213749
+P00555,Noida,Sector 62,3057,5,5,Independent House,Semi-Furnished,2,27,22220913
+P00556,Ghaziabad,Kaushambi,773,1,2,Apartment,Unfurnished,2,5,3991603
+P00557,Delhi,Janakpuri,528,1,2,Apartment,Unfurnished,1,23,4594449
+P00558,Noida,Sector 137,1431,3,2,Apartment,Unfurnished,1,3,10872159
+P00559,Noida,Greater Noida West,1153,2,3,Apartment,Unfurnished,1,25,7670424
+P00560,Noida,Sector 75,2109,3,4,Apartment,Furnished,0,17,18005733
+P00561,Mumbai,Navi Mumbai,2395,4,3,Apartment,Furnished,1,19,36919684
+P00562,Pune,Baner,2728,3,3,Independent House,Unfurnished,2,15,25695723
+P00563,Kolkata,New Town,2108,3,4,Apartment,Unfurnished,1,0,11562187
+P00564,Hyderabad,Uppal,533,1,1,Apartment,Furnished,2,29,4789975
+P00565,Bengaluru,Yelahanka,3005,5,5,Apartment,Furnished,1,0,33273393
+P00566,Hyderabad,Kukatpally,2822,4,5,Apartment,Furnished,1,1,28107674
+P00567,Kolkata,New Town,3137,5,5,Apartment,Furnished,1,28,14419383
+P00568,Kolkata,Behala,3185,5,4,Apartment,Unfurnished,1,2,15997386
+P00569,Mumbai,Thane,1019,1,1,Apartment,Semi-Furnished,1,7,18248735
+P00570,Pune,Wakad,1413,2,1,Apartment,Unfurnished,2,3,11488576
+P00571,Delhi,Saket,2869,4,5,Independent House,Unfurnished,1,13,31319911
+P00572,Kolkata,New Town,2798,4,4,Apartment,Semi-Furnished,0,25,12342759
+P00573,Kolkata,Behala,1336,3,2,Independent House,Furnished,0,20,7837551
+P00574,Kolkata,Tollygunge,1754,4,5,Apartment,Unfurnished,1,2,10713739
+P00575,Kolkata,New Town,499,1,1,Apartment,Semi-Furnished,2,30,2492932
+P00576,Hyderabad,Kukatpally,1879,3,3,Apartment,Semi-Furnished,0,5,16796934
+P00577,Noida,Sector 75,2812,5,5,Apartment,Semi-Furnished,1,23,20945900
+P00578,Bengaluru,Yelahanka,3142,5,5,Apartment,Unfurnished,1,14,32631031
+P00579,Kolkata,New Town,1567,2,2,Apartment,Unfurnished,1,22,6983939
+P00580,Noida,Sector 137,522,1,2,Apartment,Semi-Furnished,2,9,4166034
+P00581,Bengaluru,Electronic City,1866,4,3,Apartment,Unfurnished,1,8,17000655
+P00582,Bengaluru,Whitefield,1438,2,2,Independent House,Unfurnished,1,5,14351872
+P00583,Hyderabad,Kukatpally,1851,3,2,Apartment,Semi-Furnished,2,14,15577048
+P00584,Mumbai,Navi Mumbai,899,3,3,Independent House,Unfurnished,1,1,16478193
+P00585,Kolkata,New Town,1247,2,1,Apartment,Unfurnished,1,7,5815285
+P00586,Noida,Sector 137,1493,1,1,Apartment,Unfurnished,1,4,10818303
+P00587,Hyderabad,Uppal,725,2,2,Apartment,Furnished,1,9,6449303
+P00588,Ghaziabad,Raj Nagar,562,1,1,Independent House,Unfurnished,1,27,3412976
+P00589,Mumbai,Thane,1233,2,2,Independent House,Furnished,1,27,20709291
+P00590,Pune,Wakad,1369,2,3,Apartment,Furnished,1,18,10957044
+P00591,Ghaziabad,Vaishali,1030,2,3,Apartment,Unfurnished,1,30,5670201
+P00592,Kolkata,New Town,2941,4,3,Apartment,Semi-Furnished,1,20,12783039
+P00593,Kolkata,Salt Lake,2228,2,3,Apartment,Semi-Furnished,1,22,12731604
+P00594,Noida,Sector 75,1220,2,1,Apartment,Semi-Furnished,1,3,10095999
+P00595,Noida,Greater Noida West,2501,4,3,Apartment,Semi-Furnished,1,6,20483063
+P00596,Hyderabad,Miyapur,501,1,2,Apartment,Unfurnished,1,19,3688558
+P00597,Hyderabad,Gachibowli,1508,3,4,Apartment,Semi-Furnished,2,30,12176622
+P00598,Delhi,Rohini,1276,2,3,Independent House,Unfurnished,0,9,13510095
+P00599,Kolkata,Dum Dum,3000,5,5,Apartment,Semi-Furnished,1,26,16638450
+P00600,Noida,Sector 75,2569,3,3,Apartment,Semi-Furnished,0,20,19459688
+P00601,Mumbai,Powai,2381,5,4,Apartment,Unfurnished,2,21,33025009
+P00602,Mumbai,Thane,1206,1,1,Independent House,Unfurnished,0,7,20954973
+P00603,Noida,Sector 62,1752,3,4,Independent House,Semi-Furnished,1,12,14397517
+P00604,Delhi,Janakpuri,3173,4,3,Independent House,Unfurnished,1,8,35166482
+P00605,Noida,Sector 62,2193,4,4,Apartment,Furnished,1,21,14194401
+P00606,Ghaziabad,Kaushambi,974,1,2,Apartment,Unfurnished,1,2,6106964
+P00607,Kolkata,Tollygunge,2498,4,5,Independent House,Semi-Furnished,2,2,17201474
+P00608,Pune,Baner,1097,3,4,Apartment,Unfurnished,2,22,8657896
+P00609,Noida,Sector 62,2969,5,4,Apartment,Furnished,2,11,20630757
+P00610,Pune,Hadapsar,1335,3,4,Apartment,Furnished,2,6,13239887
+P00611,Delhi,Janakpuri,2434,4,4,Apartment,Unfurnished,1,17,23038787
+P00612,Mumbai,Borivali,1042,2,3,Independent House,Unfurnished,1,19,17334135
+P00613,Hyderabad,Kondapur,1761,3,2,Apartment,Semi-Furnished,1,16,13891523
+P00614,Ghaziabad,Kaushambi,595,2,1,Apartment,Unfurnished,1,21,3588700
+P00615,Delhi,Saket,1643,3,2,Villa,Furnished,1,23,20531113
+P00616,Ghaziabad,Vaishali,2772,5,5,Apartment,Semi-Furnished,2,3,16331842
+P00617,Delhi,Dwarka,3183,4,4,Independent House,Furnished,1,5,35980839
+P00618,Delhi,Dwarka,1573,3,4,Independent House,Unfurnished,1,10,14910220
+P00619,Kolkata,New Town,2806,5,4,Apartment,Unfurnished,0,21,13550481
+P00620,Delhi,Rohini,2540,5,5,Apartment,Unfurnished,1,30,23192483
+P00621,Hyderabad,Kukatpally,464,1,1,Independent House,Furnished,1,11,4853115
+P00622,Pune,Hinjewadi,1766,3,4,Villa,Semi-Furnished,1,24,18273284
+P00623,Hyderabad,Kondapur,2687,4,3,Apartment,Unfurnished,1,14,21640886
+P00624,Noida,Sector 150,2929,5,4,Apartment,Semi-Furnished,1,6,21999745
+P00625,Mumbai,Thane,962,2,2,Apartment,Unfurnished,1,22,13597821
+P00626,Hyderabad,Gachibowli,2114,3,2,Independent House,Unfurnished,1,9,16524573
+P00627,Mumbai,Navi Mumbai,2529,3,4,Apartment,Semi-Furnished,1,0,42457410
+P00628,Noida,Sector 137,1236,2,1,Apartment,Semi-Furnished,2,1,8667300
+P00629,Kolkata,New Town,1133,1,1,Apartment,Furnished,1,14,6559059
+P00630,Mumbai,Thane,629,2,1,Apartment,Furnished,1,15,9414606
+P00631,Pune,Wakad,1928,2,2,Apartment,Semi-Furnished,1,8,15577770
+P00632,Mumbai,Andheri,1678,3,4,Apartment,Unfurnished,1,2,24807487
+P00633,Bengaluru,Electronic City,2244,4,5,Apartment,Furnished,2,5,18813719
+P00634,Ghaziabad,Indirapuram,2333,4,5,Apartment,Furnished,1,0,14643798
+P00635,Kolkata,New Town,1678,4,4,Independent House,Semi-Furnished,1,13,9270746
+P00636,Delhi,Saket,2691,3,2,Apartment,Semi-Furnished,1,12,26298517
+P00637,Noida,Sector 75,2828,5,5,Apartment,Unfurnished,1,22,21196212
+P00638,Bengaluru,Yelahanka,1969,2,2,Apartment,Semi-Furnished,1,8,20572569
+P00639,Hyderabad,Gachibowli,3128,5,5,Independent House,Semi-Furnished,1,1,31683352
+P00640,Pune,Hinjewadi,1363,2,3,Apartment,Unfurnished,1,2,10590620
+P00641,Mumbai,Thane,2229,4,3,Apartment,Unfurnished,0,3,33096341
+P00642,Pune,Hadapsar,2583,5,5,Independent House,Unfurnished,0,22,25116418
+P00643,Bengaluru,Sarjapur,2340,3,3,Apartment,Semi-Furnished,2,8,24079236
+P00644,Ghaziabad,Kaushambi,2271,3,3,Apartment,Semi-Furnished,1,9,14601731
+P00645,Bengaluru,Electronic City,1883,2,3,Apartment,Semi-Furnished,1,17,17849989
+P00646,Pune,Baner,1449,2,3,Apartment,Unfurnished,2,18,13215494
+P00647,Hyderabad,Gachibowli,747,1,2,Villa,Unfurnished,1,14,7699036
+P00648,Mumbai,Navi Mumbai,2353,3,2,Apartment,Furnished,1,6,42772800
+P00649,Pune,Wakad,2899,5,4,Independent House,Semi-Furnished,2,15,27661449
+P00650,Delhi,Saket,1046,1,1,Apartment,Furnished,1,14,10708180
+P00651,Ghaziabad,Crossings Republik,777,1,2,Apartment,Semi-Furnished,1,22,4471482
+P00652,Ghaziabad,Crossings Republik,1755,2,3,Apartment,Semi-Furnished,1,6,10598229
+P00653,Hyderabad,Kukatpally,2271,3,4,Apartment,Unfurnished,1,27,17003986
+P00654,Pune,Kharadi,966,1,1,Apartment,Furnished,1,1,9284963
+P00655,Delhi,Saket,1753,3,4,Independent House,Unfurnished,1,19,16692151
+P00656,Noida,Sector 75,1076,1,1,Apartment,Semi-Furnished,1,26,7926955
+P00657,Pune,Hinjewadi,626,1,1,Apartment,Unfurnished,1,0,5237840
+P00658,Ghaziabad,Crossings Republik,2159,3,4,Apartment,Furnished,1,2,13748679
+P00659,Delhi,Saket,1860,2,1,Independent House,Furnished,1,20,21644261
+P00660,Ghaziabad,Vaishali,1295,1,1,Apartment,Furnished,0,19,7223805
+P00661,Ghaziabad,Kaushambi,1185,1,2,Apartment,Unfurnished,1,29,6788919
+P00662,Mumbai,Thane,2142,3,3,Independent House,Unfurnished,0,20,35488008
+P00663,Pune,Hadapsar,2340,5,5,Apartment,Unfurnished,1,2,18693878
+P00664,Noida,Sector 75,991,1,2,Apartment,Semi-Furnished,1,15,7170108
+P00665,Ghaziabad,Kaushambi,1921,3,4,Apartment,Semi-Furnished,1,13,10965591
+P00666,Ghaziabad,Raj Nagar,520,1,2,Apartment,Semi-Furnished,1,26,3197328
+P00667,Ghaziabad,Kaushambi,2560,4,3,Independent House,Unfurnished,1,5,18067268
+P00668,Ghaziabad,Raj Nagar,1126,1,1,Independent House,Unfurnished,2,7,7871404
+P00669,Kolkata,Behala,1795,4,4,Independent House,Unfurnished,1,21,9149622
+P00670,Bengaluru,Sarjapur,602,1,2,Apartment,Unfurnished,2,4,6019111
+P00671,Kolkata,Dum Dum,564,1,1,Apartment,Unfurnished,1,7,3137286
+P00672,Mumbai,Thane,3157,5,5,Apartment,Unfurnished,1,15,41773648
+P00673,Mumbai,Thane,1644,3,3,Villa,Semi-Furnished,1,30,30981503
+P00674,Mumbai,Powai,1249,2,1,Apartment,Semi-Furnished,2,23,18671251
+P00675,Delhi,Janakpuri,2928,5,5,Independent House,Semi-Furnished,1,20,28554074
+P00676,Delhi,Janakpuri,2720,3,4,Apartment,Semi-Furnished,2,5,29497989
+P00677,Mumbai,Navi Mumbai,2514,3,4,Apartment,Furnished,1,25,41088441
+P00678,Hyderabad,Miyapur,1842,2,2,Apartment,Semi-Furnished,1,9,15375343
+P00679,Pune,Kharadi,790,2,1,Villa,Unfurnished,1,20,8235136
+P00680,Noida,Sector 137,2855,4,4,Apartment,Unfurnished,2,1,18449321
+P00681,Delhi,Saket,1993,4,3,Apartment,Furnished,2,24,19123387
+P00682,Mumbai,Navi Mumbai,1211,2,1,Apartment,Unfurnished,0,2,18813754
+P00683,Mumbai,Borivali,1899,3,3,Apartment,Furnished,2,15,26815817
+P00684,Noida,Sector 75,2234,2,2,Independent House,Unfurnished,1,11,17277337
+P00685,Hyderabad,Kukatpally,2397,4,5,Apartment,Unfurnished,1,18,18955783
+P00686,Delhi,Laxmi Nagar,1903,3,3,Apartment,Semi-Furnished,0,11,18180447
+P00687,Ghaziabad,Indirapuram,2454,4,4,Apartment,Semi-Furnished,1,23,12108126
+P00688,Delhi,Dwarka,2871,5,5,Apartment,Semi-Furnished,1,13,25845788
+P00689,Pune,Hinjewadi,2744,4,3,Apartment,Unfurnished,0,10,22917314
+P00690,Kolkata,Dum Dum,651,1,2,Villa,Furnished,1,7,5224567
+P00691,Noida,Sector 137,2124,3,2,Apartment,Unfurnished,1,27,12534868
+P00692,Delhi,Saket,1771,3,4,Apartment,Unfurnished,1,4,16488975
+P00693,Delhi,Laxmi Nagar,1014,1,1,Independent House,Semi-Furnished,1,12,12392019
+P00694,Delhi,Janakpuri,2003,3,4,Apartment,Unfurnished,1,9,18931081
+P00695,Delhi,Saket,1596,3,2,Independent House,Semi-Furnished,0,12,16487276
+P00696,Ghaziabad,Raj Nagar,2517,4,5,Apartment,Semi-Furnished,1,18,14688785
+P00697,Ghaziabad,Raj Nagar,1553,2,1,Apartment,Unfurnished,1,27,8160949
+P00698,Hyderabad,Gachibowli,1799,2,2,Independent House,Furnished,1,27,15344255
+P00699,Kolkata,Behala,3005,4,5,Independent House,Furnished,1,30,17735172
+P00700,Kolkata,Tollygunge,999,3,2,Apartment,Unfurnished,1,24,5012907
+P00701,Pune,Kharadi,1940,3,4,Independent House,Semi-Furnished,2,19,17869785
+P00702,Noida,Greater Noida West,704,2,1,Independent House,Unfurnished,0,19,5978676
+P00703,Delhi,Laxmi Nagar,2061,2,1,Apartment,Semi-Furnished,1,30,19671081
+P00704,Ghaziabad,Crossings Republik,1399,2,2,Independent House,Semi-Furnished,1,1,10571344
+P00705,Hyderabad,Kukatpally,2792,4,5,Apartment,Unfurnished,1,7,20912294
+P00706,Kolkata,New Town,1395,2,1,Apartment,Unfurnished,1,23,6670945
+P00707,Ghaziabad,Crossings Republik,2431,3,3,Apartment,Unfurnished,0,19,14342188
+P00708,Hyderabad,Uppal,1270,3,4,Independent House,Semi-Furnished,1,22,12617468
+P00709,Mumbai,Navi Mumbai,1908,3,3,Independent House,Furnished,1,10,40772396
+P00710,Mumbai,Borivali,2703,4,3,Apartment,Furnished,2,2,45709463
+P00711,Noida,Sector 150,1519,3,4,Apartment,Unfurnished,2,25,11295777
+P00712,Delhi,Dwarka,2238,3,2,Independent House,Unfurnished,2,7,23967475
+P00713,Hyderabad,Kukatpally,2932,4,5,Apartment,Semi-Furnished,0,6,26054951
+P00714,Noida,Sector 137,3008,4,4,Villa,Semi-Furnished,1,12,29263907
+P00715,Ghaziabad,Vaishali,1274,2,1,Apartment,Semi-Furnished,1,19,6672165
+P00716,Mumbai,Andheri,1970,4,4,Apartment,Unfurnished,2,10,27737731
+P00717,Delhi,Janakpuri,2340,3,2,Independent House,Semi-Furnished,0,3,28150184
+P00718,Kolkata,New Town,1422,2,3,Independent House,Unfurnished,2,15,8078852
+P00719,Kolkata,Tollygunge,1265,3,4,Apartment,Semi-Furnished,1,25,6869233
+P00720,Pune,Wakad,2462,4,4,Apartment,Furnished,1,25,19633965
+P00721,Mumbai,Powai,889,2,3,Villa,Unfurnished,2,12,19407525
+P00722,Ghaziabad,Crossings Republik,1675,3,2,Independent House,Unfurnished,2,17,11354677
+P00723,Noida,Sector 62,501,1,1,Apartment,Semi-Furnished,0,1,3852445
+P00724,Delhi,Rohini,601,2,1,Apartment,Semi-Furnished,0,24,5383246
+P00725,Pune,Hinjewadi,2112,4,5,Independent House,Unfurnished,1,2,20312459
+P00726,Mumbai,Navi Mumbai,3197,5,4,Apartment,Semi-Furnished,2,0,50741828
+P00727,Hyderabad,Uppal,2705,4,3,Independent House,Unfurnished,1,27,23365006
+P00728,Noida,Sector 150,2817,4,5,Apartment,Unfurnished,1,29,17482076
+P00729,Pune,Kharadi,2133,3,2,Independent House,Semi-Furnished,1,14,21581028
+P00730,Mumbai,Andheri,2077,3,3,Apartment,Unfurnished,0,16,24359687
+P00731,Bengaluru,Whitefield,1778,3,2,Apartment,Semi-Furnished,1,6,15738445
+P00732,Mumbai,Andheri,1224,2,3,Apartment,Furnished,2,9,15761896
+P00733,Mumbai,Powai,2690,5,5,Independent House,Semi-Furnished,1,6,45965219
+P00734,Bengaluru,HSR Layout,452,1,1,Apartment,Semi-Furnished,1,17,4977375
+P00735,Delhi,Laxmi Nagar,2401,4,4,Apartment,Unfurnished,0,10,21721102
+P00736,Ghaziabad,Vaishali,2271,3,4,Apartment,Semi-Furnished,0,9,13687811
+P00737,Ghaziabad,Vaishali,2179,4,3,Villa,Unfurnished,1,26,15288249
+P00738,Noida,Sector 150,2868,5,5,Apartment,Furnished,1,0,23105577
+P00739,Delhi,Laxmi Nagar,2092,2,3,Independent House,Semi-Furnished,1,18,22543185
+P00740,Ghaziabad,Crossings Republik,2421,3,2,Apartment,Semi-Furnished,1,17,14723054
+P00741,Bengaluru,HSR Layout,1210,2,2,Apartment,Semi-Furnished,2,1,13888239
+P00742,Mumbai,Thane,1756,3,3,Independent House,Furnished,1,2,32383676
+P00743,Delhi,Dwarka,1758,2,2,Independent House,Unfurnished,1,24,15760216
+P00744,Ghaziabad,Raj Nagar,2175,4,3,Independent House,Semi-Furnished,0,13,13329144
+P00745,Ghaziabad,Vaishali,1949,1,1,Apartment,Semi-Furnished,1,19,9801711
+P00746,Hyderabad,Kukatpally,1285,2,3,Apartment,Unfurnished,0,5,10056397
+P00747,Bengaluru,Electronic City,746,1,2,Apartment,Semi-Furnished,1,19,6991727
+P00748,Hyderabad,Kondapur,2163,4,5,Apartment,Semi-Furnished,1,17,16854184
+P00749,Noida,Sector 150,2467,3,3,Apartment,Unfurnished,2,24,16359315
+P00750,Hyderabad,Kukatpally,2504,4,4,Apartment,Unfurnished,1,0,22275890
+P00751,Kolkata,Salt Lake,2097,3,4,Independent House,Semi-Furnished,2,21,11000573
+P00752,Ghaziabad,Vaishali,1869,3,3,Apartment,Semi-Furnished,1,5,12174413
+P00753,Bengaluru,Electronic City,2824,4,3,Apartment,Unfurnished,0,19,24773992
+P00754,Noida,Sector 62,2904,5,4,Apartment,Furnished,1,3,22314821
+P00755,Noida,Sector 62,2058,2,3,Apartment,Furnished,0,25,13611155
+P00756,Delhi,Janakpuri,1925,4,5,Independent House,Unfurnished,1,28,19772995
+P00757,Kolkata,Behala,1331,1,2,Apartment,Unfurnished,2,6,6461029
+P00758,Kolkata,Tollygunge,726,1,1,Apartment,Furnished,2,1,4695267
+P00759,Hyderabad,Kukatpally,3190,5,4,Apartment,Unfurnished,2,4,27350281
+P00760,Pune,Hadapsar,878,3,4,Apartment,Furnished,1,18,7256061
+P00761,Delhi,Janakpuri,2827,5,5,Independent House,Unfurnished,1,28,32187957
+P00762,Kolkata,New Town,3111,5,5,Independent House,Semi-Furnished,0,11,21082585
+P00763,Noida,Sector 62,2510,3,3,Apartment,Unfurnished,2,10,18074496
+P00764,Pune,Baner,1742,3,4,Apartment,Semi-Furnished,1,11,16713170
+P00765,Noida,Greater Noida West,2765,5,4,Apartment,Unfurnished,1,20,17317911
+P00766,Bengaluru,Yelahanka,691,2,3,Apartment,Furnished,1,30,6412211
+P00767,Hyderabad,Uppal,3122,4,5,Apartment,Furnished,1,10,24633469
+P00768,Noida,Greater Noida West,2573,4,4,Independent House,Semi-Furnished,1,16,23179450
+P00769,Hyderabad,Kukatpally,2334,4,5,Apartment,Semi-Furnished,1,23,19391285
+P00770,Hyderabad,Kondapur,2526,4,5,Apartment,Semi-Furnished,1,2,21057830
+P00771,Noida,Sector 137,1602,4,3,Apartment,Semi-Furnished,2,14,12991907
+P00772,Pune,Kharadi,1457,3,3,Apartment,Semi-Furnished,1,21,13200291
+P00773,Kolkata,Salt Lake,2713,4,3,Apartment,Unfurnished,2,27,14085337
+P00774,Bengaluru,Whitefield,995,2,3,Apartment,Semi-Furnished,1,10,9508987
+P00775,Pune,Baner,2858,2,1,Independent House,Furnished,2,3,31450854
+P00776,Delhi,Saket,569,2,3,Apartment,Semi-Furnished,1,18,6917056
+P00777,Bengaluru,Whitefield,1240,1,1,Apartment,Unfurnished,2,14,10989899
+P00778,Pune,Wakad,986,2,2,Apartment,Unfurnished,1,8,6725093
+P00779,Bengaluru,HSR Layout,1659,3,2,Apartment,Unfurnished,1,15,13897024
+P00780,Hyderabad,Kondapur,1804,2,2,Apartment,Furnished,0,8,16260536
+P00781,Hyderabad,Miyapur,1334,1,1,Apartment,Semi-Furnished,0,4,11524874
+P00782,Hyderabad,Uppal,618,2,2,Apartment,Semi-Furnished,1,0,5785159
+P00783,Bengaluru,HSR Layout,825,2,2,Apartment,Furnished,0,17,8816378
+P00784,Bengaluru,HSR Layout,1176,3,3,Independent House,Furnished,1,24,13484167
+P00785,Pune,Hinjewadi,832,2,3,Apartment,Unfurnished,2,22,6211850
+P00786,Hyderabad,Kondapur,576,2,2,Apartment,Unfurnished,1,7,4722914
+P00787,Delhi,Rohini,2011,3,3,Independent House,Semi-Furnished,1,24,19800986
+P00788,Noida,Greater Noida West,552,1,1,Apartment,Semi-Furnished,1,1,4792015
+P00789,Noida,Sector 150,1844,3,3,Apartment,Semi-Furnished,1,2,13735968
+P00790,Delhi,Rohini,1299,2,1,Apartment,Unfurnished,1,4,14539139
+P00791,Delhi,Janakpuri,827,1,1,Independent House,Semi-Furnished,0,22,7745794
+P00792,Bengaluru,Whitefield,3115,4,5,Apartment,Unfurnished,1,23,26315645
+P00793,Noida,Sector 150,1142,2,3,Apartment,Semi-Furnished,0,12,9044619
+P00794,Mumbai,Powai,1779,3,3,Villa,Furnished,1,21,41736620
+P00795,Hyderabad,Miyapur,3025,5,5,Independent House,Semi-Furnished,0,18,28393671
+P00796,Bengaluru,Sarjapur,617,1,1,Independent House,Semi-Furnished,2,20,7028926
+P00797,Kolkata,Dum Dum,2981,5,4,Apartment,Unfurnished,1,13,17483316
+P00798,Hyderabad,Kukatpally,3060,5,5,Apartment,Furnished,2,27,28446964
+P00799,Hyderabad,Gachibowli,2448,4,3,Apartment,Semi-Furnished,1,8,18506935
+P00800,Delhi,Laxmi Nagar,3184,5,5,Apartment,Unfurnished,1,28,30525334
+P00801,Hyderabad,Gachibowli,2515,4,5,Apartment,Unfurnished,1,13,16910684
+P00802,Bengaluru,Whitefield,1949,4,5,Apartment,Unfurnished,0,6,18623690
+P00803,Noida,Greater Noida West,749,1,2,Apartment,Unfurnished,1,25,6567661
+P00804,Ghaziabad,Vaishali,1788,2,1,Apartment,Furnished,0,8,10572741
+P00805,Delhi,Dwarka,731,1,2,Apartment,Semi-Furnished,0,3,7180627
+P00806,Hyderabad,Gachibowli,540,1,1,Apartment,Furnished,1,2,4972382
+P00807,Hyderabad,Kondapur,544,1,2,Apartment,Semi-Furnished,1,5,3855783
+P00808,Kolkata,New Town,1928,3,3,Apartment,Unfurnished,2,4,10700479
+P00809,Pune,Kharadi,2879,5,5,Apartment,Semi-Furnished,1,19,23210637
+P00810,Delhi,Saket,1168,3,3,Independent House,Semi-Furnished,0,12,14151877
+P00811,Mumbai,Andheri,1082,1,1,Independent House,Unfurnished,0,7,16723712
+P00812,Ghaziabad,Kaushambi,1921,1,1,Apartment,Semi-Furnished,1,8,11366272
+P00813,Hyderabad,Kondapur,1201,2,3,Apartment,Semi-Furnished,1,23,10320625
+P00814,Noida,Sector 150,2211,2,3,Independent House,Unfurnished,2,20,13449961
+P00815,Hyderabad,Uppal,1245,1,2,Apartment,Semi-Furnished,0,16,11102373
+P00816,Mumbai,Borivali,460,1,1,Apartment,Unfurnished,1,21,6212996
+P00817,Hyderabad,Kukatpally,2207,3,3,Independent House,Furnished,1,17,20884481
+P00818,Mumbai,Navi Mumbai,1620,1,1,Apartment,Semi-Furnished,1,21,23577904
+P00819,Kolkata,Behala,1516,3,4,Apartment,Semi-Furnished,1,4,7664500
+P00820,Ghaziabad,Crossings Republik,2130,4,3,Apartment,Semi-Furnished,0,4,12962815
+P00821,Mumbai,Navi Mumbai,2116,2,1,Villa,Semi-Furnished,1,9,49717297
+P00822,Bengaluru,Electronic City,854,1,1,Apartment,Unfurnished,2,12,8082705
+P00823,Mumbai,Navi Mumbai,1399,3,3,Apartment,Unfurnished,1,10,19360013
+P00824,Pune,Kharadi,1650,2,3,Apartment,Unfurnished,1,6,10723923
+P00825,Hyderabad,Miyapur,876,3,2,Apartment,Furnished,1,29,6580219
+P00826,Hyderabad,Miyapur,1418,1,1,Apartment,Furnished,1,13,12125565
+P00827,Delhi,Dwarka,1622,2,1,Apartment,Unfurnished,2,19,14882093
+P00828,Kolkata,Salt Lake,1491,2,1,Apartment,Semi-Furnished,2,6,8112668
+P00829,Kolkata,Dum Dum,2721,5,4,Apartment,Furnished,0,20,14491683
+P00830,Delhi,Janakpuri,1696,4,3,Independent House,Unfurnished,0,2,22079832
+P00831,Delhi,Rohini,2145,3,3,Apartment,Semi-Furnished,1,20,21356223
+P00832,Pune,Wakad,2567,4,5,Apartment,Furnished,1,12,21608538
+P00833,Noida,Greater Noida West,1189,2,2,Independent House,Furnished,2,29,10530794
+P00834,Kolkata,New Town,2639,4,5,Apartment,Furnished,1,19,12714181
+P00835,Ghaziabad,Crossings Republik,2767,4,3,Independent House,Unfurnished,1,26,15807866
+P00836,Noida,Sector 62,3069,5,4,Apartment,Semi-Furnished,1,21,21228659
+P00837,Pune,Hadapsar,3159,5,4,Independent House,Unfurnished,1,11,27670476
+P00838,Noida,Sector 75,2042,3,2,Apartment,Furnished,1,7,13500327
+P00839,Hyderabad,Kukatpally,2836,5,5,Apartment,Unfurnished,1,16,23080202
+P00840,Hyderabad,Gachibowli,2873,5,5,Apartment,Furnished,1,8,22832174
+P00841,Bengaluru,Yelahanka,731,2,3,Apartment,Semi-Furnished,1,13,7960681
+P00842,Kolkata,Tollygunge,1748,2,1,Apartment,Unfurnished,2,19,10422567
+P00843,Pune,Kharadi,1095,1,1,Independent House,Furnished,0,9,11683917
+P00844,Kolkata,Tollygunge,1232,2,2,Independent House,Unfurnished,1,9,7568901
+P00845,Noida,Greater Noida West,1454,2,2,Apartment,Furnished,1,4,13087981
+P00846,Noida,Sector 137,1004,1,1,Apartment,Unfurnished,1,19,6560104
+P00847,Mumbai,Navi Mumbai,1725,2,1,Independent House,Unfurnished,1,3,29749932
+P00848,Delhi,Dwarka,985,3,3,Apartment,Semi-Furnished,1,29,8626224
+P00849,Mumbai,Navi Mumbai,1898,4,4,Apartment,Unfurnished,1,9,28998775
+P00850,Noida,Sector 75,2350,3,3,Apartment,Semi-Furnished,0,16,17476860
+P00851,Ghaziabad,Indirapuram,1087,2,2,Apartment,Semi-Furnished,1,9,6262005
+P00852,Delhi,Saket,2098,3,2,Apartment,Furnished,1,15,17429230
+P00853,Pune,Baner,2175,4,5,Apartment,Unfurnished,1,15,17139589
+P00854,Mumbai,Borivali,2542,3,2,Apartment,Unfurnished,1,8,32569592
+P00855,Pune,Kharadi,721,1,2,Independent House,Unfurnished,1,10,6619494
+P00856,Pune,Hinjewadi,1979,4,4,Independent House,Furnished,2,7,18588549
+P00857,Delhi,Janakpuri,2554,4,5,Apartment,Unfurnished,1,8,28291596
+P00858,Mumbai,Thane,1406,2,1,Independent House,Semi-Furnished,2,14,23794973
+P00859,Kolkata,Salt Lake,488,1,1,Villa,Unfurnished,1,10,3662344
+P00860,Hyderabad,Kondapur,2782,4,4,Apartment,Semi-Furnished,1,13,22415049
+P00861,Delhi,Rohini,1177,2,2,Independent House,Unfurnished,2,7,11589786
+P00862,Delhi,Laxmi Nagar,2032,3,2,Apartment,Semi-Furnished,0,4,20236312
+P00863,Pune,Hadapsar,2941,5,5,Apartment,Furnished,1,11,25072784
+P00864,Delhi,Dwarka,1392,3,2,Apartment,Unfurnished,1,0,14553868
+P00865,Ghaziabad,Crossings Republik,2564,5,4,Apartment,Unfurnished,1,1,14727599
+P00866,Bengaluru,Electronic City,2904,3,2,Apartment,Unfurnished,2,28,22880139
+P00867,Delhi,Saket,568,1,2,Independent House,Unfurnished,2,28,5982327
+P00868,Delhi,Dwarka,1498,1,2,Independent House,Unfurnished,1,4,16511282
+P00869,Delhi,Dwarka,1905,3,4,Independent House,Semi-Furnished,1,19,18782276
+P00870,Bengaluru,Electronic City,2373,3,4,Apartment,Semi-Furnished,1,20,23596446
+P00871,Kolkata,Dum Dum,1589,2,3,Independent House,Semi-Furnished,1,7,11516618
+P00872,Noida,Sector 75,1157,2,1,Independent House,Semi-Furnished,1,29,10431036
+P00873,Mumbai,Thane,1295,3,4,Apartment,Unfurnished,1,17,20939875
+P00874,Delhi,Laxmi Nagar,1197,2,3,Apartment,Furnished,1,22,12974203
+P00875,Ghaziabad,Indirapuram,1823,3,4,Apartment,Unfurnished,2,22,8818278
+P00876,Noida,Sector 62,2792,5,4,Independent House,Unfurnished,0,8,20343148
+P00877,Bengaluru,Whitefield,1000,1,2,Apartment,Unfurnished,1,20,9182444
+P00878,Pune,Hadapsar,2873,4,3,Apartment,Unfurnished,1,24,23947664
+P00879,Delhi,Rohini,2241,3,2,Apartment,Unfurnished,1,2,19897945
+P00880,Delhi,Rohini,520,1,1,Apartment,Furnished,1,9,4992647
+P00881,Ghaziabad,Raj Nagar,2975,4,4,Villa,Semi-Furnished,1,12,24424865
+P00882,Ghaziabad,Vaishali,823,1,2,Independent House,Furnished,1,7,6085122
+P00883,Kolkata,Tollygunge,480,1,1,Apartment,Semi-Furnished,1,1,2842100
+P00884,Noida,Greater Noida West,2903,4,3,Apartment,Furnished,1,14,21143516
+P00885,Bengaluru,Electronic City,1327,2,2,Independent House,Semi-Furnished,1,18,14886427
+P00886,Mumbai,Andheri,2904,5,5,Apartment,Unfurnished,0,14,37829989
+P00887,Bengaluru,Sarjapur,2966,5,4,Villa,Unfurnished,1,27,37735204
+P00888,Mumbai,Thane,1912,2,2,Apartment,Furnished,1,4,30995202
+P00889,Delhi,Janakpuri,1503,1,2,Independent House,Semi-Furnished,1,26,15897592
+P00890,Mumbai,Borivali,1600,3,2,Apartment,Unfurnished,1,13,22386402
+P00891,Delhi,Saket,2280,3,4,Independent House,Semi-Furnished,0,18,23756635
+P00892,Kolkata,Tollygunge,2091,3,3,Apartment,Semi-Furnished,0,10,11909429
+P00893,Kolkata,New Town,1435,1,1,Apartment,Semi-Furnished,1,5,7526037
+P00894,Delhi,Dwarka,2588,4,4,Apartment,Semi-Furnished,2,13,23946688
+P00895,Kolkata,Salt Lake,3113,5,4,Independent House,Semi-Furnished,1,24,16268811
+P00896,Pune,Wakad,1759,3,2,Apartment,Semi-Furnished,1,12,12674689
+P00897,Delhi,Saket,1903,3,3,Apartment,Semi-Furnished,1,8,18737381
+P00898,Mumbai,Thane,2147,4,4,Apartment,Semi-Furnished,1,20,31017316
+P00899,Noida,Greater Noida West,1411,4,4,Independent House,Semi-Furnished,1,6,13050140
+P00900,Bengaluru,Yelahanka,972,1,2,Apartment,Semi-Furnished,1,4,10694652
+P00901,Delhi,Laxmi Nagar,1205,2,3,Villa,Semi-Furnished,1,23,16577618
+P00902,Noida,Sector 62,1380,2,3,Apartment,Semi-Furnished,1,15,8038204
+P00903,Delhi,Laxmi Nagar,1461,2,2,Apartment,Unfurnished,1,11,14283265
+P00904,Bengaluru,HSR Layout,2819,3,2,Apartment,Semi-Furnished,1,23,25857110
+P00905,Ghaziabad,Raj Nagar,2967,5,4,Apartment,Furnished,2,22,15713416
+P00906,Pune,Hinjewadi,2438,5,4,Apartment,Unfurnished,1,18,18815122
+P00907,Mumbai,Powai,1403,1,2,Independent House,Semi-Furnished,0,0,28431149
+P00908,Ghaziabad,Indirapuram,1352,3,2,Apartment,Furnished,0,3,8320584
+P00909,Mumbai,Thane,1286,2,2,Apartment,Semi-Furnished,1,16,21780145
+P00910,Pune,Wakad,1654,4,3,Apartment,Unfurnished,1,7,14156126
+P00911,Kolkata,New Town,3110,5,4,Apartment,Furnished,2,22,15154808
+P00912,Kolkata,Dum Dum,1177,1,1,Apartment,Unfurnished,0,19,5289229
+P00913,Noida,Sector 62,731,2,1,Apartment,Semi-Furnished,2,12,5213899
+P00914,Ghaziabad,Crossings Republik,2364,3,2,Independent House,Semi-Furnished,2,14,15370619
+P00915,Pune,Wakad,1650,4,5,Apartment,Semi-Furnished,1,25,13354175
+P00916,Kolkata,New Town,2247,3,4,Independent House,Semi-Furnished,1,18,12371010
+P00917,Bengaluru,Electronic City,1063,2,1,Independent House,Unfurnished,2,21,12288543
+P00918,Noida,Greater Noida West,2028,3,4,Independent House,Furnished,1,19,20727924
+P00919,Hyderabad,Kondapur,1171,1,2,Apartment,Semi-Furnished,1,23,7866606
+P00920,Hyderabad,Uppal,2415,3,4,Apartment,Furnished,0,27,20410543
+P00921,Mumbai,Navi Mumbai,539,1,1,Apartment,Semi-Furnished,2,9,8276556
+P00922,Ghaziabad,Crossings Republik,2035,3,4,Apartment,Semi-Furnished,1,2,14364768
+P00923,Hyderabad,Miyapur,2475,3,4,Apartment,Furnished,1,25,20837541
+P00924,Delhi,Laxmi Nagar,991,1,1,Villa,Furnished,1,21,15052083
+P00925,Kolkata,Salt Lake,3156,4,4,Apartment,Unfurnished,0,28,14719019
+P00926,Noida,Sector 75,2945,4,5,Independent House,Semi-Furnished,1,24,26281094
+P00927,Bengaluru,HSR Layout,1550,2,3,Apartment,Semi-Furnished,2,23,13873050
+P00928,Mumbai,Andheri,598,1,1,Apartment,Furnished,0,16,9904097
+P00929,Pune,Wakad,2713,4,5,Apartment,Unfurnished,1,15,15293818
+P00930,Kolkata,Tollygunge,1377,3,3,Apartment,Semi-Furnished,1,3,7577013
+P00931,Kolkata,Tollygunge,2680,3,2,Apartment,Unfurnished,1,15,13018096
+P00932,Pune,Baner,2481,4,3,Apartment,Unfurnished,0,28,20869961
+P00933,Delhi,Laxmi Nagar,3151,5,5,Apartment,Semi-Furnished,1,30,31818213
+P00934,Kolkata,Behala,1465,2,1,Apartment,Furnished,0,3,8928621
+P00935,Ghaziabad,Raj Nagar,1664,3,2,Apartment,Unfurnished,1,3,8867956
+P00936,Hyderabad,Miyapur,3056,4,3,Apartment,Unfurnished,1,21,22220480
+P00937,Noida,Sector 75,1535,1,1,Villa,Unfurnished,2,23,14610926
+P00938,Hyderabad,Kondapur,2636,3,4,Independent House,Semi-Furnished,1,19,21933525
+P00939,Kolkata,Salt Lake,1514,1,1,Independent House,Semi-Furnished,1,1,8433531
+P00940,Ghaziabad,Vaishali,1372,1,2,Apartment,Unfurnished,1,0,6790316
+P00941,Hyderabad,Kondapur,1437,2,1,Apartment,Unfurnished,0,28,11416481
+P00942,Kolkata,Dum Dum,2318,3,4,Independent House,Semi-Furnished,1,25,11922765
+P00943,Ghaziabad,Crossings Republik,2550,4,4,Villa,Furnished,1,30,21997299
+P00944,Kolkata,Tollygunge,1712,4,4,Apartment,Semi-Furnished,0,9,9789348
+P00945,Delhi,Rohini,1722,3,4,Apartment,Semi-Furnished,1,18,17588638
+P00946,Mumbai,Borivali,2555,5,5,Independent House,Unfurnished,1,26,43162220
+P00947,Ghaziabad,Crossings Republik,1027,3,3,Villa,Semi-Furnished,2,4,8634424
+P00948,Pune,Baner,3075,4,3,Apartment,Semi-Furnished,1,5,25819271
+P00949,Delhi,Laxmi Nagar,616,1,1,Apartment,Semi-Furnished,0,5,6827799
+P00950,Bengaluru,Whitefield,2473,4,5,Apartment,Unfurnished,2,11,20470469
+P00951,Bengaluru,Electronic City,1678,2,1,Independent House,Semi-Furnished,0,1,18912142
+P00952,Mumbai,Navi Mumbai,1343,2,2,Apartment,Unfurnished,1,20,21888749
+P00953,Mumbai,Navi Mumbai,1293,2,3,Independent House,Semi-Furnished,1,2,21812077
+P00954,Ghaziabad,Kaushambi,465,2,3,Apartment,Semi-Furnished,0,18,2891503
+P00955,Ghaziabad,Crossings Republik,2033,3,3,Apartment,Semi-Furnished,2,26,12510296
+P00956,Delhi,Laxmi Nagar,2418,4,3,Apartment,Unfurnished,1,6,24813362
+P00957,Bengaluru,HSR Layout,2391,4,3,Apartment,Unfurnished,2,29,25771486
+P00958,Ghaziabad,Crossings Republik,991,1,2,Independent House,Semi-Furnished,1,18,7051104
+P00959,Ghaziabad,Kaushambi,3072,5,5,Independent House,Furnished,1,21,21702744
+P00960,Kolkata,New Town,991,2,3,Apartment,Semi-Furnished,2,18,4095911
+P00961,Pune,Kharadi,2132,3,2,Independent House,Semi-Furnished,0,23,20570131
+P00962,Kolkata,Tollygunge,1953,3,4,Apartment,Unfurnished,1,17,9722601
+P00963,Pune,Wakad,1183,1,2,Apartment,Unfurnished,1,7,9171501
+P00964,Hyderabad,Kondapur,2256,4,4,Independent House,Unfurnished,1,22,18632784
+P00965,Noida,Greater Noida West,937,2,3,Apartment,Semi-Furnished,1,5,7782677
+P00966,Ghaziabad,Indirapuram,2730,4,4,Villa,Semi-Furnished,0,20,20948005
+P00967,Mumbai,Navi Mumbai,1027,2,2,Independent House,Semi-Furnished,1,24,16613597
+P00968,Mumbai,Powai,2615,4,3,Apartment,Unfurnished,1,12,48390394
+P00969,Ghaziabad,Vaishali,2055,5,4,Villa,Semi-Furnished,1,6,17866670
+P00970,Delhi,Saket,1530,2,3,Apartment,Furnished,1,22,14257152
+P00971,Pune,Kharadi,2061,3,2,Apartment,Semi-Furnished,1,28,16238219
+P00972,Kolkata,Tollygunge,1793,3,4,Apartment,Unfurnished,2,27,10005904
+P00973,Ghaziabad,Vaishali,2450,3,3,Apartment,Unfurnished,0,2,12957800
+P00974,Delhi,Saket,3071,5,4,Apartment,Semi-Furnished,0,15,28677018
+P00975,Ghaziabad,Crossings Republik,2025,3,3,Independent House,Furnished,1,4,14099603
+P00976,Delhi,Laxmi Nagar,2605,4,5,Apartment,Furnished,1,28,28680808
+P00977,Ghaziabad,Raj Nagar,2264,3,2,Villa,Semi-Furnished,1,16,18415048
+P00978,Ghaziabad,Crossings Republik,3049,4,4,Independent House,Semi-Furnished,0,3,20952145
+P00979,Mumbai,Borivali,2956,4,3,Apartment,Semi-Furnished,2,29,39685818
+P00980,Kolkata,Dum Dum,1328,2,2,Apartment,Semi-Furnished,1,7,7613102
+P00981,Delhi,Laxmi Nagar,2508,3,3,Apartment,Semi-Furnished,1,22,23333495
+P00982,Delhi,Janakpuri,2260,4,4,Independent House,Semi-Furnished,0,6,28306252
+P00983,Bengaluru,Whitefield,801,1,1,Independent House,Unfurnished,2,16,8717299
+P00984,Noida,Greater Noida West,3005,4,4,Independent House,Unfurnished,0,20,24443583
+P00985,Kolkata,New Town,1758,4,4,Independent House,Furnished,2,26,9891205
+P00986,Pune,Hadapsar,583,1,2,Apartment,Semi-Furnished,1,19,5672060
+P00987,Pune,Wakad,1186,2,2,Villa,Semi-Furnished,1,19,15083755
+P00988,Hyderabad,Kondapur,2246,3,2,Apartment,Furnished,2,17,18205941
+P00989,Pune,Wakad,476,1,1,Apartment,Unfurnished,2,11,3625146
+P00990,Ghaziabad,Vaishali,1515,3,2,Apartment,Semi-Furnished,2,14,8600943
+P00991,Ghaziabad,Kaushambi,513,1,1,Apartment,Semi-Furnished,1,26,2968521
+P00992,Delhi,Dwarka,509,1,1,Independent House,Unfurnished,2,30,4509799
+P00993,Kolkata,Salt Lake,2437,4,4,Apartment,Semi-Furnished,1,17,11468263
+P00994,Noida,Greater Noida West,1914,1,1,Independent House,Semi-Furnished,1,29,17324752
+P00995,Pune,Kharadi,1298,1,1,Independent House,Semi-Furnished,2,14,13986776
+P00996,Pune,Hadapsar,504,2,2,Apartment,Unfurnished,1,10,4024700
+P00997,Bengaluru,HSR Layout,2349,4,5,Apartment,Unfurnished,0,6,24714563
+P00998,Mumbai,Borivali,1367,3,3,Independent House,Unfurnished,1,15,20138496
+P00999,Pune,Wakad,1031,1,1,Apartment,Unfurnished,1,8,8937835
+P01000,Delhi,Janakpuri,469,1,1,Apartment,Unfurnished,1,20,4692353
+P01001,Delhi,Rohini,1955,2,1,Independent House,Furnished,1,3,20520543
+P01002,Delhi,Dwarka,1263,2,3,Apartment,Furnished,2,1,12369086
+P01003,Noida,Greater Noida West,2121,2,1,Apartment,Furnished,2,20,17262579
+P01004,Delhi,Laxmi Nagar,1459,2,2,Independent House,Semi-Furnished,1,4,17982947
+P01005,Bengaluru,Yelahanka,2485,3,3,Apartment,Furnished,2,0,23538474
+P01006,Hyderabad,Uppal,2892,5,5,Apartment,Semi-Furnished,2,21,21907028
+P01007,Delhi,Saket,1598,2,2,Villa,Semi-Furnished,0,12,22277467
+P01008,Ghaziabad,Raj Nagar,2563,3,2,Apartment,Semi-Furnished,2,20,13436685
+P01009,Bengaluru,HSR Layout,951,2,3,Apartment,Semi-Furnished,0,21,8873551
+P01010,Noida,Sector 137,601,1,1,Apartment,Furnished,1,27,4642029
+P01011,Kolkata,Tollygunge,2169,4,4,Apartment,Semi-Furnished,2,17,10948779
+P01012,Bengaluru,Whitefield,535,1,1,Independent House,Semi-Furnished,1,10,5950603
+P01013,Ghaziabad,Vaishali,3140,4,3,Independent House,Unfurnished,1,30,18918419
+P01014,Delhi,Rohini,2545,4,5,Apartment,Semi-Furnished,1,24,24868370
+P01015,Kolkata,Dum Dum,2363,4,5,Apartment,Semi-Furnished,1,13,13219510
+P01016,Pune,Kharadi,3178,5,5,Apartment,Semi-Furnished,1,28,24406207
+P01017,Bengaluru,Yelahanka,1016,1,2,Villa,Semi-Furnished,1,16,15417818
+P01018,Hyderabad,Kukatpally,2745,3,3,Apartment,Semi-Furnished,0,20,21035270
+P01019,Bengaluru,Sarjapur,3077,3,2,Apartment,Unfurnished,2,6,27033233
+P01020,Delhi,Laxmi Nagar,890,1,2,Apartment,Semi-Furnished,1,17,9267753
+P01021,Pune,Kharadi,2029,3,3,Apartment,Semi-Furnished,1,8,16582497
+P01022,Noida,Sector 75,574,1,1,Independent House,Semi-Furnished,1,25,5322494
+P01023,Ghaziabad,Indirapuram,2003,5,5,Apartment,Unfurnished,1,28,9593051
+P01024,Bengaluru,HSR Layout,2251,3,2,Apartment,Furnished,1,10,25673359
+P01025,Delhi,Saket,1149,2,1,Apartment,Semi-Furnished,2,20,10661493
+P01026,Kolkata,Dum Dum,2053,3,4,Apartment,Furnished,2,19,11356151
+P01027,Noida,Greater Noida West,2070,3,4,Independent House,Unfurnished,0,8,18877151
+P01028,Ghaziabad,Kaushambi,1416,2,3,Apartment,Semi-Furnished,0,7,9669832
+P01029,Delhi,Rohini,1169,2,3,Apartment,Unfurnished,0,21,10692476
+P01030,Kolkata,Tollygunge,1626,2,2,Apartment,Semi-Furnished,1,27,8433604
+P01031,Mumbai,Thane,2969,5,4,Villa,Semi-Furnished,2,21,57006765
+P01032,Bengaluru,Electronic City,2411,4,5,Apartment,Semi-Furnished,1,5,27296377
+P01033,Kolkata,Tollygunge,577,1,1,Apartment,Furnished,1,21,3728888
+P01034,Mumbai,Navi Mumbai,2337,3,4,Villa,Unfurnished,0,10,51787978
+P01035,Pune,Hadapsar,2114,3,2,Apartment,Semi-Furnished,1,11,15725255
+P01036,Kolkata,Dum Dum,2233,3,4,Apartment,Furnished,1,9,12691972
+P01037,Mumbai,Andheri,1557,3,4,Villa,Semi-Furnished,0,12,27427636
+P01038,Pune,Kharadi,1378,2,1,Independent House,Unfurnished,2,22,12201450
+P01039,Pune,Hinjewadi,1705,2,2,Apartment,Semi-Furnished,1,14,14098417
+P01040,Noida,Sector 137,1954,2,1,Apartment,Unfurnished,1,18,13966229
+P01041,Ghaziabad,Vaishali,2488,5,5,Apartment,Unfurnished,0,27,16185508
+P01042,Mumbai,Navi Mumbai,1726,3,4,Apartment,Semi-Furnished,0,5,28772996
+P01043,Kolkata,Salt Lake,2776,4,3,Apartment,Semi-Furnished,1,1,14084910
+P01044,Kolkata,New Town,1202,2,1,Independent House,Unfurnished,1,10,6438216
+P01045,Ghaziabad,Vaishali,1183,2,3,Apartment,Furnished,0,21,6671235
+P01046,Noida,Sector 75,2254,5,4,Villa,Unfurnished,1,2,26184616
+P01047,Hyderabad,Uppal,1529,2,2,Apartment,Semi-Furnished,2,0,12655602
+P01048,Bengaluru,Yelahanka,3159,5,5,Independent House,Furnished,2,12,39760753
+P01049,Bengaluru,Whitefield,2696,3,4,Apartment,Semi-Furnished,2,29,26304713
+P01050,Bengaluru,Whitefield,983,2,3,Apartment,Semi-Furnished,1,13,9595586
+P01051,Hyderabad,Gachibowli,2638,2,1,Apartment,Unfurnished,1,1,17898445
+P01052,Noida,Greater Noida West,911,2,2,Apartment,Furnished,1,18,7699850
+P01053,Mumbai,Powai,3115,3,3,Independent House,Unfurnished,2,25,57573593
+P01054,Pune,Kharadi,1155,2,1,Apartment,Unfurnished,1,29,8287869
+P01055,Mumbai,Andheri,843,1,2,Independent House,Unfurnished,0,11,13399488
+P01056,Pune,Kharadi,1894,3,2,Independent House,Furnished,2,24,17855612
+P01057,Mumbai,Thane,2336,3,3,Independent House,Furnished,1,23,43610774
+P01058,Noida,Sector 75,3055,4,4,Apartment,Furnished,0,26,21184168
+P01059,Bengaluru,Whitefield,778,1,1,Apartment,Unfurnished,2,30,6768926
+P01060,Bengaluru,Yelahanka,1214,2,3,Independent House,Semi-Furnished,2,24,13574481
+P01061,Noida,Sector 150,1303,1,2,Apartment,Semi-Furnished,0,18,9289799
+P01062,Noida,Sector 62,2402,3,3,Apartment,Unfurnished,2,19,14793674
+P01063,Mumbai,Borivali,2610,4,4,Independent House,Furnished,1,0,51857020
+P01064,Bengaluru,Whitefield,2003,3,3,Independent House,Semi-Furnished,1,0,23720084
+P01065,Noida,Greater Noida West,2013,3,2,Independent House,Semi-Furnished,2,24,19753204
+P01066,Noida,Sector 137,3140,5,5,Apartment,Semi-Furnished,2,21,23412046
+P01067,Hyderabad,Uppal,479,1,1,Apartment,Semi-Furnished,2,3,4261964
+P01068,Pune,Hinjewadi,1946,3,3,Apartment,Unfurnished,1,29,13554737
+P01069,Ghaziabad,Kaushambi,528,1,1,Apartment,Semi-Furnished,2,2,3568428
+P01070,Mumbai,Powai,1117,1,1,Apartment,Semi-Furnished,0,30,17360694
+P01071,Hyderabad,Gachibowli,1932,3,4,Apartment,Semi-Furnished,0,4,16054159
+P01072,Ghaziabad,Indirapuram,1177,3,3,Independent House,Unfurnished,1,1,7074352
+P01073,Noida,Greater Noida West,2617,3,2,Independent House,Semi-Furnished,1,15,22866792
+P01074,Delhi,Laxmi Nagar,2760,3,3,Apartment,Unfurnished,2,18,31326150
+P01075,Kolkata,New Town,2484,3,4,Apartment,Semi-Furnished,1,11,11581953
+P01076,Mumbai,Powai,2404,5,5,Apartment,Semi-Furnished,1,29,39302681
+P01077,Kolkata,Behala,3003,5,5,Independent House,Furnished,1,2,21034036
+P01078,Mumbai,Andheri,571,1,1,Apartment,Unfurnished,1,10,8727357
+P01079,Hyderabad,Kukatpally,2211,3,3,Apartment,Furnished,0,18,19351654
+P01080,Bengaluru,HSR Layout,2029,3,2,Villa,Furnished,1,19,32769935
+P01081,Ghaziabad,Vaishali,2325,4,4,Apartment,Unfurnished,1,12,12247474
+P01082,Pune,Kharadi,3135,5,4,Villa,Semi-Furnished,1,12,38596273
+P01083,Noida,Sector 62,3111,5,5,Apartment,Semi-Furnished,1,26,19973511
+P01084,Ghaziabad,Kaushambi,1851,3,3,Independent House,Semi-Furnished,1,12,11904655
+P01085,Mumbai,Powai,970,3,4,Apartment,Furnished,2,4,18667253
+P01086,Bengaluru,Sarjapur,1682,2,1,Villa,Unfurnished,1,0,23980439
+P01087,Kolkata,Salt Lake,2422,3,3,Apartment,Furnished,1,4,14072818
+P01088,Kolkata,Tollygunge,2120,4,3,Independent House,Semi-Furnished,1,1,14181118
+P01089,Kolkata,Salt Lake,3059,5,5,Independent House,Unfurnished,0,24,16944477
+P01090,Pune,Hinjewadi,3061,5,4,Apartment,Furnished,1,7,25972260
+P01091,Delhi,Dwarka,3163,5,5,Apartment,Semi-Furnished,0,1,22582629
+P01092,Kolkata,Salt Lake,1452,3,3,Apartment,Unfurnished,1,5,7920889
+P01093,Bengaluru,Electronic City,806,1,1,Independent House,Semi-Furnished,1,16,8135182
+P01094,Hyderabad,Miyapur,1458,3,4,Villa,Semi-Furnished,2,25,16952037
+P01095,Kolkata,New Town,2267,4,5,Apartment,Unfurnished,2,22,10592636
+P01096,Pune,Hadapsar,1471,3,4,Independent House,Unfurnished,1,23,12327192
+P01097,Mumbai,Borivali,751,2,2,Apartment,Semi-Furnished,2,2,15253182
+P01098,Ghaziabad,Indirapuram,1713,3,3,Apartment,Semi-Furnished,1,21,8931452
+P01099,Delhi,Rohini,3183,5,5,Apartment,Semi-Furnished,1,25,29721048
+P01100,Delhi,Saket,2285,2,1,Independent House,Unfurnished,0,30,20762892
+P01101,Kolkata,Salt Lake,1846,3,3,Independent House,Unfurnished,1,30,10527773
+P01102,Delhi,Laxmi Nagar,624,1,1,Apartment,Semi-Furnished,1,26,6523512
+P01103,Hyderabad,Miyapur,1272,2,1,Apartment,Semi-Furnished,1,8,9714944
+P01104,Pune,Wakad,751,1,1,Apartment,Semi-Furnished,1,22,6324264
+P01105,Bengaluru,Yelahanka,1028,2,2,Apartment,Unfurnished,0,21,9971512
+P01106,Kolkata,Dum Dum,2671,5,5,Independent House,Semi-Furnished,0,16,16731842
+P01107,Hyderabad,Gachibowli,2381,5,5,Apartment,Semi-Furnished,2,26,17229150
+P01108,Delhi,Saket,1369,1,1,Apartment,Unfurnished,1,13,12427832
+P01109,Bengaluru,Sarjapur,1059,1,2,Apartment,Semi-Furnished,1,3,9529115
+P01110,Bengaluru,Yelahanka,1310,2,2,Villa,Semi-Furnished,1,11,20807067
+P01111,Delhi,Janakpuri,764,2,2,Independent House,Unfurnished,1,20,8367696
+P01112,Bengaluru,Yelahanka,3153,4,4,Apartment,Semi-Furnished,2,15,30946172
+P01113,Kolkata,Tollygunge,1269,1,1,Independent House,Semi-Furnished,1,4,8434431
+P01114,Bengaluru,HSR Layout,1259,1,1,Villa,Furnished,1,25,19195664
+P01115,Noida,Sector 137,492,1,2,Villa,Unfurnished,1,16,5007763
+P01116,Hyderabad,Miyapur,3102,4,3,Apartment,Furnished,1,0,27769959
+P01117,Pune,Hadapsar,1221,2,2,Villa,Unfurnished,1,21,13288523
+P01118,Ghaziabad,Raj Nagar,1585,3,4,Apartment,Semi-Furnished,0,0,8921142
+P01119,Kolkata,Tollygunge,2081,3,2,Villa,Unfurnished,0,9,16369606
+P01120,Kolkata,Behala,2253,4,3,Apartment,Semi-Furnished,2,28,11706430
+P01121,Bengaluru,Sarjapur,510,1,1,Apartment,Semi-Furnished,1,7,5523919
+P01122,Hyderabad,Kukatpally,520,1,1,Independent House,Semi-Furnished,1,7,4879870
+P01123,Delhi,Dwarka,2736,4,3,Apartment,Semi-Furnished,2,15,25787539
+P01124,Kolkata,Salt Lake,2648,3,3,Villa,Semi-Furnished,2,6,21811712
+P01125,Pune,Kharadi,484,1,1,Apartment,Unfurnished,0,26,3536430
+P01126,Hyderabad,Uppal,2097,3,3,Apartment,Unfurnished,2,8,16008861
+P01127,Ghaziabad,Vaishali,1227,2,2,Villa,Semi-Furnished,1,19,9230418
+P01128,Kolkata,Tollygunge,1964,3,3,Apartment,Furnished,1,19,11333662
+P01129,Delhi,Laxmi Nagar,552,1,2,Independent House,Unfurnished,1,13,5997072
+P01130,Delhi,Laxmi Nagar,3014,4,4,Apartment,Furnished,0,7,32745947
+P01131,Delhi,Dwarka,2022,2,1,Villa,Unfurnished,1,26,22633563
+P01132,Pune,Baner,2495,5,5,Apartment,Semi-Furnished,1,18,22202687
+P01133,Hyderabad,Gachibowli,1412,1,2,Apartment,Furnished,1,13,12685306
+P01134,Noida,Sector 62,1129,2,2,Independent House,Semi-Furnished,1,11,9123209
+P01135,Ghaziabad,Crossings Republik,2432,3,4,Apartment,Furnished,1,21,14657653
+P01136,Delhi,Rohini,2160,3,3,Apartment,Semi-Furnished,0,18,22628452
+P01137,Bengaluru,Electronic City,1777,4,3,Apartment,Semi-Furnished,1,18,18965308
+P01138,Delhi,Rohini,1705,4,3,Apartment,Semi-Furnished,1,23,15951810
+P01139,Hyderabad,Miyapur,2546,4,3,Villa,Semi-Furnished,1,29,27077068
+P01140,Noida,Greater Noida West,896,2,1,Apartment,Unfurnished,0,22,6490086
+P01141,Hyderabad,Miyapur,1505,2,3,Independent House,Furnished,1,4,15004022
+P01142,Noida,Sector 75,1393,2,3,Independent House,Semi-Furnished,2,9,12334791
+P01143,Ghaziabad,Raj Nagar,1493,2,1,Apartment,Semi-Furnished,1,23,7750814
+P01144,Mumbai,Andheri,489,1,1,Apartment,Unfurnished,1,30,6155871
+P01145,Pune,Hadapsar,808,2,1,Apartment,Unfurnished,2,26,6940227
+P01146,Kolkata,Salt Lake,1395,4,3,Apartment,Semi-Furnished,1,5,7538032
+P01147,Mumbai,Borivali,2992,4,5,Apartment,Semi-Furnished,1,15,38080994
+P01148,Pune,Wakad,2896,5,4,Villa,Unfurnished,0,10,33564975
+P01149,Delhi,Janakpuri,1078,2,3,Independent House,Unfurnished,1,19,13262532
+P01150,Hyderabad,Miyapur,1127,2,2,Apartment,Unfurnished,2,24,8621616
+P01151,Bengaluru,Electronic City,978,1,1,Independent House,Semi-Furnished,0,14,10913634
+P01152,Ghaziabad,Vaishali,760,1,1,Apartment,Unfurnished,1,17,4306930
+P01153,Bengaluru,Whitefield,2004,3,2,Apartment,Semi-Furnished,0,12,16134579
+P01154,Hyderabad,Kondapur,460,1,1,Apartment,Semi-Furnished,0,6,3997421
+P01155,Ghaziabad,Raj Nagar,2757,4,5,Apartment,Furnished,2,20,16123393
+P01156,Ghaziabad,Kaushambi,1449,3,2,Apartment,Semi-Furnished,1,16,9257833
+P01157,Hyderabad,Miyapur,2522,4,4,Apartment,Unfurnished,1,20,22401316
+P01158,Noida,Greater Noida West,2010,3,4,Independent House,Semi-Furnished,1,21,19131201
+P01159,Mumbai,Thane,2660,5,5,Apartment,Unfurnished,1,15,37215873
+P01160,Noida,Sector 137,981,2,1,Apartment,Semi-Furnished,1,3,7049773
+P01161,Delhi,Janakpuri,2978,4,5,Apartment,Unfurnished,2,17,28011146
+P01162,Pune,Hinjewadi,2309,3,3,Independent House,Furnished,1,13,18547614
+P01163,Mumbai,Andheri,2020,3,4,Independent House,Unfurnished,1,2,30194336
+P01164,Pune,Baner,2702,4,3,Apartment,Semi-Furnished,1,26,18679455
+P01165,Mumbai,Thane,2061,3,3,Apartment,Unfurnished,1,22,29975331
+P01166,Noida,Sector 137,2601,4,5,Independent House,Furnished,2,0,25043676
+P01167,Mumbai,Powai,1401,1,1,Villa,Unfurnished,2,17,29835633
+P01168,Hyderabad,Kukatpally,2915,5,4,Apartment,Semi-Furnished,2,12,24699988
+P01169,Delhi,Janakpuri,1886,3,4,Villa,Unfurnished,1,17,23807392
+P01170,Delhi,Laxmi Nagar,1523,3,3,Independent House,Unfurnished,1,20,16069347
+P01171,Mumbai,Andheri,1428,3,2,Independent House,Semi-Furnished,2,6,22782831
+P01172,Bengaluru,Whitefield,3136,5,4,Apartment,Semi-Furnished,1,4,29273162
+P01173,Ghaziabad,Kaushambi,483,1,2,Apartment,Unfurnished,1,29,2425358
+P01174,Hyderabad,Gachibowli,635,1,1,Apartment,Semi-Furnished,1,2,5324839
+P01175,Noida,Greater Noida West,1233,2,1,Apartment,Unfurnished,2,1,9928509
+P01176,Pune,Hinjewadi,2435,5,5,Apartment,Semi-Furnished,1,19,18007822
+P01177,Ghaziabad,Raj Nagar,2728,4,5,Independent House,Semi-Furnished,1,6,18681636
+P01178,Noida,Sector 150,779,1,1,Apartment,Unfurnished,1,9,5539623
+P01179,Noida,Sector 75,2367,4,4,Apartment,Semi-Furnished,2,26,15193705
+P01180,Mumbai,Powai,1463,2,1,Apartment,Semi-Furnished,1,19,23895102
+P01181,Kolkata,Salt Lake,991,1,2,Apartment,Semi-Furnished,0,2,5759985
+P01182,Ghaziabad,Crossings Republik,1742,4,5,Apartment,Semi-Furnished,1,29,10149676
+P01183,Delhi,Dwarka,1911,3,4,Villa,Unfurnished,0,18,24046443
+P01184,Mumbai,Navi Mumbai,830,2,1,Independent House,Semi-Furnished,1,2,16400334
+P01185,Kolkata,Dum Dum,1512,3,3,Apartment,Semi-Furnished,1,5,8247594
+P01186,Kolkata,Dum Dum,1473,3,4,Apartment,Semi-Furnished,1,20,8028775
+P01187,Ghaziabad,Crossings Republik,1775,3,3,Apartment,Semi-Furnished,1,22,9654095
+P01188,Kolkata,Behala,2832,4,5,Apartment,Unfurnished,0,25,14245988
+P01189,Noida,Greater Noida West,2434,4,5,Apartment,Semi-Furnished,1,29,15449886
+P01190,Hyderabad,Uppal,2509,4,5,Apartment,Semi-Furnished,2,30,21009760
+P01191,Hyderabad,Gachibowli,2615,4,4,Villa,Furnished,1,3,30360280
+P01192,Kolkata,Dum Dum,2853,5,4,Apartment,Unfurnished,1,15,16556214
+P01193,Hyderabad,Miyapur,2825,4,5,Apartment,Semi-Furnished,2,1,26109014
+P01194,Ghaziabad,Indirapuram,2773,4,3,Independent House,Furnished,1,12,20138748
+P01195,Bengaluru,Yelahanka,1643,4,4,Apartment,Semi-Furnished,2,28,14642957
+P01196,Delhi,Rohini,1375,2,2,Independent House,Semi-Furnished,1,12,14890663
+P01197,Ghaziabad,Raj Nagar,2858,5,5,Apartment,Unfurnished,1,21,13863837
+P01198,Bengaluru,Whitefield,630,1,1,Villa,Semi-Furnished,0,12,7851228
+P01199,Delhi,Laxmi Nagar,1866,4,5,Independent House,Semi-Furnished,2,5,24967393
+P01200,Delhi,Laxmi Nagar,2807,5,5,Independent House,Unfurnished,1,14,29211880
+P01201,Ghaziabad,Raj Nagar,2414,3,4,Apartment,Unfurnished,1,4,15961318
+P01202,Pune,Kharadi,798,2,2,Apartment,Unfurnished,1,21,7084547
+P01203,Hyderabad,Gachibowli,2915,4,3,Apartment,Unfurnished,2,0,20847967
+P01204,Bengaluru,Yelahanka,2271,3,4,Apartment,Semi-Furnished,1,6,24331847
+P01205,Noida,Sector 150,1191,1,2,Apartment,Semi-Furnished,1,17,8916955
+P01206,Pune,Wakad,1004,2,1,Apartment,Furnished,1,25,7113185
+P01207,Hyderabad,Miyapur,627,2,2,Apartment,Semi-Furnished,1,25,4267998
+P01208,Hyderabad,Kondapur,3091,4,5,Independent House,Furnished,1,10,30408140
+P01209,Mumbai,Borivali,1027,1,1,Independent House,Semi-Furnished,1,1,16473349
+P01210,Delhi,Dwarka,1814,3,4,Apartment,Semi-Furnished,2,9,14642648
+P01211,Delhi,Janakpuri,1949,4,3,Apartment,Semi-Furnished,1,6,18277774
+P01212,Delhi,Rohini,1413,2,1,Apartment,Furnished,1,30,10357635
+P01213,Ghaziabad,Vaishali,1025,2,2,Independent House,Semi-Furnished,1,12,6865527
+P01214,Mumbai,Powai,2134,2,3,Apartment,Semi-Furnished,0,9,35510618
+P01215,Mumbai,Powai,3098,5,5,Apartment,Semi-Furnished,0,14,45216473
+P01216,Mumbai,Navi Mumbai,1552,1,1,Villa,Semi-Furnished,1,23,33307444
+P01217,Mumbai,Navi Mumbai,2137,3,3,Apartment,Unfurnished,1,6,33765682
+P01218,Noida,Sector 137,1124,1,2,Apartment,Furnished,1,15,6447786
+P01219,Delhi,Dwarka,2585,4,5,Apartment,Unfurnished,1,0,23602322
+P01220,Kolkata,Dum Dum,821,1,1,Independent House,Furnished,2,0,5994025
+P01221,Pune,Hinjewadi,826,1,2,Apartment,Semi-Furnished,0,30,6688101
+P01222,Hyderabad,Gachibowli,2582,4,3,Apartment,Semi-Furnished,1,12,19890706
+P01223,Hyderabad,Gachibowli,1122,3,2,Independent House,Semi-Furnished,2,0,11008233
+P01224,Ghaziabad,Raj Nagar,529,1,2,Apartment,Semi-Furnished,1,11,3568238
+P01225,Noida,Greater Noida West,1082,1,1,Independent House,Semi-Furnished,2,6,9700827
+P01226,Noida,Sector 137,2925,4,4,Villa,Unfurnished,1,13,26316501
+P01227,Mumbai,Andheri,924,2,3,Independent House,Furnished,2,7,15982532
+P01228,Delhi,Laxmi Nagar,2985,5,5,Apartment,Furnished,0,18,33374831
+P01229,Kolkata,Tollygunge,1985,2,3,Apartment,Unfurnished,1,5,12023793
+P01230,Delhi,Dwarka,1992,3,2,Apartment,Furnished,1,2,18358006
+P01231,Noida,Sector 62,1913,4,4,Villa,Semi-Furnished,0,9,17223222
+P01232,Hyderabad,Gachibowli,1123,1,1,Apartment,Furnished,2,0,8414669
+P01233,Kolkata,Dum Dum,2541,4,3,Apartment,Semi-Furnished,1,6,14614326
+P01234,Kolkata,Tollygunge,1376,2,1,Independent House,Unfurnished,0,2,9285819
+P01235,Kolkata,Behala,2504,4,4,Apartment,Unfurnished,1,1,13964618
+P01236,Bengaluru,Yelahanka,1491,2,2,Independent House,Semi-Furnished,1,20,16324270
+P01237,Pune,Wakad,947,1,1,Independent House,Unfurnished,1,0,8538104
+P01238,Bengaluru,Electronic City,2742,4,5,Independent House,Semi-Furnished,1,0,27597411
+P01239,Noida,Sector 75,916,1,1,Apartment,Semi-Furnished,0,22,6096551
+P01240,Ghaziabad,Indirapuram,2184,4,3,Apartment,Semi-Furnished,2,23,11851651
+P01241,Delhi,Janakpuri,1017,3,4,Independent House,Furnished,1,26,12629264
+P01242,Noida,Sector 62,930,3,2,Apartment,Semi-Furnished,1,5,7286311
+P01243,Delhi,Saket,2508,4,4,Independent House,Unfurnished,0,10,29053761
+P01244,Pune,Wakad,1970,4,3,Apartment,Semi-Furnished,2,22,14436139
+P01245,Kolkata,Dum Dum,965,1,1,Apartment,Semi-Furnished,1,9,4889618
+P01246,Bengaluru,HSR Layout,798,1,2,Apartment,Semi-Furnished,1,20,7287406
+P01247,Hyderabad,Miyapur,1667,2,3,Villa,Unfurnished,0,10,20026558
+P01248,Bengaluru,Electronic City,2112,3,3,Apartment,Semi-Furnished,2,4,18631691
+P01249,Pune,Wakad,2544,5,5,Independent House,Semi-Furnished,1,16,23568222
+P01250,Hyderabad,Miyapur,938,1,1,Independent House,Unfurnished,1,29,7581339
+P01251,Noida,Sector 150,2319,5,5,Apartment,Furnished,1,18,18531161
+P01252,Hyderabad,Gachibowli,1915,3,3,Apartment,Semi-Furnished,2,6,14963482
+P01253,Ghaziabad,Indirapuram,753,1,1,Villa,Unfurnished,1,25,5535172
+P01254,Bengaluru,Sarjapur,1071,1,2,Apartment,Unfurnished,1,3,9969538
+P01255,Pune,Kharadi,2895,5,5,Independent House,Furnished,1,29,26878161
+P01256,Kolkata,Dum Dum,2509,4,5,Apartment,Furnished,2,19,13918903
+P01257,Mumbai,Powai,866,1,2,Apartment,Unfurnished,0,18,13566684
+P01258,Delhi,Saket,1033,3,4,Apartment,Unfurnished,1,19,9510393
+P01259,Mumbai,Thane,2352,2,1,Apartment,Semi-Furnished,1,4,39389779
+P01260,Ghaziabad,Raj Nagar,933,2,3,Apartment,Unfurnished,0,27,4637559
+P01261,Hyderabad,Kukatpally,2803,4,3,Apartment,Semi-Furnished,1,1,22775256
+P01262,Delhi,Dwarka,1171,2,1,Villa,Semi-Furnished,2,19,12692735
+P01263,Mumbai,Powai,1262,1,1,Apartment,Furnished,2,8,22201508
+P01264,Mumbai,Andheri,2094,3,2,Independent House,Semi-Furnished,0,20,34686153
+P01265,Noida,Sector 62,904,1,1,Apartment,Unfurnished,1,8,5953916
+P01266,Pune,Kharadi,2305,3,2,Apartment,Semi-Furnished,1,4,18863219
+P01267,Mumbai,Borivali,2301,3,4,Apartment,Unfurnished,1,12,28710592
+P01268,Mumbai,Navi Mumbai,593,1,1,Independent House,Unfurnished,0,4,9065806
+P01269,Noida,Sector 62,3090,5,4,Independent House,Furnished,1,6,25534707
+P01270,Bengaluru,Yelahanka,826,2,2,Independent House,Semi-Furnished,1,3,10722450
+P01271,Hyderabad,Kondapur,2333,4,5,Apartment,Unfurnished,1,30,15378598
+P01272,Mumbai,Thane,3046,5,4,Villa,Semi-Furnished,2,16,62107651
+P01273,Kolkata,Dum Dum,1624,2,1,Apartment,Unfurnished,0,4,9437776
+P01274,Bengaluru,Whitefield,912,2,2,Independent House,Semi-Furnished,1,29,10198518
+P01275,Delhi,Rohini,1191,2,3,Independent House,Furnished,1,22,12629288
+P01276,Ghaziabad,Vaishali,517,1,2,Independent House,Unfurnished,2,9,3560753
+P01277,Kolkata,Tollygunge,2561,3,3,Apartment,Unfurnished,1,1,13603434
+P01278,Hyderabad,Kondapur,898,1,1,Apartment,Furnished,1,13,7939157
+P01279,Ghaziabad,Crossings Republik,2075,2,1,Apartment,Semi-Furnished,2,29,11690768
+P01280,Kolkata,Tollygunge,2845,4,3,Independent House,Semi-Furnished,1,29,19764148
+P01281,Noida,Sector 150,1132,2,3,Apartment,Semi-Furnished,0,28,8030660
+P01282,Kolkata,Dum Dum,837,1,1,Independent House,Unfurnished,1,26,4357068
+P01283,Delhi,Dwarka,1603,3,4,Apartment,Semi-Furnished,1,7,14434967
+P01284,Mumbai,Borivali,1055,1,1,Villa,Unfurnished,1,3,22028439
+P01285,Mumbai,Navi Mumbai,2067,4,5,Apartment,Furnished,1,2,37071718
+P01286,Hyderabad,Kukatpally,454,1,1,Apartment,Furnished,0,8,4624173
+P01287,Hyderabad,Uppal,529,1,1,Apartment,Furnished,1,8,5298854
+P01288,Ghaziabad,Crossings Republik,3035,5,4,Villa,Unfurnished,0,11,27190550
+P01289,Pune,Hinjewadi,1652,1,1,Apartment,Semi-Furnished,1,3,12526482
+P01290,Bengaluru,HSR Layout,2660,4,3,Independent House,Furnished,0,20,30542779
+P01291,Kolkata,Tollygunge,1506,2,1,Apartment,Semi-Furnished,1,1,8894991
+P01292,Bengaluru,HSR Layout,1123,2,2,Independent House,Unfurnished,1,1,12819249
+P01293,Kolkata,Salt Lake,3092,4,4,Apartment,Semi-Furnished,1,2,15975356
+P01294,Pune,Kharadi,2589,5,5,Apartment,Semi-Furnished,2,3,21425378
+P01295,Hyderabad,Miyapur,1469,1,1,Apartment,Semi-Furnished,1,18,10367426
+P01296,Mumbai,Navi Mumbai,2933,3,4,Apartment,Unfurnished,1,3,38510733
+P01297,Hyderabad,Gachibowli,886,2,1,Apartment,Unfurnished,1,5,7542047
+P01298,Pune,Wakad,1067,1,1,Apartment,Semi-Furnished,1,21,8998547
+P01299,Mumbai,Borivali,2307,4,4,Villa,Unfurnished,0,24,43125017
+P01300,Delhi,Dwarka,2882,5,5,Apartment,Semi-Furnished,1,28,25638885
+P01301,Hyderabad,Uppal,1605,4,4,Apartment,Semi-Furnished,1,21,14664206
+P01302,Pune,Hinjewadi,2787,4,4,Apartment,Furnished,2,5,25695709
+P01303,Hyderabad,Kondapur,2950,5,4,Apartment,Semi-Furnished,2,14,23231523
+P01304,Mumbai,Andheri,549,1,1,Apartment,Unfurnished,0,21,8367219
+P01305,Kolkata,Dum Dum,1125,2,2,Apartment,Unfurnished,1,9,5920646
+P01306,Delhi,Janakpuri,609,1,1,Independent House,Unfurnished,2,0,6913907
+P01307,Kolkata,Tollygunge,1440,1,1,Apartment,Furnished,2,16,9432919
+P01308,Noida,Greater Noida West,1103,2,2,Independent House,Semi-Furnished,1,6,10783182
+P01309,Delhi,Laxmi Nagar,877,1,1,Apartment,Furnished,1,28,9014459
+P01310,Hyderabad,Uppal,2641,5,4,Apartment,Unfurnished,1,28,20752905
+P01311,Bengaluru,Sarjapur,459,1,2,Independent House,Unfurnished,2,11,5175072
+P01312,Delhi,Laxmi Nagar,2898,4,5,Apartment,Semi-Furnished,1,10,25474920
+P01313,Hyderabad,Uppal,1803,3,2,Apartment,Unfurnished,0,4,16006153
+P01314,Kolkata,Dum Dum,542,2,2,Apartment,Semi-Furnished,1,15,3310438
+P01315,Noida,Greater Noida West,760,1,1,Apartment,Semi-Furnished,1,19,5094645
+P01316,Kolkata,Behala,2613,3,3,Apartment,Furnished,1,9,14622466
+P01317,Noida,Sector 150,3119,5,4,Independent House,Semi-Furnished,1,19,22342803
+P01318,Mumbai,Borivali,819,2,1,Apartment,Semi-Furnished,0,10,10877893
+P01319,Bengaluru,Whitefield,2004,2,1,Apartment,Unfurnished,1,26,19540393
+P01320,Pune,Baner,3158,4,4,Apartment,Semi-Furnished,2,19,25612609
+P01321,Hyderabad,Gachibowli,1601,2,1,Villa,Semi-Furnished,1,23,18376146
+P01322,Kolkata,Behala,2689,5,5,Apartment,Unfurnished,1,10,13890353
+P01323,Mumbai,Borivali,3093,4,4,Apartment,Semi-Furnished,1,1,51136655
+P01324,Pune,Kharadi,1007,1,2,Apartment,Semi-Furnished,2,9,8979752
+P01325,Bengaluru,Electronic City,1698,3,4,Apartment,Unfurnished,2,28,15003294
+P01326,Delhi,Saket,2629,4,4,Apartment,Unfurnished,1,22,19697002
+P01327,Bengaluru,Electronic City,450,1,1,Apartment,Furnished,1,16,4542993
+P01328,Bengaluru,Yelahanka,2447,4,4,Villa,Furnished,1,30,35517122
+P01329,Ghaziabad,Raj Nagar,3097,4,3,Apartment,Unfurnished,1,22,17159387
+P01330,Pune,Baner,3096,5,5,Apartment,Semi-Furnished,1,0,26252249
+P01331,Mumbai,Andheri,2263,3,2,Independent House,Furnished,2,2,38731909
+P01332,Mumbai,Thane,643,2,2,Apartment,Furnished,1,28,9157426
+P01333,Pune,Kharadi,1984,3,4,Independent House,Unfurnished,1,7,17724550
+P01334,Bengaluru,Whitefield,2425,5,5,Apartment,Unfurnished,2,15,20945496
+P01335,Bengaluru,Yelahanka,1953,3,4,Apartment,Semi-Furnished,1,24,20026873
+P01336,Delhi,Saket,2194,2,1,Apartment,Furnished,0,20,17844521
+P01337,Mumbai,Powai,2549,3,4,Independent House,Semi-Furnished,1,23,47398642
+P01338,Ghaziabad,Raj Nagar,2817,4,4,Apartment,Unfurnished,2,11,16027148
+P01339,Delhi,Saket,2234,4,5,Apartment,Unfurnished,0,16,19073003
+P01340,Noida,Sector 62,798,1,1,Apartment,Furnished,0,9,5676611
+P01341,Kolkata,Tollygunge,2569,4,3,Independent House,Semi-Furnished,1,9,16941403
+P01342,Pune,Baner,577,1,1,Apartment,Unfurnished,1,25,4497248
+P01343,Hyderabad,Gachibowli,688,1,1,Apartment,Semi-Furnished,2,9,6231269
+P01344,Delhi,Saket,1416,4,3,Independent House,Unfurnished,1,15,14725223
+P01345,Delhi,Saket,1425,2,2,Apartment,Furnished,2,14,14594174
+P01346,Hyderabad,Gachibowli,853,1,2,Independent House,Unfurnished,1,9,6798878
+P01347,Mumbai,Andheri,1882,3,4,Apartment,Furnished,1,26,25066402
+P01348,Noida,Sector 137,572,2,3,Apartment,Unfurnished,1,17,4238682
+P01349,Pune,Hinjewadi,2150,2,1,Apartment,Furnished,0,13,17059091
+P01350,Pune,Hinjewadi,2675,4,5,Apartment,Semi-Furnished,1,23,21730847
+P01351,Delhi,Saket,1611,2,1,Apartment,Unfurnished,1,26,12765384
+P01352,Delhi,Dwarka,2386,5,4,Apartment,Unfurnished,1,21,21435909
+P01353,Ghaziabad,Crossings Republik,2142,4,4,Independent House,Semi-Furnished,1,18,13742523
+P01354,Delhi,Dwarka,1443,2,3,Apartment,Unfurnished,1,23,12887056
+P01355,Bengaluru,Electronic City,2402,4,4,Apartment,Unfurnished,1,6,24184985
+P01356,Ghaziabad,Kaushambi,580,1,2,Villa,Semi-Furnished,2,1,5559177
+P01357,Kolkata,Salt Lake,1594,2,3,Independent House,Semi-Furnished,1,24,9800986
+P01358,Kolkata,New Town,3108,5,4,Apartment,Semi-Furnished,1,7,16653949
+P01359,Bengaluru,HSR Layout,2064,3,2,Independent House,Semi-Furnished,1,13,24333002
+P01360,Noida,Sector 62,2497,5,5,Villa,Semi-Furnished,2,1,27397529
+P01361,Pune,Baner,2108,4,3,Independent House,Furnished,1,16,23653346
+P01362,Noida,Sector 62,2524,3,4,Apartment,Semi-Furnished,1,10,18063817
+P01363,Ghaziabad,Raj Nagar,2839,5,5,Apartment,Semi-Furnished,2,13,16639365
+P01364,Bengaluru,Sarjapur,788,2,1,Apartment,Semi-Furnished,1,4,6676563
+P01365,Noida,Sector 75,669,1,2,Apartment,Furnished,1,27,5102833
+P01366,Hyderabad,Uppal,1066,1,1,Apartment,Unfurnished,1,6,8239373
+P01367,Noida,Greater Noida West,2539,4,4,Apartment,Unfurnished,1,20,23014298
+P01368,Kolkata,Dum Dum,3007,4,3,Independent House,Furnished,0,22,16597679
+P01369,Delhi,Rohini,3120,5,5,Apartment,Semi-Furnished,2,13,27253698
+P01370,Ghaziabad,Vaishali,1991,3,2,Independent House,Semi-Furnished,1,14,11691682
+P01371,Kolkata,Dum Dum,1642,2,3,Apartment,Semi-Furnished,0,23,8181117
+P01372,Noida,Sector 137,1646,3,2,Apartment,Unfurnished,0,30,9338942
+P01373,Ghaziabad,Crossings Republik,2900,4,5,Apartment,Semi-Furnished,0,14,18062846
+P01374,Pune,Baner,509,1,1,Apartment,Semi-Furnished,1,23,4483134
+P01375,Kolkata,New Town,1897,4,5,Apartment,Semi-Furnished,1,18,10422459
+P01376,Mumbai,Thane,1540,2,3,Independent House,Unfurnished,1,24,21121732
+P01377,Delhi,Rohini,806,1,1,Apartment,Semi-Furnished,1,23,6972076
+P01378,Bengaluru,Whitefield,807,1,1,Villa,Semi-Furnished,0,9,10681895
+P01379,Ghaziabad,Crossings Republik,3117,4,3,Apartment,Unfurnished,1,13,16039051
+P01380,Mumbai,Navi Mumbai,2608,5,5,Apartment,Semi-Furnished,1,18,48198561
+P01381,Hyderabad,Kondapur,1899,2,3,Independent House,Furnished,1,1,18561671
+P01382,Ghaziabad,Indirapuram,3171,4,5,Apartment,Furnished,0,16,16189359
+P01383,Kolkata,Salt Lake,1912,3,3,Independent House,Unfurnished,1,17,11016871
+P01384,Hyderabad,Miyapur,930,1,2,Villa,Semi-Furnished,0,19,11661559
+P01385,Pune,Wakad,1834,3,4,Apartment,Semi-Furnished,1,24,12121048
+P01386,Noida,Sector 62,2560,5,4,Apartment,Semi-Furnished,1,12,16455697
+P01387,Kolkata,Tollygunge,943,2,3,Independent House,Semi-Furnished,1,27,5902370
+P01388,Pune,Wakad,640,1,1,Apartment,Semi-Furnished,2,19,4852434
+P01389,Hyderabad,Uppal,2599,5,5,Independent House,Semi-Furnished,1,5,28095073
+P01390,Ghaziabad,Kaushambi,920,1,2,Independent House,Semi-Furnished,0,24,5969295
+P01391,Bengaluru,HSR Layout,556,1,1,Apartment,Semi-Furnished,2,14,6319639
+P01392,Noida,Sector 137,2247,4,4,Independent House,Semi-Furnished,0,29,18338049
+P01393,Ghaziabad,Kaushambi,1348,2,2,Apartment,Unfurnished,1,4,8571442
+P01394,Pune,Baner,1398,2,1,Apartment,Semi-Furnished,1,4,13038266
+P01395,Mumbai,Powai,1884,2,3,Apartment,Semi-Furnished,1,25,25562203
+P01396,Hyderabad,Gachibowli,1534,2,2,Independent House,Unfurnished,2,16,13169500
+P01397,Noida,Sector 75,2044,3,4,Apartment,Furnished,2,13,16358627
+P01398,Ghaziabad,Vaishali,2676,4,5,Apartment,Unfurnished,2,19,15311837
+P01399,Ghaziabad,Kaushambi,1723,2,2,Apartment,Semi-Furnished,2,17,10219922
+P01400,Pune,Wakad,1608,3,4,Independent House,Semi-Furnished,1,2,14090335
+P01401,Noida,Sector 150,1150,3,4,Villa,Unfurnished,1,18,11264117
+P01402,Delhi,Saket,2145,3,3,Apartment,Unfurnished,1,24,17833221
+P01403,Ghaziabad,Kaushambi,1060,2,3,Independent House,Semi-Furnished,1,20,6414069
+P01404,Delhi,Laxmi Nagar,3019,4,5,Apartment,Unfurnished,2,23,28232274
+P01405,Bengaluru,Sarjapur,575,1,1,Apartment,Furnished,1,28,5944595
+P01406,Mumbai,Thane,2946,4,5,Independent House,Unfurnished,0,15,55158906
+P01407,Bengaluru,HSR Layout,2158,3,2,Villa,Semi-Furnished,1,13,33277384
+P01408,Delhi,Dwarka,2906,5,5,Independent House,Furnished,1,9,32545353
+P01409,Bengaluru,HSR Layout,969,1,1,Independent House,Unfurnished,1,15,10545075
+P01410,Pune,Wakad,2696,4,4,Apartment,Semi-Furnished,1,10,23154360
+P01411,Noida,Sector 150,2124,2,1,Villa,Semi-Furnished,1,29,21441705
+P01412,Bengaluru,Yelahanka,533,1,1,Apartment,Semi-Furnished,1,3,5995522
+P01413,Mumbai,Powai,967,2,2,Independent House,Unfurnished,1,20,15966749
+P01414,Mumbai,Thane,2689,4,5,Apartment,Furnished,2,21,35354729
+P01415,Ghaziabad,Kaushambi,2468,4,5,Apartment,Unfurnished,1,19,15021814
+P01416,Delhi,Dwarka,2113,3,2,Independent House,Semi-Furnished,0,26,19542454
+P01417,Pune,Hinjewadi,480,1,1,Apartment,Semi-Furnished,1,6,4067162
+P01418,Hyderabad,Miyapur,1818,3,3,Apartment,Semi-Furnished,1,19,14763560
+P01419,Mumbai,Thane,459,1,1,Apartment,Unfurnished,2,20,6326121
+P01420,Kolkata,New Town,2133,3,2,Apartment,Unfurnished,1,27,11179863
+P01421,Bengaluru,Electronic City,1763,4,4,Apartment,Semi-Furnished,1,19,16330420
+P01422,Kolkata,Behala,526,1,2,Apartment,Semi-Furnished,2,23,2982671
+P01423,Mumbai,Andheri,568,1,1,Independent House,Unfurnished,1,15,9635248
+P01424,Mumbai,Navi Mumbai,1784,2,1,Apartment,Semi-Furnished,1,27,21688223
+P01425,Delhi,Janakpuri,765,1,1,Apartment,Furnished,1,6,7587091
+P01426,Delhi,Dwarka,1613,3,4,Apartment,Furnished,1,4,17103970
+P01427,Noida,Sector 150,2787,3,3,Apartment,Unfurnished,2,15,17963199
+P01428,Hyderabad,Gachibowli,827,1,2,Villa,Furnished,1,5,10008239
+P01429,Noida,Sector 62,1467,3,3,Apartment,Furnished,2,1,11655027
+P01430,Delhi,Saket,1963,4,3,Apartment,Unfurnished,2,9,18905461
+P01431,Mumbai,Thane,2441,4,3,Apartment,Unfurnished,1,0,36678067
+P01432,Pune,Hadapsar,1426,1,2,Apartment,Semi-Furnished,1,3,12773009
+P01433,Bengaluru,HSR Layout,1308,3,3,Apartment,Semi-Furnished,0,4,14729047
+P01434,Ghaziabad,Crossings Republik,1356,3,4,Independent House,Unfurnished,1,10,8923343
+P01435,Mumbai,Navi Mumbai,799,2,1,Apartment,Furnished,1,12,13484374
+P01436,Delhi,Saket,1843,3,2,Apartment,Semi-Furnished,2,13,17282868
+P01437,Noida,Sector 75,743,2,3,Apartment,Semi-Furnished,1,25,4765058
+P01438,Ghaziabad,Raj Nagar,1951,3,2,Apartment,Semi-Furnished,2,1,13199343
+P01439,Kolkata,New Town,2183,3,4,Villa,Semi-Furnished,1,23,15777689
+P01440,Mumbai,Andheri,2594,3,2,Independent House,Furnished,2,26,36634301
+P01441,Delhi,Saket,2536,4,5,Apartment,Unfurnished,1,22,25249545
+P01442,Hyderabad,Kondapur,2330,4,4,Independent House,Unfurnished,0,9,20896512
+P01443,Bengaluru,Electronic City,2339,2,2,Apartment,Unfurnished,1,18,22376058
+P01444,Delhi,Laxmi Nagar,3006,5,5,Apartment,Semi-Furnished,2,18,27323405
+P01445,Hyderabad,Miyapur,2100,3,3,Apartment,Semi-Furnished,1,4,19121256
+P01446,Pune,Hadapsar,1263,2,2,Independent House,Furnished,1,17,12931197
+P01447,Pune,Hadapsar,2134,3,4,Apartment,Unfurnished,1,19,17189022
+P01448,Bengaluru,Whitefield,2977,4,3,Apartment,Semi-Furnished,2,28,24295305
+P01449,Pune,Baner,2133,4,5,Apartment,Semi-Furnished,2,21,18641526
+P01450,Ghaziabad,Indirapuram,2989,5,4,Apartment,Semi-Furnished,2,29,16593716
+P01451,Kolkata,New Town,2938,4,5,Apartment,Unfurnished,1,17,15046440
+P01452,Kolkata,Behala,1563,3,2,Independent House,Semi-Furnished,1,27,9358352
+P01453,Pune,Kharadi,3041,5,4,Apartment,Unfurnished,1,10,24379903
+P01454,Noida,Sector 137,2407,3,2,Villa,Unfurnished,2,3,27705409
+P01455,Hyderabad,Kukatpally,2097,3,3,Independent House,Furnished,1,3,21703669
+P01456,Hyderabad,Gachibowli,2950,5,5,Independent House,Furnished,1,1,25256710
+P01457,Mumbai,Powai,2063,2,2,Independent House,Semi-Furnished,2,23,38054785
+P01458,Pune,Hadapsar,3132,4,5,Apartment,Unfurnished,1,16,22713235
+P01459,Mumbai,Powai,2321,4,5,Apartment,Semi-Furnished,0,29,36645407
+P01460,Hyderabad,Gachibowli,3026,5,5,Villa,Semi-Furnished,2,8,34589068
+P01461,Mumbai,Thane,1651,3,3,Independent House,Furnished,1,1,30570707
+P01462,Pune,Baner,2130,3,4,Apartment,Semi-Furnished,1,27,17871782
+P01463,Delhi,Rohini,1082,1,2,Apartment,Semi-Furnished,1,2,9981622
+P01464,Ghaziabad,Raj Nagar,674,1,1,Apartment,Unfurnished,1,17,3493922
+P01465,Ghaziabad,Kaushambi,2905,4,4,Apartment,Furnished,0,3,18035589
+P01466,Hyderabad,Kukatpally,3081,5,5,Apartment,Unfurnished,1,2,27384204
+P01467,Kolkata,Dum Dum,2382,4,3,Apartment,Furnished,1,15,12621698
+P01468,Bengaluru,Sarjapur,2071,3,4,Apartment,Semi-Furnished,0,7,22159330
+P01469,Ghaziabad,Indirapuram,2367,3,4,Apartment,Furnished,0,27,11148853
+P01470,Pune,Baner,2836,5,4,Apartment,Semi-Furnished,1,24,23941627
+P01471,Pune,Kharadi,2306,4,3,Apartment,Semi-Furnished,1,29,18481246
+P01472,Ghaziabad,Kaushambi,2290,4,3,Apartment,Unfurnished,2,17,14177723
+P01473,Noida,Sector 137,463,1,1,Independent House,Unfurnished,1,17,3157575
+P01474,Noida,Sector 137,2598,4,5,Independent House,Semi-Furnished,1,26,22237266
+P01475,Delhi,Rohini,1420,2,3,Apartment,Semi-Furnished,0,22,14086394
+P01476,Delhi,Saket,2350,4,4,Apartment,Semi-Furnished,1,4,22343162
+P01477,Hyderabad,Uppal,1032,1,2,Apartment,Unfurnished,1,9,9189003
+P01478,Ghaziabad,Raj Nagar,2726,5,5,Independent House,Semi-Furnished,1,0,19396464
+P01479,Ghaziabad,Crossings Republik,2985,5,5,Apartment,Semi-Furnished,1,25,18169565
+P01480,Pune,Baner,2099,3,4,Apartment,Furnished,0,0,20903131
+P01481,Noida,Greater Noida West,1441,2,2,Apartment,Unfurnished,1,9,11096765
+P01482,Bengaluru,Whitefield,2130,3,2,Apartment,Unfurnished,1,5,23267270
+P01483,Hyderabad,Kukatpally,2886,3,2,Apartment,Semi-Furnished,1,23,23146851
+P01484,Hyderabad,Kondapur,2145,3,4,Apartment,Unfurnished,0,9,16385442
+P01485,Kolkata,Salt Lake,1730,3,3,Apartment,Semi-Furnished,0,23,9699246
+P01486,Mumbai,Borivali,1133,2,3,Apartment,Semi-Furnished,0,22,12592570
+P01487,Bengaluru,Whitefield,3133,5,5,Apartment,Semi-Furnished,1,22,27836534
+P01488,Pune,Hinjewadi,2630,4,4,Independent House,Semi-Furnished,1,19,25963158
+P01489,Bengaluru,Electronic City,2978,4,4,Independent House,Unfurnished,1,21,31490330
+P01490,Mumbai,Navi Mumbai,1080,3,2,Apartment,Semi-Furnished,2,15,16102197
+P01491,Delhi,Rohini,2442,4,3,Apartment,Semi-Furnished,0,12,23226859
+P01492,Noida,Sector 75,1329,3,2,Apartment,Semi-Furnished,0,6,10435725
+P01493,Noida,Sector 150,2823,5,4,Apartment,Semi-Furnished,0,21,21355379
+P01494,Hyderabad,Kondapur,3094,5,5,Apartment,Furnished,1,13,26518525
+P01495,Pune,Kharadi,3158,4,4,Independent House,Furnished,1,9,31861675
+P01496,Pune,Kharadi,3166,5,5,Independent House,Semi-Furnished,1,26,28496001
+P01497,Bengaluru,Whitefield,954,2,1,Apartment,Semi-Furnished,1,27,9361657
+P01498,Delhi,Dwarka,1409,2,1,Apartment,Semi-Furnished,1,21,12116983
+P01499,Bengaluru,Yelahanka,2258,3,2,Independent House,Unfurnished,2,28,26597896
+P01500,Kolkata,Tollygunge,3081,4,5,Apartment,Unfurnished,1,12,19987742
+P01501,Bengaluru,Sarjapur,3184,5,4,Apartment,Unfurnished,1,8,31589230
+P01502,Pune,Hinjewadi,2475,3,3,Villa,Unfurnished,1,13,25783844
+P01503,Mumbai,Andheri,563,1,1,Apartment,Furnished,1,24,8965703
+P01504,Delhi,Laxmi Nagar,1716,3,2,Apartment,Furnished,1,9,19586157
+P01505,Mumbai,Navi Mumbai,1998,4,5,Apartment,Unfurnished,2,26,26809691
+P01506,Delhi,Dwarka,2920,5,4,Apartment,Semi-Furnished,1,18,26546278
+P01507,Ghaziabad,Raj Nagar,1347,2,2,Apartment,Semi-Furnished,1,13,7302103
+P01508,Ghaziabad,Raj Nagar,1699,2,3,Independent House,Semi-Furnished,2,13,10148179
+P01509,Mumbai,Andheri,1472,3,4,Apartment,Unfurnished,1,29,17659709
+P01510,Bengaluru,Sarjapur,2309,3,2,Apartment,Unfurnished,0,15,23574946
+P01511,Noida,Sector 150,721,1,2,Apartment,Furnished,2,30,5656527
+P01512,Pune,Kharadi,2240,5,5,Independent House,Furnished,1,2,21544597
+P01513,Pune,Baner,2105,3,2,Independent House,Furnished,1,20,19695981
+P01514,Bengaluru,Sarjapur,1106,2,3,Apartment,Unfurnished,1,26,9279933
+P01515,Mumbai,Borivali,1809,3,2,Apartment,Semi-Furnished,1,10,27525565
+P01516,Hyderabad,Kukatpally,1460,2,2,Apartment,Unfurnished,0,23,10692697
+P01517,Pune,Hinjewadi,726,1,1,Apartment,Unfurnished,2,1,5599912
+P01518,Pune,Hadapsar,1434,1,1,Apartment,Unfurnished,0,23,11889427
+P01519,Ghaziabad,Indirapuram,1497,3,2,Independent House,Semi-Furnished,2,17,10397855
+P01520,Bengaluru,Electronic City,790,1,2,Apartment,Furnished,2,8,6954787
+P01521,Delhi,Janakpuri,2900,5,4,Apartment,Unfurnished,1,26,26465535
+P01522,Ghaziabad,Raj Nagar,3168,5,5,Apartment,Semi-Furnished,1,12,15663867
+P01523,Hyderabad,Uppal,1073,1,1,Apartment,Furnished,1,25,7734184
+P01524,Ghaziabad,Kaushambi,2057,2,3,Apartment,Furnished,1,8,13819833
+P01525,Bengaluru,Sarjapur,711,1,1,Independent House,Unfurnished,2,0,8020785
+P01526,Hyderabad,Kondapur,2440,4,4,Apartment,Unfurnished,0,18,15298233
+P01527,Delhi,Dwarka,1178,2,1,Independent House,Furnished,2,20,12303915
+P01528,Delhi,Janakpuri,2779,5,5,Apartment,Unfurnished,1,21,24888573
+P01529,Mumbai,Andheri,546,1,2,Apartment,Semi-Furnished,1,21,6393466
+P01530,Noida,Sector 137,2429,3,2,Apartment,Semi-Furnished,1,26,15830234
+P01531,Pune,Kharadi,2459,5,5,Apartment,Semi-Furnished,2,6,19229421
+P01532,Kolkata,New Town,2931,4,5,Apartment,Unfurnished,1,2,15237021
+P01533,Ghaziabad,Raj Nagar,3102,4,5,Apartment,Furnished,2,18,21522008
+P01534,Hyderabad,Uppal,759,1,2,Apartment,Furnished,1,13,6754526
+P01535,Kolkata,Salt Lake,3044,4,4,Independent House,Unfurnished,2,30,15836187
+P01536,Noida,Greater Noida West,3183,4,5,Apartment,Semi-Furnished,0,3,25623403
+P01537,Pune,Hinjewadi,1222,2,2,Independent House,Furnished,0,28,10443527
+P01538,Ghaziabad,Kaushambi,1238,3,4,Apartment,Semi-Furnished,1,24,7811955
+P01539,Noida,Sector 137,1649,1,1,Apartment,Semi-Furnished,1,0,10718193
+P01540,Bengaluru,HSR Layout,839,1,2,Independent House,Semi-Furnished,2,15,9242790
+P01541,Mumbai,Navi Mumbai,1831,3,2,Apartment,Semi-Furnished,1,11,31998382
+P01542,Bengaluru,Electronic City,1382,2,2,Apartment,Semi-Furnished,1,13,14478312
+P01543,Noida,Sector 150,2883,4,4,Apartment,Furnished,1,0,23565416
+P01544,Mumbai,Powai,1516,3,4,Independent House,Furnished,1,20,30466784
+P01545,Mumbai,Thane,904,1,1,Independent House,Unfurnished,1,11,16260266
+P01546,Ghaziabad,Vaishali,1844,2,3,Apartment,Furnished,2,12,11576510
+P01547,Ghaziabad,Kaushambi,3100,5,4,Apartment,Semi-Furnished,1,1,18043939
+P01548,Pune,Hadapsar,1173,2,2,Independent House,Semi-Furnished,2,26,9662659
+P01549,Kolkata,Salt Lake,2192,4,5,Apartment,Unfurnished,1,3,12150716
+P01550,Bengaluru,Electronic City,1722,3,2,Apartment,Unfurnished,1,19,16683662
+P01551,Hyderabad,Uppal,2695,3,2,Apartment,Furnished,0,0,23784797
+P01552,Bengaluru,Electronic City,1296,2,3,Apartment,Semi-Furnished,1,1,11777297
+P01553,Mumbai,Powai,2706,3,3,Apartment,Furnished,2,0,43845262
+P01554,Hyderabad,Uppal,1443,1,1,Apartment,Furnished,1,17,12598472
+P01555,Noida,Greater Noida West,3178,5,4,Apartment,Semi-Furnished,2,0,24252522
+P01556,Delhi,Laxmi Nagar,2010,3,4,Villa,Unfurnished,1,20,29224860
+P01557,Pune,Kharadi,2988,5,5,Apartment,Furnished,0,13,25794278
+P01558,Bengaluru,HSR Layout,482,2,3,Apartment,Unfurnished,1,11,4688816
+P01559,Bengaluru,Whitefield,2883,5,4,Apartment,Furnished,0,1,32085569
+P01560,Bengaluru,Whitefield,2373,4,4,Apartment,Unfurnished,1,0,22970116
+P01561,Mumbai,Navi Mumbai,3187,5,5,Apartment,Semi-Furnished,1,10,54892347
+P01562,Mumbai,Navi Mumbai,908,1,1,Apartment,Semi-Furnished,1,23,14148855
+P01563,Ghaziabad,Crossings Republik,2400,4,4,Apartment,Furnished,2,26,15320851
+P01564,Mumbai,Andheri,3195,5,5,Apartment,Unfurnished,0,22,38404781
+P01565,Delhi,Janakpuri,582,1,1,Apartment,Semi-Furnished,1,27,6021321
+P01566,Mumbai,Powai,1128,1,1,Apartment,Semi-Furnished,1,3,18481768
+P01567,Bengaluru,Yelahanka,2881,5,5,Apartment,Unfurnished,2,8,29918893
+P01568,Hyderabad,Kukatpally,1921,2,2,Independent House,Semi-Furnished,1,14,17778077
+P01569,Hyderabad,Gachibowli,1348,1,1,Independent House,Unfurnished,1,24,11182656
+P01570,Noida,Sector 137,2147,3,3,Villa,Furnished,2,29,22849405
+P01571,Pune,Kharadi,2737,4,4,Apartment,Unfurnished,0,6,24136641
+P01572,Bengaluru,Sarjapur,459,1,1,Independent House,Unfurnished,0,11,4559625
+P01573,Mumbai,Thane,2673,5,5,Villa,Unfurnished,1,23,50328181
+P01574,Kolkata,Salt Lake,2639,4,3,Apartment,Semi-Furnished,1,15,13037383
+P01575,Pune,Hinjewadi,1441,2,2,Apartment,Furnished,0,21,10224855
+P01576,Mumbai,Borivali,1221,2,2,Apartment,Furnished,1,22,15782649
+P01577,Ghaziabad,Kaushambi,932,2,3,Apartment,Furnished,2,17,6260408
+P01578,Hyderabad,Uppal,3154,4,4,Independent House,Semi-Furnished,1,22,27559549
+P01579,Kolkata,Salt Lake,2644,3,3,Independent House,Furnished,1,8,16833146
+P01580,Bengaluru,Sarjapur,2198,4,4,Independent House,Furnished,1,19,23733499
+P01581,Noida,Sector 150,2221,5,5,Apartment,Unfurnished,1,11,17346512
+P01582,Noida,Sector 150,1889,3,4,Apartment,Unfurnished,2,26,12438733
+P01583,Hyderabad,Kukatpally,2005,3,4,Independent House,Unfurnished,1,12,18562653
+P01584,Noida,Sector 75,1126,2,2,Independent House,Unfurnished,1,3,11078025
+P01585,Hyderabad,Kukatpally,2431,4,3,Apartment,Unfurnished,1,5,21331669
+P01586,Delhi,Janakpuri,1138,2,3,Apartment,Semi-Furnished,1,16,11810841
+P01587,Bengaluru,Electronic City,1251,1,1,Villa,Semi-Furnished,2,21,15202449
+P01588,Ghaziabad,Crossings Republik,1446,2,2,Apartment,Semi-Furnished,2,24,7047828
+P01589,Kolkata,Behala,2139,3,3,Villa,Unfurnished,1,16,15260134
+P01590,Noida,Sector 62,2550,3,4,Apartment,Furnished,0,29,16692789
+P01591,Mumbai,Andheri,1323,3,4,Apartment,Unfurnished,1,10,19420632
+P01592,Mumbai,Navi Mumbai,508,1,1,Independent House,Semi-Furnished,1,19,9038202
+P01593,Bengaluru,Whitefield,1593,3,3,Apartment,Unfurnished,2,14,14786424
+P01594,Bengaluru,HSR Layout,2437,4,4,Independent House,Furnished,0,2,29327758
+P01595,Delhi,Janakpuri,1645,2,2,Apartment,Semi-Furnished,1,18,17254406
+P01596,Noida,Sector 62,1657,2,3,Apartment,Furnished,1,17,11648777
+P01597,Delhi,Dwarka,574,1,2,Independent House,Unfurnished,1,17,4887291
+P01598,Noida,Sector 62,686,1,2,Apartment,Semi-Furnished,0,21,4305165
+P01599,Kolkata,Tollygunge,2082,4,4,Apartment,Semi-Furnished,2,8,11374805
+P01600,Kolkata,New Town,2316,3,2,Apartment,Unfurnished,0,23,11170667
+P01601,Delhi,Saket,2639,4,3,Apartment,Semi-Furnished,1,19,22677337
+P01602,Mumbai,Andheri,2831,4,5,Apartment,Semi-Furnished,1,4,45542865
+P01603,Kolkata,Dum Dum,642,2,3,Apartment,Unfurnished,1,6,3110658
+P01604,Mumbai,Borivali,909,1,2,Apartment,Semi-Furnished,0,9,11823180
+P01605,Bengaluru,Electronic City,1928,4,5,Villa,Furnished,2,30,25360244
+P01606,Ghaziabad,Kaushambi,678,1,1,Apartment,Unfurnished,2,15,3835248
+P01607,Noida,Sector 150,2450,4,4,Independent House,Semi-Furnished,1,17,17838512
+P01608,Pune,Hinjewadi,867,1,1,Apartment,Semi-Furnished,1,1,6887272
+P01609,Bengaluru,Whitefield,1680,3,4,Apartment,Semi-Furnished,0,9,17740790
+P01610,Hyderabad,Miyapur,780,1,1,Apartment,Unfurnished,1,0,7019874
+P01611,Mumbai,Andheri,762,2,2,Apartment,Semi-Furnished,1,23,10041169
+P01612,Hyderabad,Kondapur,1976,4,5,Apartment,Furnished,1,10,16615670
+P01613,Noida,Sector 137,744,2,3,Apartment,Semi-Furnished,1,4,5861357
+P01614,Delhi,Dwarka,855,1,1,Apartment,Unfurnished,1,20,5811402
+P01615,Ghaziabad,Indirapuram,1985,3,2,Apartment,Semi-Furnished,2,8,10989005
+P01616,Hyderabad,Miyapur,2946,5,4,Apartment,Unfurnished,1,19,21943175
+P01617,Pune,Hadapsar,1700,2,1,Independent House,Semi-Furnished,0,23,14809828
+P01618,Mumbai,Borivali,3161,5,5,Apartment,Semi-Furnished,1,22,46070656
+P01619,Bengaluru,Electronic City,1759,3,2,Independent House,Semi-Furnished,1,21,19479528
+P01620,Kolkata,Dum Dum,655,1,2,Independent House,Unfurnished,2,27,3950564
+P01621,Mumbai,Navi Mumbai,1975,3,2,Independent House,Furnished,1,10,35466769
+P01622,Bengaluru,Sarjapur,1903,3,3,Apartment,Semi-Furnished,0,2,20102100
+P01623,Mumbai,Powai,2558,4,5,Apartment,Semi-Furnished,1,18,34722673
+P01624,Mumbai,Borivali,1006,3,4,Apartment,Unfurnished,0,3,15115944
+P01625,Pune,Baner,1822,3,2,Apartment,Semi-Furnished,1,10,15901480
+P01626,Kolkata,Behala,1911,3,4,Villa,Furnished,1,1,16135807
+P01627,Noida,Sector 137,1251,2,2,Villa,Unfurnished,1,2,13656024
+P01628,Pune,Baner,2180,4,4,Villa,Unfurnished,1,23,25568254
+P01629,Bengaluru,Whitefield,2164,3,3,Apartment,Semi-Furnished,1,30,20305157
+P01630,Ghaziabad,Kaushambi,2253,4,4,Apartment,Unfurnished,1,28,12020291
+P01631,Hyderabad,Kondapur,908,2,3,Apartment,Furnished,1,11,8353464
+P01632,Mumbai,Navi Mumbai,1447,2,3,Apartment,Unfurnished,1,5,20501635
+P01633,Pune,Wakad,1244,2,2,Apartment,Unfurnished,1,4,10099062
+P01634,Delhi,Janakpuri,2447,5,5,Villa,Unfurnished,2,13,35576532
+P01635,Bengaluru,Sarjapur,3051,5,4,Independent House,Unfurnished,2,25,29479729
+P01636,Bengaluru,HSR Layout,2154,2,2,Villa,Unfurnished,2,13,26803123
+P01637,Noida,Sector 62,1294,3,3,Apartment,Furnished,2,11,10769343
+P01638,Kolkata,Salt Lake,1941,3,2,Apartment,Unfurnished,0,27,9637997
+P01639,Noida,Sector 62,954,1,1,Independent House,Unfurnished,1,0,7764656
+P01640,Mumbai,Powai,1338,2,2,Apartment,Semi-Furnished,1,11,21615198
+P01641,Bengaluru,Electronic City,1422,2,2,Apartment,Unfurnished,1,0,16088950
+P01642,Noida,Sector 75,2078,2,1,Apartment,Semi-Furnished,2,24,12917713
+P01643,Bengaluru,Sarjapur,3106,5,4,Apartment,Semi-Furnished,1,22,28886715
+P01644,Kolkata,New Town,2183,5,5,Apartment,Semi-Furnished,1,28,10039230
+P01645,Mumbai,Borivali,3117,5,5,Apartment,Unfurnished,1,6,37208590
+P01646,Kolkata,Behala,1683,3,2,Apartment,Furnished,1,26,8951998
+P01647,Kolkata,New Town,2633,4,3,Apartment,Furnished,1,14,11633256
+P01648,Mumbai,Andheri,1771,3,3,Apartment,Furnished,1,20,25504375
+P01649,Mumbai,Powai,1830,2,3,Apartment,Furnished,1,29,26901041
+P01650,Mumbai,Navi Mumbai,815,2,3,Apartment,Unfurnished,2,10,12812029
+P01651,Ghaziabad,Vaishali,1181,3,2,Apartment,Semi-Furnished,1,21,6374143
+P01652,Noida,Sector 150,2091,4,4,Apartment,Furnished,1,20,17234411
+P01653,Kolkata,Dum Dum,2711,5,4,Apartment,Semi-Furnished,1,20,14741546
+P01654,Mumbai,Powai,1042,2,3,Apartment,Furnished,1,7,19654511
+P01655,Delhi,Saket,1493,2,2,Apartment,Semi-Furnished,0,4,14888762
+P01656,Noida,Sector 62,2037,3,3,Apartment,Furnished,1,21,14164104
+P01657,Kolkata,Salt Lake,1774,2,1,Apartment,Semi-Furnished,1,4,8746002
+P01658,Ghaziabad,Vaishali,1007,1,2,Villa,Unfurnished,1,17,7336861
+P01659,Delhi,Janakpuri,1664,3,2,Apartment,Unfurnished,1,6,15331188
+P01660,Mumbai,Navi Mumbai,1299,3,2,Apartment,Furnished,1,9,22663831
+P01661,Noida,Sector 150,526,1,1,Apartment,Semi-Furnished,2,6,4706117
+P01662,Noida,Sector 75,1524,3,2,Apartment,Semi-Furnished,2,11,12115626
+P01663,Kolkata,New Town,1329,3,2,Apartment,Unfurnished,1,27,6881620
+P01664,Pune,Hadapsar,1413,2,1,Apartment,Furnished,1,13,12511648
+P01665,Pune,Baner,3058,5,5,Apartment,Semi-Furnished,1,4,27419420
+P01666,Kolkata,New Town,1740,2,1,Apartment,Semi-Furnished,1,5,7658876
+P01667,Mumbai,Andheri,1603,3,3,Independent House,Semi-Furnished,2,10,29293148
+P01668,Hyderabad,Uppal,2189,5,5,Apartment,Semi-Furnished,1,29,19624320
+P01669,Kolkata,Tollygunge,857,1,2,Apartment,Semi-Furnished,1,12,4584282
+P01670,Kolkata,Salt Lake,2782,4,5,Apartment,Semi-Furnished,1,6,13781092
+P01671,Delhi,Saket,2698,4,4,Villa,Semi-Furnished,1,12,38483533
+P01672,Hyderabad,Kondapur,3035,4,4,Apartment,Unfurnished,1,16,21071603
+P01673,Pune,Hadapsar,2617,3,4,Apartment,Semi-Furnished,0,21,20759052
+P01674,Hyderabad,Gachibowli,1797,2,2,Apartment,Unfurnished,1,16,13051826
+P01675,Pune,Hinjewadi,2286,4,3,Apartment,Unfurnished,1,10,18270254
+P01676,Delhi,Dwarka,1186,2,1,Independent House,Furnished,1,6,11877816
+P01677,Bengaluru,Electronic City,2249,3,3,Apartment,Semi-Furnished,0,18,22383395
+P01678,Pune,Wakad,2902,4,4,Apartment,Semi-Furnished,1,28,22914313
+P01679,Mumbai,Andheri,546,2,2,Apartment,Furnished,1,30,7451615
+P01680,Delhi,Dwarka,778,1,1,Apartment,Unfurnished,1,23,7179279
+P01681,Kolkata,Behala,1107,2,3,Apartment,Furnished,1,10,6442695
+P01682,Hyderabad,Uppal,1935,3,3,Independent House,Semi-Furnished,1,22,17111686
+P01683,Delhi,Rohini,1623,4,3,Apartment,Semi-Furnished,1,27,14482978
+P01684,Pune,Hadapsar,869,1,1,Independent House,Semi-Furnished,1,16,8331274
+P01685,Noida,Sector 62,2357,4,3,Apartment,Unfurnished,2,4,15259458
+P01686,Pune,Baner,2235,3,3,Apartment,Furnished,1,3,24101681
+P01687,Pune,Wakad,849,1,2,Independent House,Furnished,1,5,7971684
+P01688,Noida,Greater Noida West,2771,4,5,Apartment,Semi-Furnished,1,26,21472109
+P01689,Noida,Sector 62,2044,3,3,Independent House,Semi-Furnished,1,27,14936848
+P01690,Ghaziabad,Crossings Republik,1565,1,1,Apartment,Semi-Furnished,1,17,9011885
+P01691,Delhi,Dwarka,2191,3,2,Apartment,Unfurnished,1,7,19992715
+P01692,Delhi,Janakpuri,593,1,1,Apartment,Semi-Furnished,0,0,5616478
+P01693,Pune,Kharadi,1848,4,4,Apartment,Semi-Furnished,1,20,15259304
+P01694,Hyderabad,Kondapur,2248,3,2,Apartment,Unfurnished,1,15,18327221
+P01695,Mumbai,Thane,1167,1,1,Apartment,Unfurnished,0,16,18906955
+P01696,Pune,Wakad,3003,4,4,Apartment,Semi-Furnished,1,29,23479203
+P01697,Hyderabad,Kondapur,2854,3,2,Villa,Furnished,1,28,31156227
+P01698,Bengaluru,HSR Layout,628,1,1,Independent House,Furnished,1,20,8394516
+P01699,Bengaluru,Whitefield,1749,3,3,Apartment,Unfurnished,1,19,15740032
+P01700,Noida,Sector 75,1243,2,1,Apartment,Semi-Furnished,2,30,8082520
+P01701,Bengaluru,Whitefield,1753,2,2,Independent House,Unfurnished,1,21,18697850
+P01702,Pune,Baner,850,1,1,Apartment,Semi-Furnished,1,1,8538138
+P01703,Kolkata,Tollygunge,2741,4,3,Apartment,Furnished,1,22,16001251
+P01704,Pune,Kharadi,922,2,1,Apartment,Semi-Furnished,1,3,7928992
+P01705,Hyderabad,Kukatpally,1012,1,1,Apartment,Unfurnished,1,9,9811316
+P01706,Ghaziabad,Crossings Republik,2978,5,4,Apartment,Furnished,1,9,20725419
+P01707,Mumbai,Powai,980,1,1,Apartment,Semi-Furnished,1,3,16110767
+P01708,Bengaluru,Sarjapur,1412,3,2,Independent House,Furnished,0,22,16376421
+P01709,Ghaziabad,Crossings Republik,2179,3,4,Apartment,Semi-Furnished,1,30,11915861
+P01710,Ghaziabad,Vaishali,3020,5,5,Apartment,Semi-Furnished,1,25,16756082
+P01711,Bengaluru,Whitefield,973,1,1,Apartment,Semi-Furnished,0,30,8890173
+P01712,Delhi,Saket,1966,3,3,Independent House,Furnished,1,14,21898257
+P01713,Ghaziabad,Vaishali,1649,1,2,Apartment,Semi-Furnished,1,2,9236888
+P01714,Hyderabad,Miyapur,1757,2,3,Apartment,Furnished,1,15,14669793
+P01715,Bengaluru,Electronic City,2704,5,5,Apartment,Unfurnished,1,25,21687761
+P01716,Kolkata,New Town,861,2,1,Independent House,Semi-Furnished,1,24,5309785
+P01717,Ghaziabad,Vaishali,1428,1,1,Apartment,Semi-Furnished,2,18,7941585
+P01718,Hyderabad,Uppal,641,1,2,Apartment,Furnished,1,15,5139441
+P01719,Ghaziabad,Crossings Republik,2905,4,4,Independent House,Furnished,0,5,22850545
+P01720,Pune,Hadapsar,1754,3,3,Apartment,Furnished,1,12,15774163
+P01721,Noida,Sector 137,1582,2,3,Apartment,Semi-Furnished,1,9,11007126
+P01722,Mumbai,Powai,2038,4,3,Independent House,Semi-Furnished,1,13,41624473
+P01723,Kolkata,Tollygunge,1349,4,3,Apartment,Semi-Furnished,1,19,9075302
+P01724,Mumbai,Andheri,2901,4,5,Apartment,Unfurnished,0,18,31505205
+P01725,Noida,Sector 150,1002,2,1,Apartment,Semi-Furnished,0,28,6892501
+P01726,Noida,Greater Noida West,2365,3,4,Apartment,Furnished,2,19,16753410
+P01727,Ghaziabad,Indirapuram,2860,5,5,Independent House,Semi-Furnished,1,21,15841972
+P01728,Kolkata,New Town,861,1,1,Apartment,Unfurnished,1,4,4094118
+P01729,Noida,Sector 150,2767,4,4,Apartment,Furnished,1,16,22039471
+P01730,Kolkata,New Town,456,1,2,Apartment,Semi-Furnished,1,25,2331953
+P01731,Pune,Kharadi,3047,5,4,Independent House,Semi-Furnished,1,28,30160824
+P01732,Pune,Baner,1654,3,4,Apartment,Semi-Furnished,1,8,16026037
+P01733,Delhi,Dwarka,2551,4,5,Apartment,Semi-Furnished,1,10,23375398
+P01734,Hyderabad,Miyapur,1923,3,3,Independent House,Semi-Furnished,0,5,18809032
+P01735,Kolkata,Behala,468,1,2,Independent House,Furnished,1,10,3135348
+P01736,Hyderabad,Kukatpally,1592,2,3,Apartment,Unfurnished,2,1,13218273
+P01737,Delhi,Laxmi Nagar,1482,2,2,Apartment,Semi-Furnished,1,25,13804826
+P01738,Kolkata,Tollygunge,996,1,2,Apartment,Unfurnished,1,19,5650672
+P01739,Noida,Sector 137,3067,5,5,Villa,Unfurnished,1,3,32434269
+P01740,Ghaziabad,Vaishali,2377,4,5,Independent House,Semi-Furnished,0,5,14283831
+P01741,Noida,Sector 62,2376,3,3,Independent House,Semi-Furnished,1,7,19389436
+P01742,Pune,Kharadi,2691,4,4,Independent House,Unfurnished,0,13,26726827
+P01743,Mumbai,Powai,812,1,1,Apartment,Unfurnished,1,2,11623737
+P01744,Mumbai,Navi Mumbai,3180,4,3,Apartment,Unfurnished,0,26,44732888
+P01745,Kolkata,Salt Lake,1156,2,1,Apartment,Furnished,1,21,6901446
+P01746,Noida,Sector 62,1192,2,3,Apartment,Semi-Furnished,1,2,7967098
+P01747,Pune,Hinjewadi,530,2,2,Independent House,Unfurnished,1,30,4415888
+P01748,Hyderabad,Miyapur,1918,3,4,Apartment,Semi-Furnished,2,12,15331972
+P01749,Pune,Baner,619,1,2,Apartment,Semi-Furnished,2,6,5515272
+P01750,Noida,Sector 75,2046,2,2,Apartment,Semi-Furnished,1,16,12376251
+P01751,Hyderabad,Miyapur,597,1,1,Apartment,Unfurnished,1,23,4945558
+P01752,Mumbai,Navi Mumbai,2300,3,2,Apartment,Unfurnished,1,23,29286478
+P01753,Mumbai,Andheri,2170,3,2,Villa,Unfurnished,1,19,43281873
+P01754,Kolkata,New Town,1079,2,2,Independent House,Unfurnished,1,4,4875161
+P01755,Kolkata,Dum Dum,644,1,1,Independent House,Unfurnished,2,5,4340036
+P01756,Ghaziabad,Kaushambi,1070,1,2,Apartment,Semi-Furnished,1,6,6392853
+P01757,Kolkata,Dum Dum,2385,3,2,Independent House,Unfurnished,1,26,14082584
+P01758,Kolkata,Tollygunge,3137,5,4,Apartment,Furnished,1,9,20576925
+P01759,Pune,Hadapsar,970,1,2,Apartment,Furnished,1,18,8313567
+P01760,Bengaluru,Electronic City,984,1,2,Apartment,Unfurnished,1,7,8962540
+P01761,Hyderabad,Kukatpally,1737,4,5,Independent House,Semi-Furnished,1,0,17088489
+P01762,Kolkata,Dum Dum,866,1,2,Independent House,Unfurnished,1,17,4997514
+P01763,Delhi,Rohini,2562,4,3,Independent House,Unfurnished,1,27,25243233
+P01764,Delhi,Janakpuri,3156,5,4,Independent House,Unfurnished,0,18,33914688
+P01765,Pune,Wakad,2874,5,5,Apartment,Semi-Furnished,1,30,25590492
+P01766,Delhi,Dwarka,2379,3,4,Apartment,Unfurnished,0,3,20374869
+P01767,Kolkata,Tollygunge,2181,4,5,Apartment,Semi-Furnished,1,27,13874028
+P01768,Kolkata,Dum Dum,2475,5,4,Apartment,Unfurnished,1,17,14636548
+P01769,Bengaluru,Whitefield,2804,5,4,Villa,Semi-Furnished,1,27,33771683
+P01770,Mumbai,Andheri,2303,4,4,Apartment,Unfurnished,1,0,34575480
+P01771,Pune,Baner,2710,4,3,Independent House,Furnished,1,10,30811380
+P01772,Mumbai,Navi Mumbai,516,1,1,Apartment,Furnished,1,13,7833121
+P01773,Pune,Hadapsar,952,2,3,Apartment,Unfurnished,2,0,8650150
+P01774,Noida,Sector 62,2127,2,1,Apartment,Semi-Furnished,1,6,15778102
+P01775,Delhi,Saket,2078,4,3,Apartment,Unfurnished,2,9,20531404
+P01776,Noida,Greater Noida West,1201,1,2,Independent House,Semi-Furnished,1,9,10720732
+P01777,Bengaluru,Electronic City,2649,5,5,Apartment,Semi-Furnished,1,0,24933722
+P01778,Kolkata,Salt Lake,939,2,2,Apartment,Unfurnished,1,29,3671425
+P01779,Noida,Sector 150,2278,4,3,Apartment,Unfurnished,1,6,16767125
+P01780,Delhi,Dwarka,2746,4,3,Villa,Unfurnished,2,9,35845911
+P01781,Noida,Sector 150,1984,4,4,Apartment,Unfurnished,1,14,14617736
+P01782,Noida,Greater Noida West,2056,4,3,Apartment,Semi-Furnished,1,1,15864292
+P01783,Noida,Sector 62,2798,5,4,Apartment,Unfurnished,1,25,16362517
+P01784,Pune,Baner,798,2,1,Apartment,Semi-Furnished,1,18,7735950
+P01785,Mumbai,Borivali,1958,3,2,Apartment,Semi-Furnished,2,4,29874653
+P01786,Ghaziabad,Indirapuram,1887,4,5,Independent House,Furnished,1,5,14306003
+P01787,Pune,Kharadi,1272,2,1,Apartment,Semi-Furnished,2,19,9841173
+P01788,Ghaziabad,Kaushambi,1088,2,1,Apartment,Semi-Furnished,1,20,7002309
+P01789,Mumbai,Borivali,2577,4,4,Apartment,Unfurnished,2,9,34250389
+P01790,Ghaziabad,Indirapuram,1594,2,2,Independent House,Semi-Furnished,1,18,9446748
+P01791,Hyderabad,Gachibowli,2105,5,5,Apartment,Semi-Furnished,1,14,17220191
+P01792,Delhi,Laxmi Nagar,2952,5,4,Independent House,Furnished,1,14,35507655
+P01793,Delhi,Dwarka,2797,5,5,Apartment,Unfurnished,2,4,27227497
+P01794,Kolkata,New Town,1345,2,3,Independent House,Unfurnished,2,4,8078077
+P01795,Hyderabad,Gachibowli,1553,1,1,Independent House,Semi-Furnished,0,19,12162998
+P01796,Delhi,Saket,1485,2,3,Apartment,Unfurnished,1,22,14567593
+P01797,Delhi,Rohini,604,1,1,Independent House,Semi-Furnished,2,25,5841262
+P01798,Mumbai,Powai,2809,5,4,Apartment,Semi-Furnished,1,11,44822198
+P01799,Kolkata,Tollygunge,1638,3,3,Apartment,Semi-Furnished,0,18,9281315
+P01800,Pune,Baner,793,1,2,Apartment,Furnished,1,14,5876255

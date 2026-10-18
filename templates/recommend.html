@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}Property Recommendations | ApnaGhar{% endblock %}
+{% block content %}
+<section class="page-intro"><div class="eyebrow">SMART PROPERTY MATCHING</div><h1>Space for your<br><span>next chapter.</span></h1><p>Set your preferences and rank demo listings by budget fit and usable space.</p></section>
+<section class="panel">
+<form method="post" class="form-grid recommend-form">
+<label>Preferred city<select name="city"><option value="">Any city</option>{% for city in cities %}<option value="{{ city }}" {% if filters.city == city %}selected{% endif %}>{{ city }}</option>{% endfor %}</select></label>
+<label>Maximum budget (₹)<input name="budget" type="number" min="1" value="{{ filters.budget }}" required></label>
+<label>Minimum bedrooms<select name="bedrooms">{% for n in range(1,7) %}<option value="{{ n }}" {% if filters.bedrooms|string == n|string %}selected{% endif %}>{{ n }} BHK or more</option>{% endfor %}</select></label>
+<label>Minimum area (sq ft)<input name="min_area" type="number" min="0" value="{{ filters.min_area }}" required></label>
+<label>Property type<select name="property_type"><option value="">Any type</option>{% for x in property_types %}<option value="{{ x }}" {% if filters.property_type == x %}selected{% endif %}>{{ x }}</option>{% endfor %}</select></label>
+<div class="form-actions"><button class="button" type="submit">Find my matches ↗</button></div>
+</form>
+</section>
+{% if recommendations is not none %}
+<section class="results-head"><div><div class="eyebrow">YOUR RESULTS</div><h2>{{ recommendations|length }} matching properties</h2></div><span class="muted">Ranked by match score</span></section>
+{% if recommendations %}
+<div class="property-grid">
+{% for p in recommendations %}
+<article class="property-card"><div class="property-art"><span class="property-tag">{{ p.property_type }}</span><span class="house-icon">⌂</span></div>
+<div class="property-body"><div class="property-location">{{ p.locality }}, {{ p.city }}</div><div class="property-price">{{ money(p.price_inr) }}</div>
+<div class="property-specs"><span>{{ "{:,}".format(p.area_sqft) }} sq ft</span><span>{{ p.bedrooms }} bed</span><span>{{ p.bathrooms }} bath</span></div>
+<div class="match-row"><span>Match score</span><strong>{{ "%.0f"|format(p.match_score) }}%</strong></div><div class="score-track"><span style="width: {{ [p.match_score,100]|min }}%"></span></div>
+<div class="property-foot">{{ p.furnishing }} · {{ p.parking }} parking · {{ p.age_years }} yrs old</div></div></article>
+{% endfor %}
+</div>
+{% else %}<div class="empty-state"><h3>No properties match those filters.</h3><p>Try increasing the budget, lowering minimum area or selecting any city.</p></div>{% endif %}
+{% endif %}
+<p class="notice">These are synthetic sample listings, not active real-estate advertisements. Match score is a simple ranking heuristic, not a probability.</p>
+{% endblock %}

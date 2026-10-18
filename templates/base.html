@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}ApnaGhar | Property Intelligence{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Lato:wght@400;700;900&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='31' fill='%2314263f'/%3E%3Cpath d='M32 14 14 29h5v17h26V29h5z' fill='none' stroke='%23c9a45c' stroke-width='3' stroke-linejoin='round'/%3E%3Cpath d='M27 46V35a5 5 0 0 1 10 0v11' fill='none' stroke='%23c9a45c' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="{{ url_for('index') }}" aria-label="ApnaGhar home">
+    <span class="brand-mark">
+      <svg viewBox="0 0 64 64" width="44" height="44" role="img" aria-hidden="true">
+        <circle cx="32" cy="32" r="30" fill="#14263f" stroke="#c9a45c" stroke-width="2"/>
+        <circle cx="32" cy="32" r="25.5" fill="none" stroke="#c9a45c" stroke-width=".8" stroke-dasharray="1.5 2.5"/>
+        <path d="M32 15 15 29.5h5V47h24V29.5h5z" fill="none" stroke="#c9a45c" stroke-width="2.6" stroke-linejoin="round"/>
+        <path d="M27 47V37a5 5 0 0 1 10 0v10" fill="none" stroke="#c9a45c" stroke-width="2.6"/>
+        <circle cx="32" cy="27" r="2" fill="#c9a45c"/>
+      </svg>
+    </span>
+    <span class="brand-text"><span class="brand-name">Apna<em>Ghar</em></span><span class="brand-tag">Property Intelligence</span></span>
+  </a>
+  <nav><a href="{{ url_for('index') }}">Price Predictor</a><a href="{{ url_for('recommend') }}">Find Properties</a><a href="{{ url_for('about') }}">About</a></nav>
+</header>
+<main class="container">
+  {% with messages = get_flashed_messages() %}{% if messages %}
+    <div class="flash">{% for message in messages %}<p>{{ message }}</p>{% endfor %}</div>
+  {% endif %}{% endwith %}
+  {% block content %}{% endblock %}
+</main>
+<footer><span class="footer-orn">❖</span> ApnaGhar · House Price Prediction &amp; Property Recommendation · Academic demo</footer>
+</body></html>

@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}About | ApnaGhar{% endblock %}
+{% block content %}
+<section class="page-intro"><div class="eyebrow">PROJECT OVERVIEW</div><h1>How ApnaGhar<br><span>works.</span></h1><p>A student project demonstrating a machine-learning regression pipeline, a recommendation heuristic, a Flask web interface and database integration.</p></section>
+<section class="panel"><h2>Technology stack</h2><div class="tech-grid"><div><strong>Python + Pandas</strong><p>Data processing and validation.</p></div><div><strong>Scikit-learn</strong><p>Extra Trees regression model and evaluation metrics.</p></div><div><strong>Flask</strong><p>Prediction and recommendation web routes.</p></div><div><strong>SQLite / MySQL</strong><p>Listing storage; SQLite works by default.</p></div></div><h2>Project limitations</h2><ul class="limitations"><li>The included dataset is synthetic and only for development.</li><li>Locality effects are learned only from the sample records; new locality names may have less reliable estimates.</li><li>Recommendations use a transparent filter and ranking heuristic rather than a trained recommender.</li><li>For a real deployment, use verified listings, validate data quality, add authentication, protect secrets and deploy with a production WSGI server.</li></ul></section>
+{% endblock %}
