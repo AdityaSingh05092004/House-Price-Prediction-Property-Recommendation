@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}ApnaGhar | Property Intelligence & House Brokerage{% endblock %}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800&family=JetBrains+Mono:wght@500;600&family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%230e1724'/%3E%3Crect x='6' y='6' width='52' height='52' fill='none' stroke='%239c783e' stroke-width='2'/%3E%3Cpath d='M32 16 16 30h6v18h20V30h6z' fill='none' stroke='%239c783e' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<!-- Top Utility Masthead -->
+<div class="topbar-utility">
+  <div class="topbar-utility-inner">
+    <div class="utility-contacts">
+      <span class="utility-pill-square">OFFICIAL BROKER DESK</span>
+      <span>COVERAGE: <strong>DELHI NCR · MUMBAI · BENGALURU · HYDERABAD · PUNE · KOLKATA</strong></span>
+    </div>
+    <div class="utility-session">
+      {% if current_user %}
+        <span class="utility-badge">ADMIN AUTHENTICATED</span>
+        <span>Broker: <strong>{{ current_user }}</strong></span>
+        <a href="{{ url_for('dashboard') }}" class="utility-link">Broker Dashboard</a>
+        <a href="{{ url_for('logout') }}" class="utility-link">Sign Out</a>
+      {% else %}
+        <span>Broker Management Portal:</span>
+        <a href="{{ url_for('login') }}" class="utility-login-btn">Broker Login (Admin) →</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+<!-- Main Topbar Header -->
+<header class="topbar">
+  <div class="topbar-inner">
+    <a class="brand" href="{{ url_for('index') }}" aria-label="ApnaGhar Home">
+      <div class="brand-mark-square">
+        <span class="brand-mark-monogram">AG</span>
+      </div>
+      <div class="brand-text">
+        <span class="brand-name">Apna<em>Ghar</em></span>
+        <span class="brand-tag">Property Intelligence &amp; Brokerage</span>
+      </div>
+    </a>
+    <nav class="nav-links">
+      <a href="{{ url_for('index') }}" class="{% if request.endpoint == 'index' %}active{% endif %}">Price Predictor</a>
+      <a href="{{ url_for('recommend') }}" class="{% if request.endpoint == 'recommend' %}active{% endif %}">Find Properties</a>
+      <a href="{{ url_for('about') }}" class="{% if request.endpoint == 'about' %}active{% endif %}">About</a>
+      {% if current_user %}
+        <a href="{{ url_for('dashboard') }}" class="nav-cta-btn">Admin Dashboard</a>
+      {% else %}
+        <a href="{{ url_for('login') }}" class="nav-cta-btn">Broker Portal</a>
+      {% endif %}
+    </nav>
+  </div>
+</header>
+
+<main class="container">
+  {% with messages = get_flashed_messages(with_categories=true) %}
+    {% if messages %}
+      <div class="flash">
+        {% for category, message in messages %}
+          <div class="flash-item {{ category }}">
+            <span class="flash-indicator"></span>
+            <div class="flash-content">{{ message }}</div>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endwith %}
+
+  {% block content %}{% endblock %}
+</main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <div class="footer-logo">
+          <span class="footer-logo-mark">AG</span>
+          <strong>ApnaGhar Brokerage Desk</strong>
+        </div>
+        <p class="footer-desc">Professional real estate market valuation, property intelligence, and portfolio matching across India's premier metropolitan regions.</p>
+      </div>
+      <div class="footer-grid">
+        <div class="footer-col">
+          <div class="footer-heading">Services</div>
+          <a href="{{ url_for('index') }}">ML Price Predictor</a>
+          <a href="{{ url_for('recommend') }}">Property Recommender</a>
+          <a href="{{ url_for('about') }}">Methodology &amp; Data</a>
+        </div>
+        <div class="footer-col">
+          <div class="footer-heading">Metro Hubs</div>
+          <span>Bengaluru · Mumbai</span>
+          <span>Delhi NCR · Hyderabad</span>
+          <span>Pune · Kolkata</span>
+        </div>
+        <div class="footer-col">
+          <div class="footer-heading">Broker Gateway</div>
+          {% if current_user %}
+            <a href="{{ url_for('dashboard') }}">Dashboard Console</a>
+            <a href="{{ url_for('logout') }}">Sign Out</a>
+          {% else %}
+            <a href="{{ url_for('login') }}">Broker Admin Login</a>
+            <span class="footer-subtext">ID: Admin | Pass: Admin@1234</span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <div class="footer-disclaimer">
+        <span>❖</span> ApnaGhar · House Price Prediction &amp; Property Recommendation · Academic demo &amp; synthetic data. Not formal investment advice.
+      </div>
+      <div class="footer-copy">
+        &copy; ApnaGhar Real Estate Intelligence. All rights reserved.
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -4,3 +4,4 @@ __pycache__/
 *.py[cod]
 properties.db
 models/*.joblib
+.DS_Store

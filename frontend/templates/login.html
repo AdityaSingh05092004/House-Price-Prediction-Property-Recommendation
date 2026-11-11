@@ -1,0 +1,89 @@
+{% extends "base.html" %}
+{% block title %}Broker Portal Login | ApnaGhar{% endblock %}
+
+{% block content %}
+<div class="login-wrapper">
+  <div class="login-box">
+    <!-- Header Badge & Title -->
+    <div class="login-head">
+      <div class="eyebrow">HOUSE BROKER ACCESS</div>
+      <h1>ApnaGhar Login</h1>
+      <p>Sign in to access the broker dashboard and property listings management.</p>
+    </div>
+
+    <!-- Quick Login Card -->
+    <div class="quick-login-card">
+      <div class="quick-login-header">
+        <span class="quick-badge">DEMO ACCESS</span>
+        <span class="quick-title">One-Click Broker Authentication</span>
+      </div>
+      <p class="quick-desc">Click below to auto-fill the official broker credentials and sign in immediately:</p>
+      
+      <div class="quick-credentials-row">
+        <div class="credential-item">
+          <span class="cred-label">Broker ID</span>
+          <span class="cred-value" id="cred-user-display">Admin</span>
+        </div>
+        <div class="credential-item">
+          <span class="cred-label">Password</span>
+          <span class="cred-value" id="cred-pass-display">Admin@1234</span>
+        </div>
+      </div>
+
+      <button type="button" class="button button-accent btn-block" id="quick-login-btn" data-id="Admin" data-pass="Admin@1234">
+        ⚡ Instant Quick Login (Admin)
+      </button>
+    </div>
+
+    <div class="login-divider">
+      <span>OR SIGN IN MANUALLY</span>
+    </div>
+
+    <!-- Standard Login Form -->
+    <form method="post" action="{{ url_for('login') }}" id="login-form" class="login-form">
+      <div class="form-group">
+        <label for="username" class="field-label">Broker ID / Username</label>
+        <div class="input-container">
+          <input 
+            type="text" 
+            id="username" 
+            name="username" 
+            class="form-input" 
+            placeholder="e.g. Admin" 
+            value="{{ default_user }}" 
+            required 
+            autocomplete="username"
+          >
+        </div>
+      </div>
+
+      <div class="form-group">
+        <div class="label-row">
+          <label for="password" class="field-label">Password</label>
+          <button type="button" class="text-toggle-btn" id="toggle-password-btn" aria-label="Toggle password visibility">Show</button>
+        </div>
+        <div class="input-container">
+          <input 
+            type="password" 
+            id="password" 
+            name="password" 
+            class="form-input" 
+            placeholder="••••••••••••" 
+            value="{{ default_pass }}" 
+            required 
+            autocomplete="current-password"
+          >
+        </div>
+      </div>
+
+      <button type="submit" class="button button-dark btn-block login-submit-btn">
+        Log In ↗
+      </button>
+    </form>
+
+    <div class="login-footnote">
+      <span>🔒 Authorized real-estate brokerage session · Protected SQLite storage</span>
+    </div>
+  </div>
+</div>
+{% endblock %}
