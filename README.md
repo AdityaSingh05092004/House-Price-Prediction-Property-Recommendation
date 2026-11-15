@@ -4,7 +4,7 @@ House Price Prediction & Property Recommendation: a full-stack academic project 
  
 ## Features
 - Estimate a property's price from city, locality, area, bedrooms, bathrooms, type, furnishing, parking and age. The result is shown as a **price range** (about ±5% around the model estimate, rounded to the nearest lakh).
-- Train/evaluate an Extra Trees regression model with scikit-learn.
+- Train/evaluate a Random Forest regression model with scikit-learn.
 - Show MAE, RMSE and R² on the prediction result.
 - Recommend and rank listings by budget, city, minimum bedrooms, minimum area and property type.
 - **User accounts:** register, log in and log out (passwords are stored hashed, never in plain text).
@@ -133,7 +133,7 @@ Add `users.db`, `properties.db` and `.env` to `.gitignore` so they are not uploa
 2. Split features and target into training and test sets.
 3. Impute missing categorical/numeric values.
 4. One-hot encode categorical variables and scale numeric variables.
-5. Train `ExtraTreesRegressor`.
+5. Train `RandomForestRegressor`.
 6. Evaluate using MAE, RMSE and R².
 7. Save the fitted preprocessing + model pipeline using Joblib.
 8. Load it in Flask and predict from validated form input.
@@ -147,7 +147,7 @@ The demo recommender filters listings to the requested budget, city, bedrooms, a
 ## Suggested final-year improvements
 - Replace synthetic data with a real, legally usable dataset and document its source.
 - Add exploratory data analysis, outlier handling and baseline model comparison.
-- Compare Linear Regression, Random Forest/Extra Trees, Gradient Boosting and XGBoost (optional).
+- Compare Linear Regression, Random Forest, Extra Trees, Gradient Boosting and XGBoost (optional).
 - Add train/validation strategy and feature importance analysis.
 - Let users edit and delete their own listings, save favourite properties, and add pagination and admin controls.
 - Replace the fixed ±5% range with a data-driven interval (for example from the spread of tree predictions).
