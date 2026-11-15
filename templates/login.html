@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+{% block title %}Login | ApnaGhar{% endblock %}
+{% block content %}
+<section class="page-intro"><div class="eyebrow">WELCOME BACK</div><h1>Sign in to<br><span>your account.</span></h1><p>Log in to add new properties and prices.</p></section>
+<section class="panel auth-panel">
+<form method="post" class="form-grid">
+<label>Username<input name="username" required maxlength="50" autocomplete="username"></label>
+<label>Password<input name="password" type="password" required autocomplete="current-password"></label>
+<div class="form-actions"><button class="button" type="submit">Login ↗</button></div>
+</form>
+<p class="auth-switch">New here? <a href="{{ url_for('register') }}">Create an account</a></p>
+</section>
+{% endblock %}

@@ -3,7 +3,10 @@
 {% block content %}
 <section class="result-hero">
   <div class="eyebrow">YOUR PRICE ESTIMATE</div><h1>Estimated property value</h1>
-  <div class="price">{{ money(estimate) }}</div>
+  {% set low = ((estimate * 0.95) / 100000)|round|int * 100000 %}
+  {% set high = ((estimate * 1.05) / 100000)|round|int * 100000 %}
+  <div class="price">{{ money(low) }} – {{ money(high) }}</div>
+  <p class="range-note">Likely price range (about ±5% around the model estimate).</p>
   <p>Indicative estimate for {{ payload.bedrooms }} BHK · {{ "{:,}".format(payload.area_sqft) }} sq ft in {{ payload.locality }}, {{ payload.city }}.</p>
   <div class="result-actions"><a class="button" href="{{ url_for('index') }}">Estimate another property</a><a class="button button-light" href="{{ url_for('recommend') }}">Find matching properties</a></div>
 </section>

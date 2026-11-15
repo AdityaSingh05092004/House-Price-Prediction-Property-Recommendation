@@ -24,7 +24,7 @@
     </span>
     <span class="brand-text"><span class="brand-name">Apna<em>Ghar</em></span><span class="brand-tag">Property Intelligence</span></span>
   </a>
-  <nav><a href="{{ url_for('index') }}">Price Predictor</a><a href="{{ url_for('recommend') }}">Find Properties</a><a href="{{ url_for('about') }}">About</a></nav>
+  <nav><a href="{{ url_for('index') }}">Price Predictor</a><a href="{{ url_for('recommend') }}">Find Properties</a>{% if session.get('user') %}<a href="{{ url_for('add_property') }}">Add Property</a>{% endif %}<a href="{{ url_for('about') }}">About</a>{% if session.get('user') %}<a href="{{ url_for('logout') }}">Logout ({{ session['user'] }})</a>{% else %}<a href="{{ url_for('login') }}">Login</a>{% endif %}</nav>
 </header>
 <main class="container">
   {% with messages = get_flashed_messages() %}{% if messages %}

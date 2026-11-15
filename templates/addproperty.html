@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}Add Property | ApnaGhar{% endblock %}
+{% block content %}
+<section class="page-intro"><div class="eyebrow">NEW LISTING</div><h1>Add a<br><span>property.</span></h1><p>Enter the details and price. It will appear in Find Properties right away.</p></section>
+<section class="panel">
+<form method="post" class="form-grid">
+<label>City<input name="city" list="city-list" required maxlength="60" placeholder="e.g. Noida"><datalist id="city-list">{% for c in cities %}<option value="{{ c }}">{% endfor %}</datalist></label>
+<label>Locality<input name="locality" required maxlength="100" placeholder="e.g. Sector 62"></label>
+<label>Price (₹)<input name="price_inr" type="number" min="100000" required placeholder="e.g. 7500000"></label>
+<label>Area (sq ft)<input name="area_sqft" type="number" min="200" max="20000" required></label>
+<label>Bedrooms<select name="bedrooms">{% for n in range(1,7) %}<option {% if n == 2 %}selected{% endif %}>{{ n }}</option>{% endfor %}</select></label>
+<label>Bathrooms<select name="bathrooms">{% for n in range(1,7) %}<option {% if n == 2 %}selected{% endif %}>{{ n }}</option>{% endfor %}</select></label>
+<label>Property type<select name="property_type">{% for x in property_types %}<option>{{ x }}</option>{% endfor %}</select></label>
+<label>Furnishing<select name="furnishing">{% for x in furnishing_options %}<option>{{ x }}</option>{% endfor %}</select></label>
+<label>Parking spaces<select name="parking">{% for n in range(0,4) %}<option>{{ n }}</option>{% endfor %}</select></label>
+<label>Property age (years)<input name="age_years" type="number" min="0" max="100" value="5" required></label>
+<div class="form-actions"><button class="button" type="submit">Save property ↗</button><span class="muted">Saved to the listings database.</span></div>
+</form>
+</section>
+{% endblock %}

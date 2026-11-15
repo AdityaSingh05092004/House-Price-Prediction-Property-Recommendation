@@ -92,3 +92,31 @@ def load_properties():
             conn.close()
     with sqlite3.connect(_sqlite_path()) as conn:
         return pd.read_sql_query("SELECT * FROM properties", conn)
+
+
+PROPERTY_COLUMNS = ["property_id", "city", "locality", "area_sqft", "bedrooms", "bathrooms",
+                    "property_type", "furnishing", "parking", "age_years", "price_inr"]
+
+def insert_property(p):
+    """Add one user-submitted property. `p` is a dict with the columns above
+    (property_id is generated here if missing)."""
+    import uuid
+    init_db()
+    row = dict(p)
+    row.setdefault("property_id", "U" + uuid.uuid4().hex[:8].upper())
+    values = tuple(row[c] for c in PROPERTY_COLUMNS)
+    if DATABASE_URL == "mysql":
+        conn = get_mysql_connection()
+        try:
+            with conn.cursor() as cur:
+                cur.execute(
+                    "INSERT INTO properties (" + ",".join(PROPERTY_COLUMNS) + ") "
+                    "VALUES (" + ",".join(["%s"] * len(PROPERTY_COLUMNS)) + ")", values)
+        finally:
+            conn.close()
+    else:
+        with sqlite3.connect(_sqlite_path()) as conn:
+            conn.execute(
+                "INSERT INTO properties (" + ",".join(PROPERTY_COLUMNS) + ") "
+                "VALUES (" + ",".join(["?"] * len(PROPERTY_COLUMNS)) + ")", values)
+            conn.commit()

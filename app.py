@@ -4,7 +4,8 @@ import joblib
 import pandas as pd
 from flask import Flask, render_template, request, flash
 from dotenv import load_dotenv
-from db import load_properties
+from db import load_properties, insert_property
+from auth_routes import register_auth_routes
 
 load_dotenv()
 ROOT = Path(__file__).resolve().parent
@@ -106,6 +107,13 @@ def recommend():
     return render_template("recommend.html", cities=CITIES, property_types=PROPERTY_TYPES,
                            filters=filters, recommendations=recommendations,
                            property_count=len(props))
+
+register_auth_routes(
+    app,
+    str(ROOT / "users.db"),
+    lambda: (CITIES, PROPERTY_TYPES, FURNISHING),
+    insert_property,
+)
 
 @app.route("/about")
 def about():
