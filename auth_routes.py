@@ -1,4 +1,4 @@
-"""Login + add-property routes for ApnaGhar.
+"""Login + add-property routes for GrihaMool.
 
 Users live in their own small SQLite file (db_path). New properties are
 saved through the insert_property(dict) callback, which should write to the

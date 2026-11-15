@@ -1,4 +1,4 @@
-# ApnaGhar — House Price Prediction & Property Recommendation
+# GrihaMool — House Price Prediction & Property Recommendation
 
 A full-stack academic project demonstrating house-price regression, preference-based property recommendations, a Flask UI, and SQLite/MySQL storage.
 

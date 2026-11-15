@@ -16,7 +16,7 @@ h1,h2,h3{font-family:var(--serif);font-weight:600;color:var(--navy)}
 .brand-text{display:flex;flex-direction:column;line-height:1}
 .brand-name{font-family:var(--serif);font-size:30px;font-weight:700;color:#fff;letter-spacing:.5px}
 .brand-name em{color:var(--gold-lt);font-style:italic;font-weight:600}
-.brand-tag{font-size:9px;letter-spacing:3.5px;text-transform:uppercase;color:var(--gold-lt);margin-top:5px}
+.brand-tag{font-size:10px;letter-spacing:2px;text-transform:uppercase;color:var(--gold-lt);margin-top:6px;display:block}
 .topbar nav{display:flex;gap:34px}
 .topbar nav a{color:#e9e2cf;text-decoration:none;font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;padding:6px 0;border-bottom:1px solid transparent;transition:.2s}
 .topbar nav a:hover{color:var(--gold-lt);border-bottom-color:var(--gold-lt)}

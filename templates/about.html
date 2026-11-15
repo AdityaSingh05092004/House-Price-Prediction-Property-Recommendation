@@ -1,12 +1,24 @@
 {% extends "base.html" %}
-{% block title %}About | ApnaGhar{% endblock %}
+{% block title %}About | GrihaMool{% endblock %}
 {% block content %}
-<section class="page-intro"><div class="eyebrow">PROJECT OVERVIEW</div><h1>How ApnaGhar<br><span>works.</span></h1><p>A student project demonstrating a machine-learning regression pipeline, a recommendation heuristic, a Flask web interface and database integration.</p></section>
-<section class="panel"><h2>Technology stack</h2><div class="tech-grid"><div><strong>Python + Pandas</strong><p>Data processing and validation.</p></div><div><strong>Scikit-learn</strong><p>Extra Trees regression model and evaluation metrics.</p></div><div><strong>Flask</strong><p>Prediction and recommendation web routes.</p></div><div><strong>SQLite / MySQL</strong><p>Listing storage; SQLite works by default.</p></div></div><h2>Project limitations</h2><ul class="limitations"><li>The included dataset is synthetic and only for development.</li><li>Locality effects are learned only from the sample records; new locality names may have less reliable estimates.</li><li>Recommendations use a transparent filter and ranking heuristic rather than a trained recommender.</li><li>For a real deployment, use verified listings, validate data quality, add authentication, protect secrets and deploy with a production WSGI server.</li></ul></section>
-{% endblock %}
-{% extends "base.html" %}
-{% block title %}About | ApnaGhar{% endblock %}
-{% block content %}
-<section class="page-intro"><div class="eyebrow">PROJECT OVERVIEW</div><h1>How ApnaGhar<br><span>works.</span></h1><p>A student project demonstrating a machine-learning regression pipeline, a recommendation heuristic, a Flask web interface and database integration.</p></section>
-<section class="panel"><h2>Technology stack</h2><div class="tech-grid"><div><strong>Python + Pandas</strong><p>Data processing and validation.</p></div><div><strong>Scikit-learn</strong><p>Extra Trees regression model and evaluation metrics.</p></div><div><strong>Flask</strong><p>Prediction and recommendation web routes.</p></div><div><strong>SQLite / MySQL</strong><p>Listing storage; SQLite works by default.</p></div></div><h2>Project limitations</h2><ul class="limitations"><li>The included dataset is synthetic and only for development.</li><li>Locality effects are learned only from the sample records; new locality names may have less reliable estimates.</li><li>Recommendations use a transparent filter and ranking heuristic rather than a trained recommender.</li><li>For a real deployment, use verified listings, validate data quality, add authentication, protect secrets and deploy with a production WSGI server.</li></ul></section>
+<section class="page-intro"><div class="eyebrow">ABOUT US</div><h1>GrihaMool<br><span>Har Ghar Ki Sahi Keemat.</span></h1><p>GrihaMool helps you understand what a home is really worth and find properties that fit your budget, in cities across India.</p></section>
+
+<section class="panel">
+<h2>What you can do here</h2>
+<div class="tech-grid">
+<div><strong>Know the price</strong><p>Enter a property's city, locality, size and other details to get a likely price range.</p></div>
+<div><strong>Find your match</strong><p>Set your budget, bedrooms, area and property type, and see the best-fitting listings first.</p></div>
+<div><strong>List a property</strong><p>Create a free account to add a property with its price so others can find it.</p></div>
+<div><strong>Cities covered</strong><p>Bengaluru, Delhi, Ghaziabad, Hyderabad, Kolkata, Mumbai, Noida and Pune.</p></div>
+</div>
+
+<h2>How it works</h2>
+<ul class="limitations">
+<li><strong>Estimate:</strong> go to Price Predictor, fill in the property details and get a price range in seconds.</li>
+<li><strong>Search:</strong> go to Find Properties, set what you need, and each result shows a match score based on your budget and space needs.</li>
+<li><strong>Add:</strong> register or log in, open Add Property, enter the details and price, and your listing appears in search results.</li>
+</ul>
+
+<p class="notice">Please note: the listings and prices on GrihaMool are sample data for demonstration. Estimates are indicative only and are not a formal valuation, so please don't use them alone for buying, selling, loan or investment decisions.</p>
+</section>
 {% endblock %}
